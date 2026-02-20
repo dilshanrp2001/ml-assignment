@@ -1,0 +1,55 @@
+# ──────────────────────────────────────────────
+#  .gitignore — Sri Lanka Rice Price ML Project
+# ──────────────────────────────────────────────
+
+# ── Python ──────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+
+# ── Virtual Environments ─────────────────────────
+venv/
+.venv/
+env/
+ENV/
+.env
+
+# ── Jupyter Notebooks checkpoints ────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── IDE / Editor ─────────────────────────────────
+.vscode/
+.idea/
+*.code-workspace
+*.suo
+*.user
+.DS_Store
+Thumbs.db
+
+# ── ML / Data Science ────────────────────────────
+# Large raw data files — describe how to obtain in README instead
+data/raw/wfp_food_prices_lka.csv
+
+# Trained model binaries (can be large; regenerate with 4_train_model.py)
+outputs/models/*.pkl
+outputs/models/*.joblib
+outputs/models/*.h5
+
+# ── Outputs — keep plots & evaluation CSVs ───────
+# (We DO commit the PNG charts and CSV metrics)
+# Uncomment the lines below if you want to exclude them too:
+# outputs/eda/
+# outputs/evaluation/
+# outputs/explainability/
+
+# ── OS / Misc ────────────────────────────────────
+*.log
+*.tmp
+*.bak
+*.swp
+~$*
+desktop.ini

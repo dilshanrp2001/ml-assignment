@@ -1,0 +1,5 @@
+Model,RMSE,MAE,R2,MAPE_%
+Linear Regression,7.5,4.03,0.9903,2.33
+Decision Tree,9.87,3.73,0.9832,2.58
+Random Forest,8.38,2.25,0.9879,1.33
+XGBoost,2.76,1.47,0.9987,1.01

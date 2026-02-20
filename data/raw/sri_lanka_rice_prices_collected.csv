@@ -1,0 +1,2380 @@
+Date,Province,District,Market,Rice_Variety,Price_Type,Currency,Price_LKR_per_KG,Price_USD_per_KG
+2004-02-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,33.62,0.34
+2004-03-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,32.92,0.34
+2004-05-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,34.1,0.35
+2004-06-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,33.74,0.33
+2004-07-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,34.93,0.34
+2004-08-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,34.78,0.34
+2004-09-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,37.14,0.36
+2004-10-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,37.36,0.36
+2004-11-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,52.5,0.5
+2004-11-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,32.0,0.31
+2004-11-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,113.75,1.09
+2004-11-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,32.0,0.31
+2004-11-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,42.75,0.41
+2004-11-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,33.5,0.32
+2004-11-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,42.5,0.41
+2004-12-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,63.5,0.6
+2004-12-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,30.0,0.28
+2004-12-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,55.0,0.52
+2004-12-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,32.0,0.3
+2004-12-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,56.0,0.53
+2005-02-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,36.25,0.37
+2005-03-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,33.99,0.34
+2005-04-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,32.25,0.32
+2005-05-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,31.66,0.32
+2005-06-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,31.32,0.31
+2005-07-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,30.47,0.3
+2005-08-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,29.47,0.29
+2005-10-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,30.83,0.3
+2006-01-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,35.23,0.35
+2006-02-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,27.0,0.26
+2006-02-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,30.0,0.29
+2006-02-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,32.0,0.31
+2006-02-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,28.0,0.27
+2006-02-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,33.08,0.32
+2006-03-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,23.5,0.23
+2006-03-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,26.8,0.26
+2006-03-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,30.0,0.29
+2006-03-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,28.5,0.28
+2006-03-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,27.5,0.27
+2006-03-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,29.5,0.29
+2006-03-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,31.0,0.3
+2006-04-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,27.5,0.27
+2006-04-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,36.66,0.36
+2006-04-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,34.0,0.33
+2006-04-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,28.5,0.28
+2006-04-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,33.0,0.32
+2006-04-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,30.46,0.3
+2006-05-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,25.0,0.24
+2006-05-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,36.16,0.35
+2006-05-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,29.6,0.29
+2006-05-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,30.0,0.29
+2006-05-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,28.0,0.27
+2006-05-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,29.5,0.29
+2006-05-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,30.77,0.3
+2006-06-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,34.66,0.33
+2006-06-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,30.5,0.29
+2006-06-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,31.0,0.3
+2006-06-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,29.0,0.28
+2006-06-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,30.0,0.29
+2006-06-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,30.53,0.29
+2006-07-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,22.5,0.22
+2006-07-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,30.62,0.29
+2006-07-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,35.0,0.34
+2006-07-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,31.5,0.3
+2006-07-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,30.5,0.29
+2006-07-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,30.0,0.29
+2006-07-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,31.07,0.3
+2006-07-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,30.25,0.29
+2006-08-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,33.66,0.32
+2006-08-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,30.75,0.3
+2006-08-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,41.0,0.39
+2006-08-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,31.5,0.3
+2006-08-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,31.5,0.3
+2006-08-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,30.86,0.3
+2006-09-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,31.0,0.3
+2006-09-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,35.25,0.34
+2006-09-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,32.5,0.32
+2006-09-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,35.5,0.35
+2006-09-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,33.0,0.32
+2006-09-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,31.05,0.3
+2006-09-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,29.92,0.29
+2006-10-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,22.5,0.21
+2006-10-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,27.0,0.25
+2006-10-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,36.0,0.34
+2006-10-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,183.0,1.72
+2006-10-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,31.0,0.29
+2006-10-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,31.75,0.3
+2006-10-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,29.66,0.28
+2006-11-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,28.25,0.26
+2006-11-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,33.0,0.3
+2006-11-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,170.0,1.57
+2006-11-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,35.0,0.32
+2006-11-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,39.5,0.36
+2006-11-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,39.23,0.36
+2006-11-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,31.78,0.29
+2006-12-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,34.32,0.32
+2007-01-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,33.5,0.31
+2007-01-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,42.5,0.39
+2007-01-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,32.8,0.3
+2007-01-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,30.0,0.28
+2007-01-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,43.0,0.4
+2007-01-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,30.5,0.28
+2007-01-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,42.5,0.39
+2007-01-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,37.48,0.35
+2007-01-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,34.5,0.32
+2007-02-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,33.5,0.31
+2007-02-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,43.0,0.4
+2007-02-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,92.5,0.85
+2007-02-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,42.5,0.39
+2007-02-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,38.59,0.36
+2007-02-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,36.38,0.33
+2007-03-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,36.0,0.33
+2007-03-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,26.5,0.24
+2007-03-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,36.86,0.34
+2007-04-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,35.0,0.32
+2007-04-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,40.25,0.37
+2007-04-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,65.0,0.6
+2007-04-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,28.0,0.26
+2007-04-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,41.0,0.38
+2007-04-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,26.0,0.24
+2007-04-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,40.0,0.37
+2007-04-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,35.12,0.32
+2007-04-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,32.83,0.3
+2007-05-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,41.0,0.37
+2007-05-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,42.5,0.38
+2007-05-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,76.0,0.69
+2007-05-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,26.0,0.23
+2007-05-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,22.0,0.2
+2007-05-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,42.5,0.38
+2007-05-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,36.34,0.33
+2007-06-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,37.5,0.34
+2007-06-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,41.0,0.37
+2007-06-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,77.0,0.69
+2007-06-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,43.5,0.39
+2007-06-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,43.0,0.39
+2007-06-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,37.51,0.34
+2007-07-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,38.5,0.34
+2007-07-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,41.5,0.37
+2007-07-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,47.0,0.42
+2007-07-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,67.5,0.6
+2007-07-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,25.0,0.22
+2007-07-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,43.5,0.39
+2007-07-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,23.5,0.21
+2007-07-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,43.5,0.39
+2007-07-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,36.36,0.33
+2007-08-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,33.5,0.3
+2007-08-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,40.0,0.36
+2007-08-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,115.0,1.03
+2007-08-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,26.0,0.23
+2007-08-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,44.0,0.39
+2007-08-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,45.0,0.4
+2007-08-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,38.7,0.35
+2007-08-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,37.1,0.33
+2007-09-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,38.0,0.34
+2007-09-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,43.5,0.38
+2007-09-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,92.5,0.82
+2007-09-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,48.5,0.43
+2007-09-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,28.5,0.25
+2007-09-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,49.0,0.43
+2007-10-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,40.5,0.36
+2007-10-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,38.5,0.34
+2007-10-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,30.0,0.26
+2007-10-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,51.0,0.45
+2007-10-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,29.0,0.26
+2007-10-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,52.0,0.46
+2007-10-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,42.06,0.37
+2007-10-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,37.88,0.33
+2007-11-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,48.0,0.43
+2007-11-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,60.0,0.54
+2007-11-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,46.5,0.42
+2007-11-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,95.0,0.86
+2007-11-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,30.0,0.27
+2007-11-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,53.5,0.48
+2007-11-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,30.0,0.27
+2007-11-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,53.98,0.49
+2007-11-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,47.5,0.43
+2008-01-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,70.0,0.65
+2008-01-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,75.0,0.69
+2008-01-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,32.0,0.3
+2008-01-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,62.5,0.58
+2008-01-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,60.5,0.56
+2008-01-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,65.0,0.6
+2008-01-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,57.41,0.53
+2008-02-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,64.5,0.6
+2008-02-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,67.0,0.62
+2008-02-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,75.0,0.7
+2008-02-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,34.0,0.32
+2008-02-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,59.0,0.55
+2008-02-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,65.0,0.6
+2008-02-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,62.73,0.58
+2008-03-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,76.0,0.71
+2008-03-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,34.0,0.32
+2008-03-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,61.0,0.57
+2008-03-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,60.0,0.56
+2008-03-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,67.0,0.62
+2008-03-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,62.73,0.58
+2008-04-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,63.5,0.59
+2008-04-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,88.0,0.82
+2008-04-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,68.0,0.63
+2008-04-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,86.0,0.8
+2008-04-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,34.0,0.32
+2008-04-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,33.0,0.31
+2008-04-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,65.81,0.61
+2008-05-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,65.0,0.6
+2008-05-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,67.0,0.62
+2008-05-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,67.0,0.62
+2008-05-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,95.0,0.88
+2008-05-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,66.5,0.62
+2008-05-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,35.0,0.32
+2008-05-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,66.5,0.62
+2008-05-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,66.5,0.62
+2008-05-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,65.0,0.6
+2008-06-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,68.0,0.63
+2008-06-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,70.0,0.65
+2008-06-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,100.0,0.93
+2008-06-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,38.0,0.35
+2008-06-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,65.0,0.6
+2008-06-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,39.0,0.36
+2008-06-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,67.0,0.62
+2008-06-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,66.05,0.61
+2008-07-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,70.0,0.65
+2008-07-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,100.0,0.93
+2008-07-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,40.0,0.37
+2008-07-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,65.0,0.6
+2008-07-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,39.0,0.36
+2008-07-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,66.5,0.62
+2008-08-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,62.5,0.58
+2008-08-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,58.0,0.54
+2008-08-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,64.5,0.6
+2008-08-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,117.5,1.09
+2008-08-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,40.0,0.37
+2008-08-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,63.5,0.59
+2008-08-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,62.22,0.58
+2008-10-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,61.55,0.57
+2008-11-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,61.69,0.56
+2008-12-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,63.94,0.57
+2009-01-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,58.5,0.51
+2009-01-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,69.5,0.61
+2009-01-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,127.92,1.12
+2009-01-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,72.0,0.63
+2009-01-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,68.33,0.6
+2009-01-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,64.62,0.57
+2009-02-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,73.58,0.65
+2009-02-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,85.0,0.75
+2009-02-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,122.78,1.08
+2009-02-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,74.0,0.65
+2009-02-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,69.54,0.61
+2009-02-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,65.0,0.57
+2009-03-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,75.0,0.66
+2009-03-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,79.67,0.7
+2009-03-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,67.08,0.59
+2009-03-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,61.01,0.53
+2009-04-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,69.59,0.6
+2009-04-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,80.0,0.69
+2009-04-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,113.75,0.98
+2009-04-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,57.72,0.5
+2009-04-15,,,National Average,Rice (long grain),Retail,LKR,60.23,0.52
+2009-05-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,68.33,0.58
+2009-05-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,75.0,0.64
+2009-05-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,68.34,0.58
+2009-06-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,68.75,0.6
+2009-06-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,114.17,0.99
+2009-06-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,80.0,0.7
+2009-06-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,78.17,0.68
+2009-06-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,62.11,0.54
+2009-06-15,,,National Average,Rice (long grain),Retail,LKR,60.04,0.52
+2009-07-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,79.5,0.7
+2009-07-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,70.33,0.62
+2009-07-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,60.92,0.53
+2009-08-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,73.33,0.64
+2009-08-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,82.46,0.72
+2009-08-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,108.33,0.95
+2009-08-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,80.0,0.7
+2009-08-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,80.16,0.7
+2009-08-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,61.11,0.53
+2009-08-15,,,National Average,Rice (long grain),Retail,LKR,60.1,0.52
+2009-09-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,75.0,0.65
+2009-09-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,82.0,0.71
+2009-09-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,101.67,0.89
+2009-09-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,80.0,0.7
+2009-09-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,78.08,0.68
+2009-09-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,65.89,0.57
+2009-09-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,60.55,0.53
+2009-09-15,,,National Average,Rice (long grain),Retail,LKR,59.97,0.52
+2009-10-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,81.5,0.71
+2009-10-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,105.0,0.91
+2009-10-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,74.08,0.65
+2009-10-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,61.52,0.54
+2009-10-15,,,National Average,Rice (long grain),Retail,LKR,60.61,0.53
+2009-11-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,82.42,0.72
+2009-11-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,99.58,0.87
+2009-11-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,79.83,0.7
+2009-11-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,62.56,0.55
+2009-11-15,,,National Average,Rice (long grain),Retail,LKR,61.44,0.54
+2009-12-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,67.08,0.59
+2009-12-15,,,National Average,Rice (long grain),Retail,LKR,62.65,0.55
+2010-01-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,84.67,0.74
+2010-01-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,80.08,0.7
+2010-01-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,65.93,0.58
+2010-01-15,,,National Average,Rice (long grain),Retail,LKR,60.73,0.53
+2010-02-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,60.0,0.52
+2010-02-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,70.42,0.62
+2010-02-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,85.42,0.75
+2010-02-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,92.22,0.81
+2010-02-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,85.83,0.75
+2010-02-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,69.42,0.61
+2010-02-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,62.2,0.54
+2010-02-15,,,National Average,Rice (long grain),Retail,LKR,60.0,0.52
+2010-03-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,70.0,0.61
+2010-03-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,81.84,0.72
+2010-03-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,60.42,0.53
+2010-03-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,52.77,0.46
+2010-03-15,,,National Average,Rice (long grain),Retail,LKR,60.12,0.53
+2010-04-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,60.0,0.53
+2010-04-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,63.0,0.55
+2010-04-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,72.78,0.64
+2010-04-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,52.09,0.46
+2010-04-15,,,National Average,Rice (long grain),Retail,LKR,60.23,0.53
+2010-05-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,59.5,0.52
+2010-05-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,62.5,0.55
+2010-05-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,63.75,0.56
+2010-05-15,,,National Average,Rice (long grain),Retail,LKR,60.5,0.53
+2010-06-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,59.83,0.53
+2010-06-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,59.33,0.52
+2010-06-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,63.33,0.56
+2010-06-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,67.75,0.6
+2010-06-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,64.83,0.57
+2010-06-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,51.84,0.46
+2010-06-15,,,National Average,Rice (long grain),Retail,LKR,60.04,0.53
+2010-07-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,48.33,0.43
+2010-07-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,50.5,0.45
+2010-08-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,46.0,0.41
+2010-08-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,58.33,0.52
+2010-08-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,61.25,0.55
+2010-08-15,,,National Average,Rice (long grain),Retail,LKR,60.1,0.53
+2010-09-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,50.0,0.44
+2010-09-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,58.5,0.52
+2010-09-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,55.0,0.49
+2010-09-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,59.33,0.53
+2010-09-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,57.5,0.51
+2010-09-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,48.45,0.43
+2010-09-15,,,National Average,Rice (long grain),Retail,LKR,59.97,0.53
+2010-10-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,50.0,0.45
+2010-10-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,60.5,0.54
+2010-10-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,60.25,0.54
+2010-10-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,60.92,0.55
+2010-10-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,62.42,0.56
+2010-10-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,53.3,0.48
+2010-10-15,,,National Average,Rice (long grain),Retail,LKR,60.61,0.54
+2010-11-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,54.0,0.48
+2010-11-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,57.84,0.52
+2010-11-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,61.25,0.55
+2010-11-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,61.25,0.55
+2010-11-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,67.25,0.6
+2010-11-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,56.62,0.51
+2010-11-15,,,National Average,Rice (long grain),Retail,LKR,61.44,0.55
+2010-12-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,54.0,0.49
+2010-12-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,67.92,0.61
+2010-12-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,67.0,0.6
+2010-12-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,57.89,0.52
+2011-01-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,65.0,0.59
+2011-01-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,62.13,0.56
+2011-01-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,61.66,0.56
+2011-01-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,65.0,0.59
+2011-01-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,56.52,0.51
+2011-01-15,,,National Average,Rice (long grain),Retail,LKR,60.73,0.55
+2011-02-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,65.0,0.59
+2011-02-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,74.38,0.67
+2011-02-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,74.38,0.67
+2011-02-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,79.41,0.72
+2011-02-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,61.25,0.55
+2011-02-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,61.19,0.55
+2011-02-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,59.18,0.53
+2011-02-15,,,National Average,Rice (long grain),Retail,LKR,60.0,0.54
+2011-03-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,68.33,0.62
+2011-03-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,73.92,0.67
+2011-03-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,63.25,0.57
+2011-03-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,60.0,0.54
+2011-03-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,63.13,0.57
+2011-03-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,59.23,0.54
+2011-04-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,68.33,0.62
+2011-04-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,60.0,0.54
+2011-04-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,60.0,0.54
+2011-04-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,61.22,0.55
+2011-04-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,58.09,0.53
+2011-04-15,,,National Average,Rice (long grain),Retail,LKR,60.23,0.55
+2011-05-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,83.92,0.76
+2011-05-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,68.22,0.62
+2011-05-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,61.22,0.56
+2011-05-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,61.78,0.56
+2011-05-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,58.24,0.53
+2011-06-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,62.0,0.57
+2011-06-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,57.83,0.53
+2011-06-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,60.0,0.55
+2011-06-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,60.0,0.55
+2011-06-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,61.74,0.56
+2011-06-15,,,National Average,Rice (long grain),Retail,LKR,60.04,0.55
+2011-07-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,61.0,0.56
+2011-07-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,58.17,0.53
+2011-07-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,60.0,0.55
+2011-07-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,60.0,0.55
+2011-07-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,61.33,0.56
+2011-07-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,59.85,0.55
+2011-07-15,,,National Average,Rice (long grain),Retail,LKR,60.24,0.55
+2011-08-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,59.67,0.55
+2011-08-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,62.56,0.57
+2011-08-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,60.0,0.55
+2011-08-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,60.0,0.55
+2011-08-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,58.88,0.54
+2011-08-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,54.91,0.5
+2011-08-15,,,National Average,Rice (long grain),Retail,LKR,60.1,0.55
+2011-09-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,59.83,0.54
+2011-09-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,60.67,0.55
+2011-09-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,52.0,0.47
+2011-09-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,60.0,0.55
+2011-09-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,56.0,0.51
+2011-09-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,60.0,0.55
+2011-09-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,58.9,0.54
+2011-09-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,52.16,0.47
+2011-09-15,,,National Average,Rice (long grain),Retail,LKR,59.97,0.54
+2011-10-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,54.67,0.5
+2011-10-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,60.63,0.55
+2011-10-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,59.42,0.54
+2011-10-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,59.87,0.54
+2011-10-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,54.27,0.49
+2011-11-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,60.0,0.54
+2011-11-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,63.83,0.58
+2011-11-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,61.92,0.56
+2011-11-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,61.88,0.56
+2011-11-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,61.25,0.56
+2011-11-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,56.0,0.51
+2011-11-15,,,National Average,Rice (long grain),Retail,LKR,61.44,0.56
+2011-12-15,Eastern,Ampara,Ampara,Rice (red nadu),Retail,LKR,60.0,0.53
+2011-12-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,67.25,0.59
+2011-12-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,66.22,0.58
+2011-12-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,60.0,0.53
+2011-12-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,61.0,0.54
+2011-12-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,62.5,0.55
+2011-12-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,62.31,0.55
+2011-12-15,,,National Average,Rice (long grain),Retail,LKR,62.65,0.55
+2012-01-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,68.0,0.6
+2012-01-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,65.5,0.58
+2012-01-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,60.0,0.53
+2012-01-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,66.66,0.59
+2012-01-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,66.42,0.58
+2012-01-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,60.91,0.54
+2012-01-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,57.95,0.51
+2012-01-15,,,National Average,Rice (long grain),Retail,LKR,60.73,0.53
+2012-02-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,61.88,0.52
+2012-02-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,60.0,0.5
+2012-02-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,59.83,0.5
+2012-02-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,65.0,0.55
+2012-02-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,62.06,0.52
+2012-02-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,55.49,0.47
+2012-03-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,68.59,0.55
+2012-03-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,60.0,0.48
+2012-03-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,60.0,0.48
+2012-03-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,58.0,0.46
+2012-03-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,54.24,0.43
+2012-03-15,,,National Average,Rice (long grain),Retail,LKR,60.12,0.48
+2012-04-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,62.56,0.49
+2012-04-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,60.0,0.47
+2012-04-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,52.58,0.41
+2012-04-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,57.67,0.45
+2012-04-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,64.67,0.51
+2012-04-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,51.87,0.41
+2012-04-15,,,National Average,Rice (long grain),Retail,LKR,60.23,0.47
+2012-05-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,64.83,0.5
+2012-05-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,69.17,0.54
+2012-05-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,50.91,0.4
+2012-05-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,59.73,0.46
+2012-05-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,59.81,0.46
+2012-05-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,51.87,0.4
+2012-05-15,,,National Average,Rice (long grain),Retail,LKR,60.5,0.47
+2012-06-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,64.75,0.49
+2012-06-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,69.33,0.53
+2012-06-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,59.13,0.45
+2012-06-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,56.25,0.43
+2012-06-15,Northern,Vavuniya,Vavuniya,Rice (red nadu),Retail,LKR,59.83,0.45
+2012-06-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,60.58,0.46
+2012-06-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,52.42,0.4
+2012-06-15,,,National Average,Rice (long grain),Retail,LKR,60.04,0.46
+2012-07-15,Eastern,Batticaloa,Batticaloa,Rice (red nadu),Retail,LKR,65.0,0.49
+2012-07-15,Eastern,Trincomalee,Trincomalee,Rice (red nadu),Retail,LKR,69.4,0.52
+2012-07-15,Northern,Jaffna,Jaffna,Rice (red nadu),Retail,LKR,59.3,0.44
+2012-07-15,Northern,Kilinochchi,Kilinochchi,Rice (red nadu),Retail,LKR,50.0,0.37
+2012-07-15,Northern,Mannar,Mannar,Rice (red nadu),Retail,LKR,60.0,0.45
+2012-07-15,Northern,Mullattivu,Mulaitivu,Rice (red nadu),Retail,LKR,57.5,0.43
+2012-07-15,Western,Colombo,Colombo City,Rice (red nadu),Retail,LKR,60.37,0.45
+2012-07-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,56.89,0.43
+2012-09-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,58.37,0.44
+2012-10-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,59.22,0.46
+2012-10-15,,,National Average,Rice (long grain),Retail,LKR,60.61,0.47
+2012-11-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,59.82,0.46
+2012-11-15,,,National Average,Rice (long grain),Retail,LKR,61.44,0.47
+2012-11-15,,,National Average,Rice (red nadu),Retail,LKR,63.6,0.49
+2012-12-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,60.58,0.47
+2013-01-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,60.98,0.48
+2013-02-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,60.46,0.48
+2013-03-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,58.91,0.47
+2013-03-15,,,National Average,Rice (long grain),Retail,LKR,60.12,0.48
+2013-03-15,,,National Average,Rice (red nadu),Retail,LKR,62.0,0.49
+2013-04-15,,,National Average,Rice (red nadu),Retail,LKR,63.9,0.51
+2013-06-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,59.52,0.46
+2013-06-15,,,National Average,Rice (long grain),Retail,LKR,60.04,0.47
+2013-06-15,,,National Average,Rice (red nadu),Retail,LKR,60.95,0.47
+2013-07-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,58.88,0.45
+2013-07-15,,,National Average,Rice (long grain),Retail,LKR,60.24,0.46
+2013-07-15,,,National Average,Rice (red nadu),Retail,LKR,61.3,0.47
+2013-08-15,,,National Average,Rice (long grain),Retail,LKR,60.1,0.46
+2013-09-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,57.85,0.44
+2013-09-15,,,National Average,Rice (long grain),Retail,LKR,59.97,0.45
+2013-09-15,,,National Average,Rice (red nadu),Retail,LKR,62.5,0.47
+2013-10-15,,,National Average,Rice (long grain),Retail,LKR,59.07,0.45
+2013-11-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,59.49,0.45
+2013-11-15,,,National Average,Rice (long grain),Retail,LKR,60.19,0.46
+2013-12-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,60.44,0.46
+2013-12-15,,,National Average,Rice (long grain),Retail,LKR,62.83,0.48
+2014-01-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,64.89,0.5
+2014-02-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,67.18,0.51
+2014-02-15,,,National Average,Rice (long grain),Retail,LKR,72.18,0.55
+2014-03-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,67.58,0.52
+2014-07-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,68.68,0.53
+2014-08-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,72.9,0.56
+2014-08-15,,,National Average,Rice (long grain),Retail,LKR,77.39,0.59
+2014-09-15,,,National Average,Rice (long grain),Retail,LKR,82.15,0.63
+2014-10-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,78.78,0.6
+2014-11-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,78.67,0.6
+2014-12-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,78.19,0.6
+2015-01-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,84.25,0.64
+2015-01-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,79.7,0.61
+2015-01-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (long grain),Retail,LKR,83.45,0.64
+2015-01-15,Eastern,Batticaloa,Batticaloa,Rice (long grain),Retail,LKR,70.65,0.54
+2015-01-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,75.0,0.57
+2015-01-15,Northern,Jaffna,Jaffna,Rice (long grain),Retail,LKR,73.96,0.56
+2015-01-15,Northern,Kilinochchi,Kilinochchi,Rice (long grain),Retail,LKR,73.54,0.56
+2015-01-15,Northern,Mullattivu,Mulaitivu,Rice (long grain),Retail,LKR,73.0,0.56
+2015-01-15,Northern,Vavuniya,Vavuniya,Rice (long grain),Retail,LKR,74.42,0.57
+2015-01-15,Southern,Galle,Galle,Rice (long grain),Retail,LKR,75.75,0.58
+2015-01-15,Southern,Matara,Matara,Rice (long grain),Retail,LKR,75.62,0.58
+2015-01-15,Uva,Badulla,Badulla,Rice (long grain),Retail,LKR,78.9,0.6
+2015-01-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,83.4,0.63
+2015-01-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,84.76,0.65
+2015-01-15,Western,Gampaha,Gampaha,Rice (long grain),Retail,LKR,81.35,0.62
+2015-01-15,Western,Kalutara,Kalutara,Rice (long grain),Retail,LKR,84.55,0.64
+2015-01-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,76.17,0.58
+2015-02-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,78.45,0.59
+2015-02-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (long grain),Retail,LKR,75.65,0.57
+2015-02-15,Eastern,Ampara,Ampara,Rice (long grain),Retail,LKR,75.75,0.57
+2015-02-15,Eastern,Batticaloa,Batticaloa,Rice (long grain),Retail,LKR,68.33,0.51
+2015-02-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,70.65,0.53
+2015-02-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,75.4,0.57
+2015-02-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,77.87,0.59
+2015-02-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,72.15,0.54
+2015-02-15,Northern,Jaffna,Jaffna,Rice (long grain),Retail,LKR,71.08,0.53
+2015-02-15,Northern,Kilinochchi,Kilinochchi,Rice (long grain),Retail,LKR,71.13,0.54
+2015-02-15,Northern,Vavuniya,Vavuniya,Rice (long grain),Retail,LKR,73.17,0.55
+2015-02-15,Southern,Galle,Galle,Rice (long grain),Retail,LKR,70.12,0.53
+2015-02-15,Uva,Badulla,Badulla,Rice (long grain),Retail,LKR,76.65,0.58
+2015-02-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,77.15,0.58
+2015-02-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,81.61,0.61
+2015-02-15,Western,Kalutara,Kalutara,Rice (long grain),Retail,LKR,77.65,0.58
+2015-03-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,72.24,0.54
+2015-03-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,74.2,0.56
+2015-03-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (long grain),Retail,LKR,72.56,0.55
+2015-03-15,Eastern,Ampara,Ampara,Rice (long grain),Retail,LKR,74.35,0.56
+2015-03-15,Eastern,Batticaloa,Batticaloa,Rice (long grain),Retail,LKR,67.8,0.51
+2015-03-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,64.33,0.48
+2015-03-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,73.04,0.55
+2015-03-15,Northern,Jaffna,Jaffna,Rice (long grain),Retail,LKR,68.66,0.52
+2015-03-15,Northern,Kilinochchi,Kilinochchi,Rice (long grain),Retail,LKR,70.67,0.53
+2015-03-15,Northern,Mullattivu,Mulaitivu,Rice (long grain),Retail,LKR,67.53,0.51
+2015-03-15,Southern,Galle,Galle,Rice (long grain),Retail,LKR,66.4,0.5
+2015-03-15,Southern,Matara,Matara,Rice (long grain),Retail,LKR,66.96,0.5
+2015-03-15,Uva,Badulla,Badulla,Rice (long grain),Retail,LKR,70.84,0.53
+2015-03-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,65.14,0.49
+2015-03-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,76.4,0.57
+2015-03-15,Western,Gampaha,Gampaha,Rice (long grain),Retail,LKR,75.64,0.57
+2015-03-15,Western,Kalutara,Kalutara,Rice (long grain),Retail,LKR,77.2,0.58
+2015-04-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,69.75,0.52
+2015-04-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,71.3,0.54
+2015-04-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (long grain),Retail,LKR,66.0,0.5
+2015-04-15,Eastern,Ampara,Ampara,Rice (long grain),Retail,LKR,73.5,0.55
+2015-04-15,Eastern,Batticaloa,Batticaloa,Rice (long grain),Retail,LKR,66.3,0.5
+2015-04-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,63.5,0.48
+2015-04-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,68.6,0.52
+2015-04-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,67.45,0.51
+2015-04-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,73.15,0.55
+2015-04-15,Northern,Jaffna,Jaffna,Rice (long grain),Retail,LKR,66.17,0.5
+2015-04-15,Northern,Mannar,Mannar,Rice (long grain),Retail,LKR,69.0,0.52
+2015-04-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (long grain),Retail,LKR,71.6,0.54
+2015-04-15,Southern,Galle,Galle,Rice (long grain),Retail,LKR,67.4,0.51
+2015-04-15,Southern,Matara,Matara,Rice (long grain),Retail,LKR,65.5,0.49
+2015-04-15,Uva,Badulla,Badulla,Rice (long grain),Retail,LKR,67.45,0.51
+2015-04-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,63.6,0.48
+2015-04-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,74.51,0.56
+2015-04-15,Western,Kalutara,Kalutara,Rice (long grain),Retail,LKR,71.95,0.54
+2015-05-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,68.25,0.51
+2015-05-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,66.65,0.5
+2015-05-15,Eastern,Ampara,Ampara,Rice (long grain),Retail,LKR,64.8,0.49
+2015-05-15,Eastern,Batticaloa,Batticaloa,Rice (long grain),Retail,LKR,70.13,0.53
+2015-05-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,63.85,0.48
+2015-05-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,65.5,0.49
+2015-05-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,65.15,0.49
+2015-05-15,Northern,Jaffna,Jaffna,Rice (long grain),Retail,LKR,71.0,0.53
+2015-05-15,Northern,Kilinochchi,Kilinochchi,Rice (long grain),Retail,LKR,67.67,0.51
+2015-05-15,Northern,Mannar,Mannar,Rice (long grain),Retail,LKR,73.33,0.55
+2015-05-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (long grain),Retail,LKR,65.5,0.49
+2015-05-15,Southern,Galle,Galle,Rice (long grain),Retail,LKR,69.2,0.52
+2015-05-15,Southern,Matara,Matara,Rice (long grain),Retail,LKR,65.67,0.49
+2015-05-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,70.24,0.53
+2015-06-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,67.8,0.51
+2015-06-15,Eastern,Batticaloa,Batticaloa,Rice (long grain),Retail,LKR,72.0,0.54
+2015-06-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,63.8,0.48
+2015-06-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,67.08,0.5
+2015-06-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,63.36,0.47
+2015-06-15,Northern,Jaffna,Jaffna,Rice (long grain),Retail,LKR,69.0,0.51
+2015-06-15,Northern,Kilinochchi,Kilinochchi,Rice (long grain),Retail,LKR,67.67,0.5
+2015-06-15,Northern,Mannar,Mannar,Rice (long grain),Retail,LKR,70.83,0.53
+2015-06-15,Northern,Mullattivu,Mulaitivu,Rice (long grain),Retail,LKR,68.67,0.51
+2015-06-15,Northern,Vavuniya,Vavuniya,Rice (long grain),Retail,LKR,68.0,0.51
+2015-06-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (long grain),Retail,LKR,67.5,0.5
+2015-06-15,Southern,Galle,Galle,Rice (long grain),Retail,LKR,68.48,0.51
+2015-06-15,Southern,Hambantota,Hambantota,Rice (long grain),Retail,LKR,64.9,0.48
+2015-06-15,Uva,Badulla,Badulla,Rice (long grain),Retail,LKR,62.85,0.47
+2015-06-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,62.8,0.47
+2015-07-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,60.05,0.45
+2015-07-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (long grain),Retail,LKR,62.5,0.47
+2015-07-15,Eastern,Ampara,Ampara,Rice (long grain),Retail,LKR,59.5,0.44
+2015-07-15,Eastern,Batticaloa,Batticaloa,Rice (long grain),Retail,LKR,62.4,0.47
+2015-07-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,64.2,0.48
+2015-07-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,65.75,0.49
+2015-07-15,North Western,Kurunegala,Kurunegala,Rice (long grain),Retail,LKR,64.6,0.48
+2015-07-15,Northern,Jaffna,Jaffna,Rice (long grain),Retail,LKR,66.83,0.5
+2015-07-15,Northern,Mannar,Mannar,Rice (long grain),Retail,LKR,68.33,0.51
+2015-07-15,Northern,Mullattivu,Mulaitivu,Rice (long grain),Retail,LKR,65.0,0.49
+2015-07-15,Northern,Vavuniya,Vavuniya,Rice (long grain),Retail,LKR,66.33,0.5
+2015-07-15,Southern,Galle,Galle,Rice (long grain),Retail,LKR,66.85,0.5
+2015-07-15,Uva,Badulla,Badulla,Rice (long grain),Retail,LKR,61.35,0.46
+2015-07-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,59.35,0.44
+2015-07-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,68.75,0.51
+2015-07-15,Western,Gampaha,Gampaha,Rice (long grain),Retail,LKR,67.95,0.51
+2015-07-15,Western,Kalutara,Kalutara,Rice (long grain),Retail,LKR,65.4,0.49
+2015-07-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,68.64,0.51
+2015-08-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,57.52,0.43
+2015-08-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (long grain),Retail,LKR,59.44,0.44
+2015-08-15,Eastern,Ampara,Ampara,Rice (long grain),Retail,LKR,58.52,0.44
+2015-08-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,55.6,0.41
+2015-08-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,58.62,0.44
+2015-08-15,North Western,Kurunegala,Kurunegala,Rice (long grain),Retail,LKR,69.24,0.52
+2015-08-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,59.16,0.44
+2015-08-15,Northern,Jaffna,Jaffna,Rice (long grain),Retail,LKR,63.13,0.47
+2015-08-15,Northern,Mannar,Mannar,Rice (long grain),Retail,LKR,71.33,0.53
+2015-08-15,Northern,Vavuniya,Vavuniya,Rice (long grain),Retail,LKR,62.4,0.47
+2015-08-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (long grain),Retail,LKR,58.4,0.44
+2015-08-15,Uva,Badulla,Badulla,Rice (long grain),Retail,LKR,60.55,0.45
+2015-08-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,56.9,0.42
+2015-08-15,Western,Gampaha,Gampaha,Rice (long grain),Retail,LKR,66.96,0.5
+2015-09-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,65.65,0.47
+2015-09-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,59.95,0.43
+2015-09-15,Eastern,Ampara,Ampara,Rice (long grain),Retail,LKR,61.35,0.44
+2015-09-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,57.2,0.41
+2015-09-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,59.85,0.43
+2015-09-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,59.8,0.43
+2015-09-15,Northern,Mannar,Mannar,Rice (long grain),Retail,LKR,68.83,0.49
+2015-09-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (long grain),Retail,LKR,58.95,0.42
+2015-09-15,Southern,Galle,Galle,Rice (long grain),Retail,LKR,63.8,0.46
+2015-09-15,Southern,Hambantota,Hambantota,Rice (long grain),Retail,LKR,62.25,0.45
+2015-09-15,Southern,Matara,Matara,Rice (long grain),Retail,LKR,59.5,0.43
+2015-09-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,61.69,0.44
+2015-09-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,63.76,0.46
+2015-10-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,65.5,0.46
+2015-10-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,64.55,0.46
+2015-10-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (long grain),Retail,LKR,59.95,0.43
+2015-10-15,Eastern,Ampara,Ampara,Rice (long grain),Retail,LKR,60.0,0.43
+2015-10-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,59.8,0.42
+2015-10-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,61.7,0.44
+2015-10-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,58.87,0.42
+2015-10-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,61.45,0.44
+2015-10-15,Northern,Mullattivu,Mulaitivu,Rice (long grain),Retail,LKR,68.75,0.49
+2015-10-15,Northern,Vavuniya,Vavuniya,Rice (long grain),Retail,LKR,64.33,0.46
+2015-10-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (long grain),Retail,LKR,62.1,0.44
+2015-10-15,Southern,Galle,Galle,Rice (long grain),Retail,LKR,64.25,0.46
+2015-10-15,Southern,Hambantota,Hambantota,Rice (long grain),Retail,LKR,61.75,0.44
+2015-10-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,60.25,0.43
+2015-10-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,73.4,0.52
+2015-10-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,64.8,0.46
+2015-11-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,71.0,0.5
+2015-11-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,68.45,0.48
+2015-11-15,Eastern,Ampara,Ampara,Rice (long grain),Retail,LKR,64.3,0.45
+2015-11-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,63.6,0.45
+2015-11-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,64.75,0.46
+2015-11-15,North Western,Kurunegala,Kurunegala,Rice (long grain),Retail,LKR,71.15,0.5
+2015-11-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,66.15,0.47
+2015-11-15,Northern,Kilinochchi,Kilinochchi,Rice (long grain),Retail,LKR,67.67,0.48
+2015-11-15,Northern,Mannar,Mannar,Rice (long grain),Retail,LKR,67.67,0.48
+2015-11-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (long grain),Retail,LKR,65.25,0.46
+2015-11-15,Southern,Hambantota,Hambantota,Rice (long grain),Retail,LKR,65.81,0.46
+2015-11-15,Southern,Matara,Matara,Rice (long grain),Retail,LKR,61.7,0.43
+2015-11-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,61.81,0.44
+2015-11-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,76.61,0.54
+2015-11-15,Western,Gampaha,Gampaha,Rice (long grain),Retail,LKR,71.45,0.5
+2015-11-15,Western,Kalutara,Kalutara,Rice (long grain),Retail,LKR,67.6,0.48
+2015-12-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,74.05,0.52
+2015-12-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,71.05,0.5
+2015-12-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (long grain),Retail,LKR,65.6,0.46
+2015-12-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,63.6,0.44
+2015-12-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,68.45,0.48
+2015-12-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,67.45,0.47
+2015-12-15,North Western,Kurunegala,Kurunegala,Rice (long grain),Retail,LKR,71.85,0.5
+2015-12-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,67.35,0.47
+2015-12-15,Southern,Galle,Galle,Rice (long grain),Retail,LKR,68.45,0.48
+2015-12-15,Southern,Matara,Matara,Rice (long grain),Retail,LKR,63.9,0.45
+2015-12-15,Uva,Badulla,Badulla,Rice (long grain),Retail,LKR,65.15,0.45
+2015-12-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,64.03,0.45
+2015-12-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,78.4,0.55
+2015-12-15,Western,Gampaha,Gampaha,Rice (long grain),Retail,LKR,73.55,0.51
+2016-01-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,86.28,0.6
+2016-02-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,75.5,0.53
+2016-02-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,68.0,0.47
+2016-02-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,74.75,0.52
+2016-02-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,71.42,0.5
+2016-02-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,75.83,0.53
+2016-02-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,59.0,0.41
+2016-02-15,Northern,Jaffna,Jaffna,Rice (long grain),Retail,LKR,70.0,0.49
+2016-02-15,Northern,Kilinochchi,Kilinochchi,Rice (long grain),Retail,LKR,67.17,0.47
+2016-02-15,Southern,Matara,Matara,Rice (long grain),Retail,LKR,77.25,0.54
+2016-02-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,80.17,0.56
+2016-02-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,76.63,0.53
+2016-02-15,Western,Kalutara,Kalutara,Rice (long grain),Retail,LKR,73.92,0.52
+2016-02-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,69.49,0.48
+2016-03-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,67.67,0.47
+2016-03-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,63.5,0.44
+2016-03-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (long grain),Retail,LKR,70.33,0.49
+2016-03-15,Eastern,Batticaloa,Batticaloa,Rice (long grain),Retail,LKR,65.0,0.45
+2016-03-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,66.33,0.46
+2016-03-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,67.33,0.47
+2016-03-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,74.25,0.51
+2016-03-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,55.83,0.39
+2016-03-15,Northern,Jaffna,Jaffna,Rice (long grain),Retail,LKR,66.25,0.46
+2016-03-15,Northern,Kilinochchi,Kilinochchi,Rice (long grain),Retail,LKR,66.83,0.46
+2016-03-15,Northern,Mannar,Mannar,Rice (long grain),Retail,LKR,80.0,0.55
+2016-03-15,Northern,Mullattivu,Mulaitivu,Rice (long grain),Retail,LKR,68.75,0.47
+2016-03-15,Northern,Vavuniya,Vavuniya,Rice (long grain),Retail,LKR,60.42,0.42
+2016-03-15,Sabaragamuwa,Kegalle,Kegalle,Rice (long grain),Retail,LKR,66.67,0.46
+2016-03-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (long grain),Retail,LKR,66.0,0.46
+2016-03-15,Southern,Hambantota,Hambantota,Rice (long grain),Retail,LKR,71.38,0.49
+2016-03-15,Uva,Badulla,Badulla,Rice (long grain),Retail,LKR,76.67,0.53
+2016-03-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,78.08,0.54
+2016-03-15,Western,Kalutara,Kalutara,Rice (long grain),Retail,LKR,70.58,0.49
+2016-03-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,64.86,0.45
+2016-04-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,69.67,0.48
+2016-04-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (long grain),Retail,LKR,71.08,0.49
+2016-04-15,Eastern,Ampara,Ampara,Rice (long grain),Retail,LKR,65.5,0.45
+2016-04-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,67.21,0.46
+2016-04-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,76.17,0.53
+2016-04-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,62.67,0.43
+2016-04-15,Northern,Jaffna,Jaffna,Rice (long grain),Retail,LKR,69.38,0.48
+2016-04-15,Northern,Kilinochchi,Kilinochchi,Rice (long grain),Retail,LKR,65.42,0.45
+2016-04-15,Northern,Mannar,Mannar,Rice (long grain),Retail,LKR,80.0,0.55
+2016-04-15,Southern,Matara,Matara,Rice (long grain),Retail,LKR,76.33,0.53
+2016-04-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,76.33,0.53
+2016-04-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,73.57,0.51
+2016-04-15,Western,Kalutara,Kalutara,Rice (long grain),Retail,LKR,70.58,0.49
+2016-04-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,67.04,0.46
+2016-05-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,67.62,0.46
+2016-05-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,69.42,0.48
+2016-05-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (long grain),Retail,LKR,74.08,0.51
+2016-05-15,Eastern,Ampara,Ampara,Rice (long grain),Retail,LKR,71.62,0.49
+2016-05-15,Eastern,Batticaloa,Batticaloa,Rice (long grain),Retail,LKR,72.25,0.5
+2016-05-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,67.17,0.46
+2016-05-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,72.42,0.5
+2016-05-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,75.33,0.52
+2016-05-15,North Western,Kurunegala,Kurunegala,Rice (long grain),Retail,LKR,70.75,0.49
+2016-05-15,Northern,Kilinochchi,Kilinochchi,Rice (long grain),Retail,LKR,69.75,0.48
+2016-05-15,Northern,Vavuniya,Vavuniya,Rice (long grain),Retail,LKR,72.58,0.5
+2016-05-15,Sabaragamuwa,Kegalle,Kegalle,Rice (long grain),Retail,LKR,71.25,0.49
+2016-05-15,Southern,Galle,Galle,Rice (long grain),Retail,LKR,84.83,0.58
+2016-05-15,Southern,Matara,Matara,Rice (long grain),Retail,LKR,76.33,0.52
+2016-05-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,79.08,0.54
+2016-05-15,Western,Kalutara,Kalutara,Rice (long grain),Retail,LKR,75.25,0.52
+2016-06-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,75.33,0.52
+2016-06-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,71.25,0.49
+2016-06-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (long grain),Retail,LKR,77.42,0.54
+2016-06-15,Eastern,Batticaloa,Batticaloa,Rice (long grain),Retail,LKR,75.0,0.52
+2016-06-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,67.58,0.47
+2016-06-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,72.75,0.5
+2016-06-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,74.25,0.51
+2016-06-15,North Western,Kurunegala,Kurunegala,Rice (long grain),Retail,LKR,73.58,0.51
+2016-06-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,69.0,0.48
+2016-06-15,Northern,Jaffna,Jaffna,Rice (long grain),Retail,LKR,71.25,0.49
+2016-06-15,Northern,Kilinochchi,Kilinochchi,Rice (long grain),Retail,LKR,79.33,0.55
+2016-06-15,Northern,Mannar,Mannar,Rice (long grain),Retail,LKR,80.0,0.55
+2016-06-15,Northern,Vavuniya,Vavuniya,Rice (long grain),Retail,LKR,73.67,0.51
+2016-06-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (long grain),Retail,LKR,73.08,0.51
+2016-06-15,Southern,Hambantota,Hambantota,Rice (long grain),Retail,LKR,70.21,0.49
+2016-06-15,Uva,Badulla,Badulla,Rice (long grain),Retail,LKR,79.33,0.55
+2016-06-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,77.53,0.54
+2016-06-15,Western,Gampaha,Gampaha,Rice (long grain),Retail,LKR,78.0,0.54
+2016-06-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,70.73,0.49
+2016-07-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,76.75,0.53
+2016-07-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,72.5,0.5
+2016-07-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (long grain),Retail,LKR,73.5,0.51
+2016-07-15,Eastern,Ampara,Ampara,Rice (long grain),Retail,LKR,74.9,0.52
+2016-07-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,69.08,0.48
+2016-07-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,73.0,0.5
+2016-07-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,63.75,0.44
+2016-07-15,Northern,Kilinochchi,Kilinochchi,Rice (long grain),Retail,LKR,73.33,0.5
+2016-07-15,Northern,Vavuniya,Vavuniya,Rice (long grain),Retail,LKR,71.67,0.49
+2016-07-15,Sabaragamuwa,Kegalle,Kegalle,Rice (long grain),Retail,LKR,75.0,0.52
+2016-07-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (long grain),Retail,LKR,71.58,0.49
+2016-07-15,Southern,Hambantota,Hambantota,Rice (long grain),Retail,LKR,67.67,0.47
+2016-07-15,Southern,Matara,Matara,Rice (long grain),Retail,LKR,76.33,0.53
+2016-07-15,Uva,Badulla,Badulla,Rice (long grain),Retail,LKR,78.08,0.54
+2016-07-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,79.5,0.55
+2016-07-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,77.83,0.54
+2016-07-15,Western,Gampaha,Gampaha,Rice (long grain),Retail,LKR,78.0,0.54
+2016-07-15,Western,Kalutara,Kalutara,Rice (long grain),Retail,LKR,76.83,0.53
+2016-07-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,70.56,0.49
+2016-08-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,74.54,0.51
+2016-08-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,70.67,0.49
+2016-08-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (long grain),Retail,LKR,73.75,0.51
+2016-08-15,Eastern,Ampara,Ampara,Rice (long grain),Retail,LKR,73.56,0.51
+2016-08-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,69.75,0.48
+2016-08-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,77.33,0.53
+2016-08-15,North Western,Kurunegala,Kurunegala,Rice (long grain),Retail,LKR,70.42,0.49
+2016-08-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,61.33,0.42
+2016-08-15,Northern,Jaffna,Jaffna,Rice (long grain),Retail,LKR,72.5,0.5
+2016-08-15,Northern,Mannar,Mannar,Rice (long grain),Retail,LKR,75.67,0.52
+2016-08-15,Northern,Vavuniya,Vavuniya,Rice (long grain),Retail,LKR,71.58,0.49
+2016-08-15,Southern,Galle,Galle,Rice (long grain),Retail,LKR,78.17,0.54
+2016-08-15,Southern,Matara,Matara,Rice (long grain),Retail,LKR,76.33,0.53
+2016-08-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,79.83,0.55
+2016-08-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,77.36,0.53
+2016-08-15,Western,Gampaha,Gampaha,Rice (long grain),Retail,LKR,76.58,0.53
+2016-08-15,Western,Kalutara,Kalutara,Rice (long grain),Retail,LKR,76.17,0.53
+2016-09-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,65.8,0.45
+2016-09-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,74.33,0.51
+2016-09-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (long grain),Retail,LKR,62.75,0.43
+2016-09-15,Eastern,Ampara,Ampara,Rice (long grain),Retail,LKR,58.45,0.4
+2016-09-15,Eastern,Batticaloa,Batticaloa,Rice (long grain),Retail,LKR,65.0,0.45
+2016-09-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,64.0,0.44
+2016-09-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,65.95,0.46
+2016-09-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,68.97,0.48
+2016-09-15,Northern,Jaffna,Jaffna,Rice (long grain),Retail,LKR,72.05,0.5
+2016-09-15,Northern,Kilinochchi,Kilinochchi,Rice (long grain),Retail,LKR,62.67,0.43
+2016-09-15,Sabaragamuwa,Kegalle,Kegalle,Rice (long grain),Retail,LKR,65.2,0.45
+2016-09-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (long grain),Retail,LKR,60.6,0.42
+2016-09-15,Southern,Hambantota,Hambantota,Rice (long grain),Retail,LKR,60.0,0.41
+2016-09-15,Southern,Matara,Matara,Rice (long grain),Retail,LKR,59.5,0.41
+2016-09-15,Uva,Badulla,Badulla,Rice (long grain),Retail,LKR,63.3,0.44
+2016-09-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,60.62,0.42
+2016-09-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,67.7,0.47
+2016-09-15,Western,Gampaha,Gampaha,Rice (long grain),Retail,LKR,68.1,0.47
+2016-09-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,70.15,0.48
+2016-10-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,78.28,0.53
+2016-10-15,Eastern,Batticaloa,Batticaloa,Rice (long grain),Retail,LKR,65.5,0.45
+2016-10-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,64.0,0.44
+2016-10-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,76.97,0.52
+2016-10-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,65.6,0.45
+2016-10-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,70.4,0.48
+2016-10-15,Northern,Jaffna,Jaffna,Rice (long grain),Retail,LKR,79.52,0.54
+2016-10-15,Northern,Kilinochchi,Kilinochchi,Rice (long grain),Retail,LKR,68.67,0.47
+2016-10-15,Northern,Mannar,Mannar,Rice (long grain),Retail,LKR,79.67,0.54
+2016-10-15,Sabaragamuwa,Kegalle,Kegalle,Rice (long grain),Retail,LKR,74.92,0.51
+2016-10-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (long grain),Retail,LKR,62.7,0.43
+2016-10-15,Southern,Galle,Galle,Rice (long grain),Retail,LKR,67.25,0.46
+2016-10-15,Southern,Hambantota,Hambantota,Rice (long grain),Retail,LKR,64.7,0.44
+2016-10-15,Southern,Matara,Matara,Rice (long grain),Retail,LKR,64.4,0.44
+2016-10-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,72.86,0.5
+2016-10-15,Western,Kalutara,Kalutara,Rice (long grain),Retail,LKR,67.56,0.46
+2016-10-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,74.05,0.51
+2016-11-15,Eastern,Ampara,Ampara,Rice (long grain),Retail,LKR,70.28,0.48
+2016-11-15,Eastern,Batticaloa,Batticaloa,Rice (long grain),Retail,LKR,75.0,0.51
+2016-11-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,79.65,0.54
+2016-11-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,74.33,0.5
+2016-11-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,76.35,0.52
+2016-11-15,Northern,Kilinochchi,Kilinochchi,Rice (long grain),Retail,LKR,70.0,0.47
+2016-11-15,Northern,Vavuniya,Vavuniya,Rice (long grain),Retail,LKR,78.0,0.53
+2016-11-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (long grain),Retail,LKR,71.0,0.48
+2016-11-15,Southern,Hambantota,Hambantota,Rice (long grain),Retail,LKR,71.12,0.48
+2016-11-15,Uva,Badulla,Badulla,Rice (long grain),Retail,LKR,77.25,0.52
+2016-11-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,72.05,0.49
+2016-11-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,78.12,0.53
+2016-11-15,Western,Kalutara,Kalutara,Rice (long grain),Retail,LKR,74.0,0.5
+2016-12-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,82.1,0.55
+2016-12-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,88.2,0.59
+2016-12-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (long grain),Retail,LKR,80.9,0.55
+2016-12-15,Eastern,Batticaloa,Batticaloa,Rice (long grain),Retail,LKR,83.2,0.56
+2016-12-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,87.85,0.59
+2016-12-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,80.8,0.54
+2016-12-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,83.35,0.56
+2016-12-15,Northern,Jaffna,Jaffna,Rice (long grain),Retail,LKR,80.8,0.54
+2016-12-15,Northern,Mannar,Mannar,Rice (long grain),Retail,LKR,80.0,0.54
+2016-12-15,Northern,Vavuniya,Vavuniya,Rice (long grain),Retail,LKR,82.95,0.56
+2016-12-15,Southern,Galle,Galle,Rice (long grain),Retail,LKR,78.31,0.53
+2016-12-15,Southern,Hambantota,Hambantota,Rice (long grain),Retail,LKR,79.25,0.53
+2016-12-15,Southern,Matara,Matara,Rice (long grain),Retail,LKR,76.53,0.52
+2016-12-15,Uva,Badulla,Badulla,Rice (long grain),Retail,LKR,83.5,0.56
+2016-12-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,79.31,0.53
+2016-12-15,Western,Gampaha,Gampaha,Rice (long grain),Retail,LKR,82.55,0.56
+2016-12-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,88.56,0.6
+2017-01-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,89.8,0.6
+2017-01-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (long grain),Retail,LKR,90.56,0.6
+2017-01-15,Eastern,Ampara,Ampara,Rice (long grain),Retail,LKR,84.05,0.56
+2017-01-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,93.0,0.62
+2017-01-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,90.52,0.6
+2017-01-15,Northern,Jaffna,Jaffna,Rice (long grain),Retail,LKR,89.6,0.6
+2017-01-15,Northern,Kilinochchi,Kilinochchi,Rice (long grain),Retail,LKR,79.67,0.53
+2017-01-15,Northern,Mannar,Mannar,Rice (long grain),Retail,LKR,89.53,0.6
+2017-01-15,Northern,Vavuniya,Vavuniya,Rice (long grain),Retail,LKR,84.75,0.57
+2017-01-15,Sabaragamuwa,Kegalle,Kegalle,Rice (long grain),Retail,LKR,91.84,0.61
+2017-01-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (long grain),Retail,LKR,95.3,0.64
+2017-01-15,Southern,Galle,Galle,Rice (long grain),Retail,LKR,87.4,0.58
+2017-01-15,Southern,Hambantota,Hambantota,Rice (long grain),Retail,LKR,87.7,0.59
+2017-01-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,85.73,0.57
+2017-01-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,92.41,0.62
+2017-01-15,Western,Gampaha,Gampaha,Rice (long grain),Retail,LKR,90.1,0.6
+2017-01-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,93.32,0.62
+2017-03-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,76.61,0.51
+2017-04-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,89.0,0.59
+2017-04-15,Eastern,Batticaloa,Batticaloa,Rice (long grain),Retail,LKR,80.0,0.53
+2017-04-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,82.0,0.54
+2017-04-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,82.5,0.54
+2017-04-15,Northern,Mannar,Mannar,Rice (long grain),Retail,LKR,87.0,0.57
+2017-04-15,Northern,Mullattivu,Mulaitivu,Rice (long grain),Retail,LKR,80.0,0.53
+2017-04-15,Sabaragamuwa,Kegalle,Kegalle,Rice (long grain),Retail,LKR,82.5,0.54
+2017-04-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,87.5,0.58
+2017-04-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,91.5,0.6
+2017-04-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,77.38,0.51
+2017-05-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,92.0,0.6
+2017-05-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,88.8,0.58
+2017-05-15,Eastern,Batticaloa,Batticaloa,Rice (long grain),Retail,LKR,80.0,0.52
+2017-05-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,86.59,0.57
+2017-05-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,83.64,0.55
+2017-05-15,North Western,Kurunegala,Kurunegala,Rice (long grain),Retail,LKR,91.87,0.6
+2017-05-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,84.41,0.55
+2017-05-15,Northern,Kilinochchi,Kilinochchi,Rice (long grain),Retail,LKR,94.0,0.62
+2017-05-15,Northern,Mannar,Mannar,Rice (long grain),Retail,LKR,87.56,0.57
+2017-05-15,Sabaragamuwa,Kegalle,Kegalle,Rice (long grain),Retail,LKR,92.8,0.61
+2017-05-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (long grain),Retail,LKR,84.08,0.55
+2017-05-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,93.46,0.61
+2017-06-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,96.5,0.63
+2017-06-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (long grain),Retail,LKR,96.0,0.63
+2017-06-15,Eastern,Batticaloa,Batticaloa,Rice (long grain),Retail,LKR,80.0,0.53
+2017-06-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,94.38,0.62
+2017-06-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,91.26,0.6
+2017-06-15,Northern,Kilinochchi,Kilinochchi,Rice (long grain),Retail,LKR,92.44,0.61
+2017-06-15,Northern,Mannar,Mannar,Rice (long grain),Retail,LKR,91.0,0.6
+2017-06-15,Northern,Mullattivu,Mulaitivu,Rice (long grain),Retail,LKR,80.0,0.53
+2017-06-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (long grain),Retail,LKR,86.7,0.57
+2017-06-15,Uva,Badulla,Badulla,Rice (long grain),Retail,LKR,91.5,0.6
+2017-06-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,92.5,0.61
+2017-06-15,Western,Gampaha,Gampaha,Rice (long grain),Retail,LKR,96.1,0.63
+2017-06-15,Western,Kalutara,Kalutara,Rice (long grain),Retail,LKR,92.17,0.6
+2017-06-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,82.89,0.54
+2017-07-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,98.0,0.64
+2017-07-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,91.08,0.59
+2017-07-15,Eastern,Ampara,Ampara,Rice (long grain),Retail,LKR,80.0,0.52
+2017-07-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,93.75,0.61
+2017-07-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,93.45,0.61
+2017-07-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,94.0,0.61
+2017-07-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,90.0,0.59
+2017-07-15,Northern,Jaffna,Jaffna,Rice (long grain),Retail,LKR,72.0,0.47
+2017-07-15,Northern,Kilinochchi,Kilinochchi,Rice (long grain),Retail,LKR,89.33,0.58
+2017-07-15,Northern,Mannar,Mannar,Rice (long grain),Retail,LKR,85.67,0.56
+2017-07-15,Northern,Vavuniya,Vavuniya,Rice (long grain),Retail,LKR,81.25,0.53
+2017-07-15,Sabaragamuwa,Kegalle,Kegalle,Rice (long grain),Retail,LKR,96.67,0.63
+2017-07-15,Southern,Hambantota,Hambantota,Rice (long grain),Retail,LKR,78.0,0.51
+2017-07-15,Uva,Badulla,Badulla,Rice (long grain),Retail,LKR,91.25,0.59
+2017-07-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,92.32,0.6
+2017-07-15,Western,Gampaha,Gampaha,Rice (long grain),Retail,LKR,94.5,0.62
+2017-07-15,Western,Kalutara,Kalutara,Rice (long grain),Retail,LKR,92.33,0.6
+2017-07-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,83.83,0.55
+2017-08-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,95.58,0.62
+2017-08-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,84.67,0.55
+2017-08-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (long grain),Retail,LKR,88.5,0.58
+2017-08-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,85.3,0.56
+2017-08-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,89.8,0.59
+2017-08-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,93.25,0.61
+2017-08-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,84.83,0.55
+2017-08-15,Northern,Jaffna,Jaffna,Rice (long grain),Retail,LKR,70.0,0.46
+2017-08-15,Northern,Kilinochchi,Kilinochchi,Rice (long grain),Retail,LKR,81.42,0.53
+2017-08-15,Northern,Mannar,Mannar,Rice (long grain),Retail,LKR,87.25,0.57
+2017-08-15,Northern,Vavuniya,Vavuniya,Rice (long grain),Retail,LKR,79.75,0.52
+2017-08-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (long grain),Retail,LKR,81.0,0.53
+2017-08-15,Southern,Galle,Galle,Rice (long grain),Retail,LKR,78.0,0.51
+2017-08-15,Southern,Hambantota,Hambantota,Rice (long grain),Retail,LKR,77.33,0.5
+2017-08-15,Uva,Badulla,Badulla,Rice (long grain),Retail,LKR,82.75,0.54
+2017-08-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,79.0,0.52
+2017-08-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,90.34,0.59
+2017-08-15,Western,Gampaha,Gampaha,Rice (long grain),Retail,LKR,90.0,0.59
+2017-08-15,Western,Kalutara,Kalutara,Rice (long grain),Retail,LKR,89.2,0.58
+2017-09-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,98.58,0.64
+2017-09-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,94.08,0.62
+2017-09-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (long grain),Retail,LKR,92.58,0.61
+2017-09-15,Eastern,Ampara,Ampara,Rice (long grain),Retail,LKR,84.44,0.55
+2017-09-15,Eastern,Batticaloa,Batticaloa,Rice (long grain),Retail,LKR,80.0,0.52
+2017-09-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,96.0,0.63
+2017-09-15,North Western,Kurunegala,Kurunegala,Rice (long grain),Retail,LKR,97.0,0.63
+2017-09-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,87.0,0.57
+2017-09-15,Northern,Jaffna,Jaffna,Rice (long grain),Retail,LKR,72.0,0.47
+2017-09-15,Northern,Kilinochchi,Kilinochchi,Rice (long grain),Retail,LKR,83.17,0.54
+2017-09-15,Northern,Mannar,Mannar,Rice (long grain),Retail,LKR,85.67,0.56
+2017-09-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (long grain),Retail,LKR,90.33,0.59
+2017-09-15,Southern,Hambantota,Hambantota,Rice (long grain),Retail,LKR,75.0,0.49
+2017-09-15,Uva,Badulla,Badulla,Rice (long grain),Retail,LKR,88.08,0.58
+2017-09-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,90.0,0.59
+2017-09-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,93.18,0.61
+2017-09-15,Western,Gampaha,Gampaha,Rice (long grain),Retail,LKR,95.25,0.62
+2017-09-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,83.42,0.55
+2017-10-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,102.8,0.67
+2017-10-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,98.13,0.64
+2017-10-15,Eastern,Batticaloa,Batticaloa,Rice (long grain),Retail,LKR,89.6,0.58
+2017-10-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,106.7,0.69
+2017-10-15,North Western,Kurunegala,Kurunegala,Rice (long grain),Retail,LKR,99.67,0.65
+2017-10-15,Northern,Mannar,Mannar,Rice (long grain),Retail,LKR,91.0,0.59
+2017-10-15,Sabaragamuwa,Kegalle,Kegalle,Rice (long grain),Retail,LKR,103.9,0.68
+2017-10-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (long grain),Retail,LKR,92.6,0.6
+2017-10-15,Uva,Badulla,Badulla,Rice (long grain),Retail,LKR,97.55,0.64
+2017-10-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,94.37,0.61
+2017-10-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,101.84,0.66
+2017-10-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,84.87,0.55
+2017-11-15,Central,Kandy,Kandy,Rice (long grain),Retail,LKR,102.8,0.67
+2017-11-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,99.09,0.64
+2017-11-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (long grain),Retail,LKR,100.1,0.65
+2017-11-15,Eastern,Ampara,Ampara,Rice (long grain),Retail,LKR,100.63,0.65
+2017-11-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,100.9,0.66
+2017-11-15,North Central,Anuradhapura,Anuradhapura,Rice (long grain),Retail,LKR,98.8,0.64
+2017-11-15,North Central,Polonnaruwa,Polonnaruwa,Rice (long grain),Retail,LKR,98.0,0.64
+2017-11-15,North Western,Kurunegala,Kurunegala,Rice (long grain),Retail,LKR,101.19,0.66
+2017-11-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,97.65,0.64
+2017-11-15,Sabaragamuwa,Kegalle,Kegalle,Rice (long grain),Retail,LKR,104.5,0.68
+2017-11-15,Uva,Badulla,Badulla,Rice (long grain),Retail,LKR,98.75,0.64
+2017-11-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,107.14,0.7
+2017-11-15,Western,Gampaha,Gampaha,Rice (long grain),Retail,LKR,99.75,0.65
+2017-11-15,Western,Kalutara,Kalutara,Rice (long grain),Retail,LKR,99.2,0.65
+2017-12-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,106.7,0.7
+2017-12-15,North Western,Puttalam,Puttalam,Rice (long grain),Retail,LKR,98.0,0.64
+2017-12-15,Northern,Kilinochchi,Kilinochchi,Rice (long grain),Retail,LKR,98.6,0.64
+2017-12-15,Northern,Mannar,Mannar,Rice (long grain),Retail,LKR,100.83,0.66
+2017-12-15,Northern,Mullattivu,Mulaitivu,Rice (long grain),Retail,LKR,99.4,0.65
+2017-12-15,Northern,Vavuniya,Vavuniya,Rice (long grain),Retail,LKR,93.8,0.61
+2017-12-15,Sabaragamuwa,Kegalle,Kegalle,Rice (long grain),Retail,LKR,101.11,0.66
+2017-12-15,Southern,Matara,Matara,Rice (long grain),Retail,LKR,98.3,0.64
+2017-12-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,103.45,0.68
+2017-12-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,85.89,0.56
+2018-01-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,87.0,0.57
+2018-01-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,86.71,0.56
+2018-02-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,80.5,0.52
+2018-03-15,Central,Matale,Matale,Rice (long grain),Retail,LKR,95.45,0.61
+2018-03-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (long grain),Retail,LKR,93.65,0.6
+2018-03-15,Eastern,Trincomalee,Trincomalee,Rice (long grain),Retail,LKR,85.6,0.55
+2018-03-15,North Western,Kurunegala,Kurunegala,Rice (long grain),Retail,LKR,99.33,0.64
+2018-03-15,Northern,Jaffna,Jaffna,Rice (long grain),Retail,LKR,104.37,0.67
+2018-03-15,Northern,Vavuniya,Vavuniya,Rice (long grain),Retail,LKR,82.46,0.53
+2018-03-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (long grain),Retail,LKR,103.0,0.66
+2018-03-15,Uva,Moneragala,Monaragala,Rice (long grain),Retail,LKR,102.0,0.65
+2018-03-15,Western,Colombo,Colombo City,Rice (long grain),Retail,LKR,101.2,0.65
+2018-03-15,Western,Gampaha,Gampaha,Rice (long grain),Retail,LKR,98.0,0.63
+2018-03-15,Western,Kalutara,Kalutara,Rice (long grain),Retail,LKR,93.0,0.6
+2018-03-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,81.59,0.52
+2018-04-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,82.42,0.53
+2018-05-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,82.12,0.52
+2018-07-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,81.85,0.51
+2018-09-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,82.07,0.5
+2018-10-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,84.17,0.49
+2018-11-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,86.63,0.49
+2019-01-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,89.71,0.49
+2019-02-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,87.29,0.49
+2019-03-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,84.13,0.47
+2019-04-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,81.89,0.47
+2019-05-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,85.42,0.49
+2019-08-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,86.54,0.49
+2019-10-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,92.44,0.51
+2019-11-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,98.22,0.55
+2019-12-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,105.55,0.58
+2020-01-15,Western,Colombo,Economic Centre-Pettah,Rice (medium grain),Retail,LKR,98.0,0.54
+2020-01-15,Western,Colombo,Economic Centre-Pettah,Rice (medium grain),Wholesale,LKR,96.0,0.53
+2020-01-15,Western,Colombo,Economic Centre-Pettah,Rice (red nadu),Wholesale,LKR,96.0,0.53
+2020-01-15,Western,Colombo,Economic Centre-Pettah,Rice (red),Retail,LKR,113.14,0.62
+2020-01-15,Western,Colombo,Economic Centre-Pettah,Rice (red),Wholesale,LKR,107.81,0.59
+2020-01-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (red),Wholesale,LKR,99.81,0.55
+2020-01-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,106.35,0.59
+2020-01-15,Western,Colombo,Economic Centre-Pettah,Rice (white),Retail,LKR,107.95,0.6
+2020-01-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (white),Wholesale,LKR,93.71,0.52
+2020-02-15,Western,Colombo,Economic Centre-Pettah,Rice (medium grain),Retail,LKR,98.0,0.54
+2020-02-15,Western,Colombo,Economic Centre-Pettah,Rice (medium grain),Wholesale,LKR,95.89,0.53
+2020-02-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (medium grain),Wholesale,LKR,88.61,0.49
+2020-02-15,Western,Colombo,Economic Centre-Pettah,Rice (red nadu),Retail,LKR,98.0,0.54
+2020-02-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (red nadu),Wholesale,LKR,85.83,0.47
+2020-02-15,Western,Colombo,Economic Centre-Pettah,Rice (red),Retail,LKR,98.0,0.54
+2020-02-15,Western,Colombo,Economic Centre-Pettah,Rice (red),Wholesale,LKR,91.94,0.51
+2020-02-15,Western,Colombo,Economic Centre-Pettah,Rice (white),Retail,LKR,98.0,0.54
+2020-02-15,Western,Colombo,Economic Centre-Pettah,Rice (white),Wholesale,LKR,92.83,0.51
+2020-02-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (white),Wholesale,LKR,85.72,0.47
+2020-03-15,Western,Colombo,Economic Centre-Pettah,Rice (medium grain),Retail,LKR,98.0,0.53
+2020-03-15,Western,Colombo,Economic Centre-Pettah,Rice (red nadu),Retail,LKR,98.0,0.53
+2020-03-15,Western,Colombo,Economic Centre-Pettah,Rice (red),Wholesale,LKR,88.0,0.48
+2020-03-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (red),Wholesale,LKR,87.0,0.47
+2020-03-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,100.13,0.54
+2020-03-15,Western,Colombo,Economic Centre-Pettah,Rice (white),Retail,LKR,98.0,0.53
+2020-03-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (white),Wholesale,LKR,83.67,0.45
+2020-04-15,Western,Colombo,Economic Centre-Pettah,Rice (medium grain),Wholesale,LKR,97.33,0.51
+2020-04-15,Western,Colombo,Economic Centre-Pettah,Rice (red nadu),Wholesale,LKR,97.0,0.51
+2020-04-15,Western,Colombo,Economic Centre-Pettah,Rice (red),Wholesale,LKR,90.0,0.47
+2020-04-15,Western,Colombo,Economic Centre-Pettah,Rice (white),Wholesale,LKR,93.33,0.49
+2020-04-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (white),Wholesale,LKR,90.5,0.47
+2020-05-15,Western,Colombo,Economic Centre-Pettah,Rice (medium grain),Wholesale,LKR,98.0,0.52
+2020-05-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (red nadu),Wholesale,LKR,95.25,0.51
+2020-05-15,Western,Colombo,Economic Centre-Pettah,Rice (red),Wholesale,LKR,88.5,0.47
+2020-05-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,100.67,0.54
+2020-05-15,Western,Colombo,Economic Centre-Pettah,Rice (white),Wholesale,LKR,92.33,0.49
+2020-05-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (white),Wholesale,LKR,93.08,0.5
+2020-06-15,Western,Colombo,Economic Centre-Pettah,Rice (medium grain),Wholesale,LKR,96.0,0.52
+2020-06-15,Western,Colombo,Economic Centre-Pettah,Rice (red nadu),Retail,LKR,96.0,0.52
+2020-06-15,Western,Colombo,Economic Centre-Pettah,Rice (red),Retail,LKR,93.0,0.5
+2020-06-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (red),Wholesale,LKR,90.9,0.49
+2020-06-15,Western,Colombo,Economic Centre-Pettah,Rice (white),Retail,LKR,93.0,0.5
+2020-06-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (white),Wholesale,LKR,88.75,0.48
+2020-07-15,Western,Colombo,Economic Centre-Pettah,Rice (medium grain),Retail,LKR,98.0,0.53
+2020-07-15,Western,Colombo,Economic Centre-Pettah,Rice (medium grain),Wholesale,LKR,96.04,0.52
+2020-07-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (medium grain),Wholesale,LKR,94.09,0.51
+2020-07-15,Western,Colombo,Economic Centre-Pettah,Rice (red nadu),Wholesale,LKR,93.91,0.51
+2020-07-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (red nadu),Wholesale,LKR,87.13,0.47
+2020-07-15,Western,Colombo,Economic Centre-Pettah,Rice (red),Retail,LKR,93.0,0.5
+2020-07-15,Western,Colombo,Economic Centre-Pettah,Rice (red),Wholesale,LKR,89.96,0.48
+2020-07-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (red),Wholesale,LKR,89.74,0.48
+2020-07-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,97.89,0.53
+2020-07-15,Western,Colombo,Economic Centre-Pettah,Rice (white),Retail,LKR,93.0,0.5
+2020-07-15,Western,Colombo,Economic Centre-Pettah,Rice (white),Wholesale,LKR,90.04,0.48
+2020-08-15,Western,Colombo,Economic Centre-Pettah,Rice (medium grain),Retail,LKR,98.0,0.53
+2020-08-15,Western,Colombo,Economic Centre-Pettah,Rice (medium grain),Wholesale,LKR,96.0,0.52
+2020-08-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (medium grain),Wholesale,LKR,95.0,0.52
+2020-08-15,Western,Colombo,Economic Centre-Pettah,Rice (red nadu),Wholesale,LKR,92.0,0.5
+2020-08-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (red nadu),Wholesale,LKR,86.86,0.47
+2020-08-15,Western,Colombo,Economic Centre-Pettah,Rice (red),Retail,LKR,93.0,0.51
+2020-08-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (red),Wholesale,LKR,87.64,0.48
+2020-08-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,96.27,0.52
+2020-08-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (white),Wholesale,LKR,85.0,0.46
+2020-09-15,Western,Colombo,Economic Centre-Pettah,Rice (medium grain),Retail,LKR,98.0,0.53
+2020-09-15,Western,Colombo,Economic Centre-Pettah,Rice (medium grain),Wholesale,LKR,96.0,0.52
+2020-09-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (medium grain),Wholesale,LKR,97.92,0.53
+2020-09-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (red nadu),Wholesale,LKR,87.58,0.48
+2020-09-15,Western,Colombo,Economic Centre-Pettah,Rice (red),Retail,LKR,93.0,0.5
+2020-09-15,Western,Colombo,Economic Centre-Pettah,Rice (red),Wholesale,LKR,88.25,0.48
+2020-09-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (red),Wholesale,LKR,88.0,0.48
+2020-09-15,Western,Colombo,Economic Centre-Pettah,Rice (white),Retail,LKR,93.0,0.5
+2020-09-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (white),Wholesale,LKR,86.0,0.47
+2020-10-15,Western,Colombo,Economic Centre-Pettah,Rice (medium grain),Retail,LKR,98.0,0.53
+2020-10-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (medium grain),Wholesale,LKR,97.92,0.53
+2020-10-15,Western,Colombo,Economic Centre-Pettah,Rice (red nadu),Retail,LKR,96.17,0.52
+2020-10-15,Western,Colombo,Economic Centre-Pettah,Rice (red nadu),Wholesale,LKR,90.5,0.49
+2020-10-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (red nadu),Wholesale,LKR,87.58,0.47
+2020-10-15,Western,Colombo,Economic Centre-Pettah,Rice (red),Retail,LKR,93.0,0.5
+2020-10-15,Western,Colombo,Economic Centre-Pettah,Rice (red),Wholesale,LKR,88.25,0.48
+2020-10-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (red),Wholesale,LKR,88.0,0.48
+2020-10-15,Western,Colombo,Economic Centre-Pettah,Rice (white),Retail,LKR,93.0,0.5
+2020-10-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (white),Wholesale,LKR,86.0,0.47
+2020-12-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,101.5,0.54
+2021-01-15,Western,Colombo,Economic Centre-Pettah,Rice (red),Wholesale,LKR,97.4,0.51
+2021-01-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (red),Wholesale,LKR,100.0,0.52
+2021-01-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,104.08,0.54
+2021-01-15,Western,Colombo,Economic Centre-Pettah,Rice (white),Wholesale,LKR,101.2,0.53
+2021-01-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (white),Wholesale,LKR,97.0,0.5
+2021-02-15,Western,Colombo,Economic Centre-Pettah,Rice (red),Wholesale,LKR,92.4,0.48
+2021-02-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (red),Wholesale,LKR,95.0,0.49
+2021-02-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (white),Wholesale,LKR,92.2,0.48
+2021-03-15,Western,Colombo,Economic Centre-Pettah,Rice (red),Wholesale,LKR,93.6,0.47
+2021-03-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,102.71,0.52
+2021-03-15,Western,Colombo,Economic Centre-Pettah,Rice (white),Wholesale,LKR,97.0,0.49
+2021-04-15,Western,Colombo,Economic Centre-Pettah,Rice (red),Wholesale,LKR,93.2,0.47
+2021-04-15,Western,Gampaha,Economic Centre-Maradagahamula,Rice (red),Wholesale,LKR,95.6,0.48
+2021-04-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,102.96,0.51
+2021-05-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,111.12,0.57
+2021-06-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,113.69,0.58
+2021-07-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,112.0,0.56
+2021-08-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,107.0,0.54
+2021-09-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,103.0,0.52
+2021-10-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,114.0,0.57
+2021-11-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,132.0,0.66
+2022-01-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,158.48,0.79
+2022-02-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,161.51,0.8
+2022-03-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,169.24,0.63
+2022-04-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,206.17,0.66
+2022-05-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,216.26,0.62
+2022-06-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,227.52,0.64
+2023-06-15,Central,Kandy,Kandy,Rice (medium grain),Retail,LKR,217.75,0.72
+2023-06-15,Central,Matale,Matale,Rice (medium grain),Retail,LKR,213.1,0.71
+2023-06-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (medium grain),Retail,LKR,215.0,0.71
+2023-06-15,Central,Nuwara Eliya,Hanguranketha,Rice (white),Retail,LKR,229.55,0.76
+2023-06-15,Eastern,Ampara,Dehiattakandiya,Rice (medium grain),Retail,LKR,218.33,0.72
+2023-06-15,Eastern,Ampara,Ampara,Rice (white),Retail,LKR,229.27,0.76
+2023-06-15,Eastern,Batticaloa,Batticaloa,Rice (white),Retail,LKR,225.8,0.75
+2023-06-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (medium grain),Retail,LKR,206.5,0.68
+2023-06-15,North Central,Polonnaruwa,Polonnaruwa,Rice (medium grain),Retail,LKR,218.77,0.72
+2023-06-15,North Central,Anuradhapura,Anuradhapura,Rice (white),Retail,LKR,230.0,0.76
+2023-06-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (white),Retail,LKR,225.5,0.75
+2023-06-15,North Central,Anuradhapura,Thambuttegama,Rice (white),Retail,LKR,233.75,0.77
+2023-06-15,North Central,Polonnaruwa,Polonnaruwa,Rice (white),Retail,LKR,229.6,0.76
+2023-06-15,North Western,Kurunegala,Kurunegala,Rice (medium grain),Retail,LKR,211.17,0.7
+2023-06-15,North Western,Kurunegala,Nikaweratiya,Rice (medium grain),Retail,LKR,213.33,0.71
+2023-06-15,North Western,Kurunegala,Kurunegala,Rice (white),Retail,LKR,230.0,0.76
+2023-06-15,North Western,Kurunegala,Nikaweratiya,Rice (white),Retail,LKR,230.0,0.76
+2023-06-15,North Western,Puttalam,Puttalam,Rice (white),Retail,LKR,230.0,0.76
+2023-06-15,Northern,Mannar,Mannar,Rice (medium grain),Retail,LKR,200.0,0.66
+2023-06-15,Northern,Vavuniya,Vavuniya,Rice (medium grain),Retail,LKR,202.53,0.67
+2023-06-15,Northern,Kilinochchi,Kilinochchi,Rice (white),Retail,LKR,224.56,0.74
+2023-06-15,Northern,Mannar,Mannar,Rice (white),Retail,LKR,225.54,0.75
+2023-06-15,Northern,Mullattivu,Mullativu,Rice (white),Retail,LKR,228.0,0.75
+2023-06-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (medium grain),Retail,LKR,219.5,0.73
+2023-06-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,230.5,0.76
+2023-06-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (white),Retail,LKR,227.5,0.75
+2023-06-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (white),Retail,LKR,230.57,0.76
+2023-06-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,220.0,0.73
+2023-06-15,Southern,Hambantota,Hambantota,Rice (white),Retail,LKR,230.0,0.76
+2023-06-15,Southern,Matara,Matara,Rice (white),Retail,LKR,229.75,0.76
+2023-06-15,Uva,Badulla,Keppetipola (DEC},Rice (medium grain),Retail,LKR,214.6,0.71
+2023-06-15,Uva,Moneragala,Dammbagalla,Rice (medium grain),Retail,LKR,214.8,0.71
+2023-06-15,Uva,Moneragala,Monaragala,Rice (medium grain),Retail,LKR,217.0,0.72
+2023-06-15,Uva,Badulla,Keppetipola (DEC},Rice (white),Retail,LKR,223.8,0.74
+2023-06-15,Uva,Moneragala,Monaragala,Rice (white),Retail,LKR,230.0,0.76
+2023-06-15,Western,Colombo,Colombo City,Rice (medium grain),Retail,LKR,217.79,0.72
+2023-06-15,Western,Gampaha,Gampaha,Rice (medium grain),Retail,LKR,220.0,0.73
+2023-06-15,Western,Kalutara,Kalutara,Rice (medium grain),Retail,LKR,219.3,0.73
+2023-06-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,230.16,0.76
+2023-06-15,Western,Colombo,Meegoda(DEC),Rice (white),Retail,LKR,230.0,0.76
+2023-06-15,Western,Gampaha,Gampaha,Rice (white),Retail,LKR,230.0,0.76
+2023-06-15,Western,Kalutara,Kalutara,Rice (white),Retail,LKR,230.67,0.76
+2023-07-15,Central,Kandy,Kandy,Rice (medium grain),Retail,LKR,215.0,0.67
+2023-07-15,Central,Matale,Matale,Rice (medium grain),Retail,LKR,213.16,0.67
+2023-07-15,Central,Nuwara Eliya,Hanguranketha,Rice (medium grain),Retail,LKR,214.24,0.67
+2023-07-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (medium grain),Retail,LKR,212.24,0.67
+2023-07-15,Central,Kandy,Kandy,Rice (white),Retail,LKR,229.2,0.72
+2023-07-15,Central,Matale,Matale,Rice (white),Retail,LKR,228.88,0.72
+2023-07-15,Central,Nuwara Eliya,Hanguranketha,Rice (white),Retail,LKR,228.54,0.72
+2023-07-15,Eastern,Batticaloa,Batticaloa,Rice (medium grain),Retail,LKR,192.4,0.6
+2023-07-15,Eastern,Ampara,Dehiattakandiya,Rice (white),Retail,LKR,231.0,0.72
+2023-07-15,Eastern,Batticaloa,Batticaloa,Rice (white),Retail,LKR,229.2,0.72
+2023-07-15,Eastern,Trincomalee,Trincomalee,Rice (white),Retail,LKR,225.0,0.71
+2023-07-15,North Central,Anuradhapura,Anuradhapura,Rice (medium grain),Retail,LKR,215.2,0.67
+2023-07-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (medium grain),Retail,LKR,215.4,0.68
+2023-07-15,North Central,Anuradhapura,Thambuttegama,Rice (medium grain),Retail,LKR,220.0,0.69
+2023-07-15,North Central,Polonnaruwa,Polonnaruwa,Rice (medium grain),Retail,LKR,219.32,0.69
+2023-07-15,North Central,Anuradhapura,Thambuttegama,Rice (white),Retail,LKR,230.0,0.72
+2023-07-15,North Central,Polonnaruwa,Polonnaruwa,Rice (white),Retail,LKR,229.48,0.72
+2023-07-15,North Western,Kurunegala,Kurunegala,Rice (medium grain),Retail,LKR,216.73,0.68
+2023-07-15,North Western,Kurunegala,Nikaweratiya,Rice (medium grain),Retail,LKR,212.33,0.67
+2023-07-15,North Western,Kurunegala,Kurunegala,Rice (white),Retail,LKR,230.0,0.72
+2023-07-15,North Western,Kurunegala,Nikaweratiya,Rice (white),Retail,LKR,230.0,0.72
+2023-07-15,Northern,Kilinochchi,Kilinochchi,Rice (medium grain),Retail,LKR,194.12,0.61
+2023-07-15,Northern,Mannar,Mannar,Rice (medium grain),Retail,LKR,196.0,0.61
+2023-07-15,Northern,Mullattivu,Mullativu,Rice (medium grain),Retail,LKR,196.46,0.62
+2023-07-15,Northern,Kilinochchi,Kilinochchi,Rice (white),Retail,LKR,229.0,0.72
+2023-07-15,Northern,Mannar,Mannar,Rice (white),Retail,LKR,226.0,0.71
+2023-07-15,Northern,Mullattivu,Mullativu,Rice (white),Retail,LKR,228.0,0.71
+2023-07-15,Northern,Vavuniya,Vavuniya,Rice (white),Retail,LKR,222.9,0.7
+2023-07-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (medium grain),Retail,LKR,219.0,0.69
+2023-07-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,230.0,0.72
+2023-07-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (white),Retail,LKR,224.5,0.7
+2023-07-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,220.0,0.69
+2023-07-15,Southern,Matara,Matara,Rice (medium grain),Retail,LKR,217.35,0.68
+2023-07-15,Southern,Galle,Galle,Rice (white),Retail,LKR,230.0,0.72
+2023-07-15,Southern,Hambantota,Hambantota,Rice (white),Retail,LKR,230.0,0.72
+2023-07-15,Southern,Matara,Matara,Rice (white),Retail,LKR,230.0,0.72
+2023-07-15,Uva,Badulla,Badulla,Rice (medium grain),Retail,LKR,199.38,0.62
+2023-07-15,Uva,Badulla,Keppetipola (DEC},Rice (medium grain),Retail,LKR,214.52,0.67
+2023-07-15,Uva,Moneragala,Monaragala,Rice (medium grain),Retail,LKR,217.0,0.68
+2023-07-15,Uva,Badulla,Keppetipola (DEC},Rice (white),Retail,LKR,228.2,0.72
+2023-07-15,Uva,Moneragala,Dammbagalla,Rice (white),Retail,LKR,229.6,0.72
+2023-07-15,Uva,Moneragala,Monaragala,Rice (white),Retail,LKR,230.0,0.72
+2023-07-15,Western,Colombo,Colombo City,Rice (medium grain),Retail,LKR,215.78,0.68
+2023-07-15,Western,Gampaha,Gampaha,Rice (medium grain),Retail,LKR,220.0,0.69
+2023-07-15,Western,Kalutara,Kalutara,Rice (medium grain),Retail,LKR,210.87,0.66
+2023-07-15,Western,Gampaha,Gampaha,Rice (white),Retail,LKR,230.0,0.72
+2023-07-15,Western,Kalutara,Kalutara,Rice (white),Retail,LKR,231.56,0.73
+2023-08-15,Central,Kandy,Kandy,Rice (medium grain),Retail,LKR,215.65,0.67
+2023-08-15,Central,Matale,Matale,Rice (medium grain),Retail,LKR,212.2,0.66
+2023-08-15,Central,Nuwara Eliya,Hanguranketha,Rice (medium grain),Retail,LKR,214.4,0.67
+2023-08-15,Central,Kandy,Kandy,Rice (white),Retail,LKR,229.4,0.72
+2023-08-15,Central,Matale,Matale,Rice (white),Retail,LKR,229.2,0.72
+2023-08-15,Eastern,Ampara,Ampara,Rice (medium grain),Retail,LKR,220.0,0.69
+2023-08-15,Eastern,Ampara,Dehiattakandiya,Rice (medium grain),Retail,LKR,219.17,0.68
+2023-08-15,Eastern,Batticaloa,Batticaloa,Rice (medium grain),Retail,LKR,198.4,0.62
+2023-08-15,Eastern,Ampara,Ampara,Rice (white),Retail,LKR,230.0,0.72
+2023-08-15,Eastern,Batticaloa,Batticaloa,Rice (white),Retail,LKR,230.8,0.72
+2023-08-15,Eastern,Trincomalee,Trincomalee,Rice (white),Retail,LKR,232.25,0.73
+2023-08-15,North Central,Anuradhapura,Anuradhapura,Rice (medium grain),Retail,LKR,215.5,0.67
+2023-08-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (medium grain),Retail,LKR,214.6,0.67
+2023-08-15,North Central,Anuradhapura,Thambuttegama,Rice (medium grain),Retail,LKR,220.0,0.69
+2023-08-15,North Central,Polonnaruwa,Polonnaruwa,Rice (medium grain),Retail,LKR,219.0,0.68
+2023-08-15,North Central,Anuradhapura,Anuradhapura,Rice (white),Retail,LKR,230.0,0.72
+2023-08-15,North Central,Anuradhapura,Thambuttegama,Rice (white),Retail,LKR,230.0,0.72
+2023-08-15,North Central,Polonnaruwa,Polonnaruwa,Rice (white),Retail,LKR,229.4,0.72
+2023-08-15,North Western,Kurunegala,Kurunegala,Rice (medium grain),Retail,LKR,213.75,0.67
+2023-08-15,North Western,Kurunegala,Nikaweratiya,Rice (medium grain),Retail,LKR,212.08,0.66
+2023-08-15,North Western,Puttalam,Puttalam,Rice (medium grain),Retail,LKR,217.55,0.68
+2023-08-15,North Western,Kurunegala,Nikaweratiya,Rice (white),Retail,LKR,230.0,0.72
+2023-08-15,North Western,Puttalam,Puttalam,Rice (white),Retail,LKR,230.0,0.72
+2023-08-15,Northern,Jaffna,Jaffna,Rice (medium grain),Retail,LKR,196.67,0.61
+2023-08-15,Northern,Kilinochchi,Kilinochchi,Rice (medium grain),Retail,LKR,198.67,0.62
+2023-08-15,Northern,Mannar,Mannar,Rice (medium grain),Retail,LKR,195.0,0.61
+2023-08-15,Northern,Mullattivu,Mullativu,Rice (medium grain),Retail,LKR,201.0,0.63
+2023-08-15,Northern,Vavuniya,Vavuniya,Rice (medium grain),Retail,LKR,202.44,0.63
+2023-08-15,Northern,Mannar,Mannar,Rice (white),Retail,LKR,226.0,0.71
+2023-08-15,Sabaragamuwa,Kegalle,Kegalle,Rice (medium grain),Retail,LKR,215.0,0.67
+2023-08-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (medium grain),Retail,LKR,215.81,0.67
+2023-08-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,230.0,0.72
+2023-08-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (white),Retail,LKR,227.17,0.71
+2023-08-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,220.0,0.69
+2023-08-15,Southern,Galle,Galle,Rice (white),Retail,LKR,230.0,0.72
+2023-08-15,Southern,Hambantota,Hambantota,Rice (white),Retail,LKR,230.0,0.72
+2023-08-15,Uva,Badulla,Keppetipola (DEC},Rice (medium grain),Retail,LKR,210.5,0.66
+2023-08-15,Uva,Moneragala,Monaragala,Rice (medium grain),Retail,LKR,218.05,0.68
+2023-08-15,Uva,Badulla,Keppetipola (DEC},Rice (white),Retail,LKR,227.0,0.71
+2023-08-15,Uva,Moneragala,Dammbagalla,Rice (white),Retail,LKR,229.05,0.72
+2023-08-15,Western,Colombo,Colombo City,Rice (medium grain),Retail,LKR,218.62,0.68
+2023-08-15,Western,Gampaha,Gampaha,Rice (medium grain),Retail,LKR,219.0,0.68
+2023-08-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,230.9,0.72
+2023-08-15,Western,Colombo,Meegoda(DEC),Rice (white),Retail,LKR,226.0,0.71
+2023-09-15,Central,Matale,Matale,Rice (medium grain),Retail,LKR,217.1,0.67
+2023-09-15,Central,Nuwara Eliya,Hanguranketha,Rice (medium grain),Retail,LKR,217.3,0.67
+2023-09-15,Central,Matale,Matale,Rice (white),Retail,LKR,229.9,0.71
+2023-09-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (white),Retail,LKR,231.5,0.72
+2023-09-15,Eastern,Ampara,Ampara,Rice (medium grain),Retail,LKR,220.0,0.68
+2023-09-15,Eastern,Ampara,Dehiattakandiya,Rice (medium grain),Retail,LKR,220.0,0.68
+2023-09-15,Eastern,Batticaloa,Batticaloa,Rice (medium grain),Retail,LKR,222.07,0.69
+2023-09-15,Eastern,Trincomalee,Trincomalee,Rice (medium grain),Retail,LKR,206.83,0.64
+2023-09-15,Eastern,Ampara,Ampara,Rice (white),Retail,LKR,231.25,0.72
+2023-09-15,Eastern,Ampara,Dehiattakandiya,Rice (white),Retail,LKR,233.75,0.72
+2023-09-15,Eastern,Trincomalee,Trincomalee,Rice (white),Retail,LKR,237.75,0.74
+2023-09-15,North Central,Anuradhapura,Thambuttegama,Rice (medium grain),Retail,LKR,220.0,0.68
+2023-09-15,North Central,Polonnaruwa,Polonnaruwa,Rice (medium grain),Retail,LKR,219.0,0.68
+2023-09-15,North Central,Anuradhapura,Anuradhapura,Rice (white),Retail,LKR,230.0,0.71
+2023-09-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (white),Retail,LKR,230.0,0.71
+2023-09-15,North Central,Anuradhapura,Thambuttegama,Rice (white),Retail,LKR,235.0,0.73
+2023-09-15,North Western,Kurunegala,Kurunegala,Rice (medium grain),Retail,LKR,218.75,0.68
+2023-09-15,North Western,Puttalam,Puttalam,Rice (medium grain),Retail,LKR,217.6,0.67
+2023-09-15,North Western,Kurunegala,Nikaweratiya,Rice (white),Retail,LKR,232.5,0.72
+2023-09-15,North Western,Puttalam,Puttalam,Rice (white),Retail,LKR,230.0,0.71
+2023-09-15,Northern,Jaffna,Jaffna,Rice (medium grain),Retail,LKR,228.0,0.71
+2023-09-15,Northern,Kilinochchi,Kilinochchi,Rice (medium grain),Retail,LKR,216.75,0.67
+2023-09-15,Northern,Mannar,Mannar,Rice (medium grain),Retail,LKR,215.25,0.67
+2023-09-15,Northern,Mullattivu,Mullativu,Rice (medium grain),Retail,LKR,215.0,0.67
+2023-09-15,Northern,Jaffna,Jaffna,Rice (white),Retail,LKR,230.0,0.71
+2023-09-15,Northern,Kilinochchi,Kilinochchi,Rice (white),Retail,LKR,236.75,0.73
+2023-09-15,Northern,Mannar,Mannar,Rice (white),Retail,LKR,230.0,0.71
+2023-09-15,Sabaragamuwa,Kegalle,Kegalle,Rice (medium grain),Retail,LKR,215.75,0.67
+2023-09-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (medium grain),Retail,LKR,216.88,0.67
+2023-09-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (medium grain),Retail,LKR,219.9,0.68
+2023-09-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,230.0,0.71
+2023-09-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (white),Retail,LKR,233.31,0.72
+2023-09-15,Southern,Matara,Matara,Rice (medium grain),Retail,LKR,220.0,0.68
+2023-09-15,Southern,Galle,Galle,Rice (white),Retail,LKR,230.0,0.71
+2023-09-15,Southern,Hambantota,Hambantota,Rice (white),Retail,LKR,230.0,0.71
+2023-09-15,Uva,Moneragala,Dammbagalla,Rice (medium grain),Retail,LKR,218.0,0.68
+2023-09-15,Uva,Badulla,Keppetipola (DEC},Rice (white),Retail,LKR,230.45,0.71
+2023-09-15,Uva,Moneragala,Dammbagalla,Rice (white),Retail,LKR,229.9,0.71
+2023-09-15,Uva,Moneragala,Monaragala,Rice (white),Retail,LKR,230.0,0.71
+2023-09-15,Western,Kalutara,Kalutara,Rice (medium grain),Retail,LKR,222.4,0.69
+2023-09-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,235.32,0.73
+2023-09-15,Western,Gampaha,Gampaha,Rice (white),Retail,LKR,230.0,0.71
+2023-09-15,Western,Kalutara,Kalutara,Rice (white),Retail,LKR,232.6,0.72
+2023-10-15,Central,Matale,Matale,Rice (medium grain),Retail,LKR,218.2,0.67
+2023-10-15,Central,Nuwara Eliya,Hanguranketha,Rice (medium grain),Retail,LKR,217.96,0.67
+2023-10-15,Central,Kandy,Kandy,Rice (white),Retail,LKR,232.35,0.72
+2023-10-15,Central,Matale,Matale,Rice (white),Retail,LKR,231.44,0.72
+2023-10-15,Central,Nuwara Eliya,Hanguranketha,Rice (white),Retail,LKR,233.0,0.72
+2023-10-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (white),Retail,LKR,232.44,0.72
+2023-10-15,Eastern,Ampara,Ampara,Rice (medium grain),Retail,LKR,220.0,0.68
+2023-10-15,Eastern,Ampara,Dehiattakandiya,Rice (medium grain),Retail,LKR,219.67,0.68
+2023-10-15,Eastern,Batticaloa,Batticaloa,Rice (medium grain),Retail,LKR,217.32,0.67
+2023-10-15,Eastern,Ampara,Ampara,Rice (white),Retail,LKR,232.0,0.72
+2023-10-15,North Central,Anuradhapura,Anuradhapura,Rice (medium grain),Retail,LKR,217.6,0.67
+2023-10-15,North Central,Anuradhapura,Anuradhapura,Rice (white),Retail,LKR,230.0,0.71
+2023-10-15,North Central,Polonnaruwa,Polonnaruwa,Rice (white),Retail,LKR,229.4,0.71
+2023-10-15,North Western,Kurunegala,Kurunegala,Rice (medium grain),Retail,LKR,219.12,0.68
+2023-10-15,North Western,Puttalam,Puttalam,Rice (medium grain),Retail,LKR,217.88,0.67
+2023-10-15,North Western,Kurunegala,Kurunegala,Rice (white),Retail,LKR,229.6,0.71
+2023-10-15,North Western,Kurunegala,Nikaweratiya,Rice (white),Retail,LKR,232.5,0.72
+2023-10-15,North Western,Puttalam,Puttalam,Rice (white),Retail,LKR,230.0,0.71
+2023-10-15,Northern,Mannar,Mannar,Rice (medium grain),Retail,LKR,219.57,0.68
+2023-10-15,Northern,Vavuniya,Vavuniya,Rice (medium grain),Retail,LKR,219.95,0.68
+2023-10-15,Northern,Jaffna,Jaffna,Rice (white),Retail,LKR,231.0,0.71
+2023-10-15,Northern,Kilinochchi,Kilinochchi,Rice (white),Retail,LKR,232.6,0.72
+2023-10-15,Northern,Vavuniya,Vavuniya,Rice (white),Retail,LKR,233.04,0.72
+2023-10-15,Sabaragamuwa,Kegalle,Kegalle,Rice (medium grain),Retail,LKR,217.9,0.67
+2023-10-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (medium grain),Retail,LKR,217.5,0.67
+2023-10-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (medium grain),Retail,LKR,217.67,0.67
+2023-10-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,230.4,0.71
+2023-10-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,220.0,0.68
+2023-10-15,Southern,Hambantota,Tissamaharama,Rice (medium grain),Retail,LKR,220.0,0.68
+2023-10-15,Uva,Badulla,Badulla,Rice (medium grain),Retail,LKR,216.51,0.67
+2023-10-15,Uva,Badulla,Keppetipola (DEC},Rice (medium grain),Retail,LKR,218.0,0.67
+2023-10-15,Uva,Moneragala,Dammbagalla,Rice (medium grain),Retail,LKR,217.48,0.67
+2023-10-15,Uva,Moneragala,Monaragala,Rice (medium grain),Retail,LKR,217.96,0.67
+2023-10-15,Uva,Badulla,Badulla,Rice (white),Retail,LKR,230.0,0.71
+2023-10-15,Uva,Moneragala,Dammbagalla,Rice (white),Retail,LKR,230.08,0.71
+2023-10-15,Uva,Moneragala,Monaragala,Rice (white),Retail,LKR,230.0,0.71
+2023-10-15,Western,Kalutara,Kalutara,Rice (medium grain),Retail,LKR,222.6,0.69
+2023-10-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,235.2,0.73
+2023-10-15,Western,Colombo,Meegoda(DEC),Rice (white),Retail,LKR,230.0,0.71
+2023-11-15,Central,Kandy,Kandy,Rice (medium grain),Retail,LKR,219.35,0.67
+2023-11-15,Central,Matale,Matale,Rice (medium grain),Retail,LKR,217.3,0.66
+2023-11-15,Central,Nuwara Eliya,Hanguranketha,Rice (medium grain),Retail,LKR,217.65,0.66
+2023-11-15,Central,Matale,Matale,Rice (white),Retail,LKR,235.0,0.72
+2023-11-15,Central,Nuwara Eliya,Hanguranketha,Rice (white),Retail,LKR,234.75,0.71
+2023-11-15,Eastern,Ampara,Ampara,Rice (medium grain),Retail,LKR,220.0,0.67
+2023-11-15,Eastern,Ampara,Dehiattakandiya,Rice (medium grain),Retail,LKR,220.0,0.67
+2023-11-15,Eastern,Batticaloa,Batticaloa,Rice (medium grain),Retail,LKR,218.87,0.67
+2023-11-15,Eastern,Trincomalee,Trincomalee,Rice (medium grain),Retail,LKR,214.67,0.65
+2023-11-15,Eastern,Ampara,Ampara,Rice (white),Retail,LKR,232.08,0.71
+2023-11-15,Eastern,Trincomalee,Trincomalee,Rice (white),Retail,LKR,233.75,0.71
+2023-11-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (medium grain),Retail,LKR,220.0,0.67
+2023-11-15,North Central,Anuradhapura,Thambuttegama,Rice (medium grain),Retail,LKR,220.0,0.67
+2023-11-15,North Central,Anuradhapura,Anuradhapura,Rice (white),Retail,LKR,230.62,0.7
+2023-11-15,North Central,Anuradhapura,Thambuttegama,Rice (white),Retail,LKR,239.58,0.73
+2023-11-15,North Western,Kurunegala,Kurunegala,Rice (medium grain),Retail,LKR,220.0,0.67
+2023-11-15,Northern,Jaffna,Jaffna,Rice (medium grain),Retail,LKR,219.18,0.67
+2023-11-15,Northern,Kilinochchi,Kilinochchi,Rice (medium grain),Retail,LKR,221.25,0.67
+2023-11-15,Northern,Mannar,Mannar,Rice (medium grain),Retail,LKR,218.5,0.67
+2023-11-15,Northern,Vavuniya,Vavuniya,Rice (medium grain),Retail,LKR,217.9,0.66
+2023-11-15,Northern,Mannar,Mannar,Rice (white),Retail,LKR,230.0,0.7
+2023-11-15,Sabaragamuwa,Kegalle,Kegalle,Rice (medium grain),Retail,LKR,218.94,0.67
+2023-11-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (medium grain),Retail,LKR,217.5,0.66
+2023-11-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (white),Retail,LKR,234.12,0.71
+2023-11-15,Southern,Hambantota,Tissamaharama,Rice (medium grain),Retail,LKR,222.25,0.68
+2023-11-15,Southern,Galle,Galle,Rice (white),Retail,LKR,240.0,0.73
+2023-11-15,Southern,Hambantota,Hambantota,Rice (white),Retail,LKR,230.62,0.7
+2023-11-15,Southern,Matara,Matara,Rice (white),Retail,LKR,230.62,0.7
+2023-11-15,Uva,Badulla,Badulla,Rice (medium grain),Retail,LKR,217.5,0.66
+2023-11-15,Uva,Badulla,Keppetipola (DEC},Rice (medium grain),Retail,LKR,217.3,0.66
+2023-11-15,Uva,Moneragala,Dammbagalla,Rice (medium grain),Retail,LKR,217.15,0.66
+2023-11-15,Uva,Moneragala,Monaragala,Rice (medium grain),Retail,LKR,219.75,0.67
+2023-11-15,Uva,Badulla,Keppetipola (DEC},Rice (white),Retail,LKR,234.85,0.71
+2023-11-15,Uva,Moneragala,Dammbagalla,Rice (white),Retail,LKR,234.0,0.71
+2023-11-15,Uva,Moneragala,Monaragala,Rice (white),Retail,LKR,231.0,0.7
+2023-11-15,Western,Colombo,Colombo City,Rice (medium grain),Retail,LKR,224.19,0.68
+2023-11-15,Western,Colombo,Meegoda(DEC),Rice (medium grain),Retail,LKR,217.5,0.66
+2023-11-15,Western,Gampaha,Gampaha,Rice (medium grain),Retail,LKR,220.0,0.67
+2023-11-15,Western,Colombo,Meegoda(DEC),Rice (white),Retail,LKR,231.4,0.7
+2023-12-15,Central,Kandy,Kandy,Rice (medium grain),Retail,LKR,220.0,0.67
+2023-12-15,Central,Nuwara Eliya,Hanguranketha,Rice (medium grain),Retail,LKR,218.5,0.67
+2023-12-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (medium grain),Retail,LKR,216.15,0.66
+2023-12-15,Central,Kandy,Kandy,Rice (white),Retail,LKR,245.75,0.75
+2023-12-15,Central,Matale,Matale,Rice (white),Retail,LKR,237.25,0.73
+2023-12-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (white),Retail,LKR,241.7,0.74
+2023-12-15,Eastern,Ampara,Ampara,Rice (medium grain),Retail,LKR,220.0,0.67
+2023-12-15,Eastern,Trincomalee,Trincomalee,Rice (medium grain),Retail,LKR,217.75,0.67
+2023-12-15,Eastern,Ampara,Dehiattakandiya,Rice (white),Retail,LKR,250.21,0.77
+2023-12-15,Eastern,Batticaloa,Batticaloa,Rice (white),Retail,LKR,242.53,0.74
+2023-12-15,Eastern,Trincomalee,Trincomalee,Rice (white),Retail,LKR,242.75,0.74
+2023-12-15,North Central,Anuradhapura,Anuradhapura,Rice (medium grain),Retail,LKR,220.0,0.67
+2023-12-15,North Central,Anuradhapura,Anuradhapura,Rice (white),Retail,LKR,235.0,0.72
+2023-12-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (white),Retail,LKR,233.0,0.71
+2023-12-15,North Central,Polonnaruwa,Polonnaruwa,Rice (white),Retail,LKR,230.93,0.71
+2023-12-15,North Western,Kurunegala,Kurunegala,Rice (medium grain),Retail,LKR,220.0,0.67
+2023-12-15,North Western,Puttalam,Puttalam,Rice (medium grain),Retail,LKR,220.0,0.67
+2023-12-15,North Western,Kurunegala,Nikaweratiya,Rice (white),Retail,LKR,248.54,0.76
+2023-12-15,Northern,Jaffna,Jaffna,Rice (medium grain),Retail,LKR,218.94,0.67
+2023-12-15,Northern,Kilinochchi,Kilinochchi,Rice (medium grain),Retail,LKR,222.45,0.68
+2023-12-15,Northern,Mannar,Mannar,Rice (medium grain),Retail,LKR,223.08,0.68
+2023-12-15,Northern,Kilinochchi,Kilinochchi,Rice (white),Retail,LKR,240.32,0.74
+2023-12-15,Northern,Mannar,Mannar,Rice (white),Retail,LKR,247.1,0.76
+2023-12-15,Northern,Vavuniya,Vavuniya,Rice (white),Retail,LKR,237.6,0.73
+2023-12-15,Sabaragamuwa,Kegalle,Kegalle,Rice (medium grain),Retail,LKR,220.0,0.67
+2023-12-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (medium grain),Retail,LKR,218.75,0.67
+2023-12-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,253.75,0.78
+2023-12-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (white),Retail,LKR,242.5,0.74
+2023-12-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,220.0,0.67
+2023-12-15,Southern,Galle,Galle,Rice (white),Retail,LKR,257.5,0.79
+2023-12-15,Southern,Hambantota,Hambantota,Rice (white),Retail,LKR,236.92,0.72
+2023-12-15,Southern,Hambantota,Tissamaharama,Rice (white),Retail,LKR,237.0,0.73
+2023-12-15,Southern,Matara,Matara,Rice (white),Retail,LKR,237.69,0.73
+2023-12-15,Uva,Moneragala,Dammbagalla,Rice (medium grain),Retail,LKR,217.95,0.67
+2023-12-15,Uva,Badulla,Badulla,Rice (white),Retail,LKR,233.98,0.72
+2023-12-15,Uva,Badulla,Keppetipola (DEC},Rice (white),Retail,LKR,240.55,0.74
+2023-12-15,Uva,Moneragala,Monaragala,Rice (white),Retail,LKR,234.0,0.72
+2023-12-15,Western,Colombo,Colombo City,Rice (medium grain),Retail,LKR,225.59,0.69
+2023-12-15,Western,Colombo,Meegoda(DEC),Rice (medium grain),Retail,LKR,215.7,0.66
+2023-12-15,Western,Gampaha,Gampaha,Rice (medium grain),Retail,LKR,220.0,0.67
+2023-12-15,Western,Kalutara,Kalutara,Rice (white),Retail,LKR,238.3,0.73
+2024-01-15,Central,Kandy,Kandy,Rice (medium grain),Retail,LKR,220.0,0.68
+2024-01-15,Central,Matale,Matale,Rice (medium grain),Retail,LKR,217.56,0.68
+2024-01-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (medium grain),Retail,LKR,219.08,0.68
+2024-01-15,Central,Kandy,Kandy,Rice (white),Retail,LKR,259.4,0.81
+2024-01-15,Central,Matale,Matale,Rice (white),Retail,LKR,251.33,0.78
+2024-01-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (white),Retail,LKR,255.04,0.79
+2024-01-15,Eastern,Trincomalee,Trincomalee,Rice (medium grain),Retail,LKR,218.0,0.68
+2024-01-15,Eastern,Ampara,Ampara,Rice (white),Retail,LKR,270.0,0.84
+2024-01-15,Eastern,Ampara,Dehiattakandiya,Rice (white),Retail,LKR,257.29,0.8
+2024-01-15,Eastern,Batticaloa,Batticaloa,Rice (white),Retail,LKR,245.27,0.76
+2024-01-15,North Central,Anuradhapura,Anuradhapura,Rice (medium grain),Retail,LKR,220.0,0.68
+2024-01-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (medium grain),Retail,LKR,219.76,0.68
+2024-01-15,North Central,Polonnaruwa,Polonnaruwa,Rice (medium grain),Retail,LKR,219.0,0.68
+2024-01-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (white),Retail,LKR,237.4,0.74
+2024-01-15,North Western,Kurunegala,Kurunegala,Rice (medium grain),Retail,LKR,220.0,0.68
+2024-01-15,North Western,Puttalam,Puttalam,Rice (medium grain),Retail,LKR,220.0,0.68
+2024-01-15,North Western,Kurunegala,Kurunegala,Rice (white),Retail,LKR,254.67,0.79
+2024-01-15,North Western,Kurunegala,Nikaweratiya,Rice (white),Retail,LKR,267.0,0.83
+2024-01-15,North Western,Puttalam,Puttalam,Rice (white),Retail,LKR,246.67,0.77
+2024-01-15,Northern,Jaffna,Jaffna,Rice (medium grain),Retail,LKR,222.0,0.69
+2024-01-15,Northern,Kilinochchi,Kilinochchi,Rice (medium grain),Retail,LKR,222.76,0.69
+2024-01-15,Northern,Kilinochchi,Kilinochchi,Rice (white),Retail,LKR,247.12,0.77
+2024-01-15,Sabaragamuwa,Kegalle,Kegalle,Rice (medium grain),Retail,LKR,220.0,0.68
+2024-01-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (medium grain),Retail,LKR,217.5,0.68
+2024-01-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (medium grain),Retail,LKR,219.0,0.68
+2024-01-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,266.9,0.83
+2024-01-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (white),Retail,LKR,237.5,0.74
+2024-01-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (white),Retail,LKR,262.25,0.81
+2024-01-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,220.0,0.68
+2024-01-15,Southern,Hambantota,Tissamaharama,Rice (medium grain),Retail,LKR,225.2,0.7
+2024-01-15,Southern,Hambantota,Hambantota,Rice (white),Retail,LKR,246.0,0.76
+2024-01-15,Southern,Hambantota,Tissamaharama,Rice (white),Retail,LKR,246.0,0.76
+2024-01-15,Uva,Badulla,Bandarawela,Rice (medium grain),Retail,LKR,217.0,0.67
+2024-01-15,Uva,Moneragala,Dammbagalla,Rice (medium grain),Retail,LKR,218.52,0.68
+2024-01-15,Uva,Moneragala,Monaragala,Rice (medium grain),Retail,LKR,222.4,0.69
+2024-01-15,Uva,Badulla,Keppetipola (DEC},Rice (white),Retail,LKR,250.21,0.78
+2024-01-15,Western,Colombo,Colombo City,Rice (medium grain),Retail,LKR,224.25,0.7
+2024-01-15,Western,Colombo,Meegoda(DEC),Rice (medium grain),Retail,LKR,218.25,0.68
+2024-01-15,Western,Gampaha,Gampaha,Rice (medium grain),Retail,LKR,220.0,0.68
+2024-01-15,Western,Kalutara,Kalutara,Rice (medium grain),Retail,LKR,222.8,0.69
+2024-01-15,Western,Gampaha,Gampaha,Rice (white),Retail,LKR,259.9,0.81
+2024-02-15,Central,Matale,Matale,Rice (medium grain),Retail,LKR,217.4,0.7
+2024-02-15,Central,Nuwara Eliya,Hanguranketha,Rice (medium grain),Retail,LKR,216.84,0.69
+2024-02-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (medium grain),Retail,LKR,217.47,0.7
+2024-02-15,Eastern,Ampara,Ampara,Rice (medium grain),Retail,LKR,219.5,0.7
+2024-02-15,Eastern,Batticaloa,Batticaloa,Rice (medium grain),Retail,LKR,216.2,0.69
+2024-02-15,Eastern,Ampara,Ampara,Rice (white),Retail,LKR,270.0,0.86
+2024-02-15,Eastern,Trincomalee,Trincomalee,Rice (white),Retail,LKR,246.25,0.79
+2024-02-15,North Central,Anuradhapura,Anuradhapura,Rice (medium grain),Retail,LKR,220.0,0.7
+2024-02-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (medium grain),Retail,LKR,220.0,0.7
+2024-02-15,North Central,Polonnaruwa,Polonnaruwa,Rice (medium grain),Retail,LKR,218.83,0.7
+2024-02-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (white),Retail,LKR,247.0,0.79
+2024-02-15,North Central,Anuradhapura,Thambuttegama,Rice (white),Retail,LKR,264.17,0.84
+2024-02-15,North Western,Kurunegala,Nikaweratiya,Rice (medium grain),Retail,LKR,220.0,0.7
+2024-02-15,North Western,Kurunegala,Nikaweratiya,Rice (white),Retail,LKR,260.0,0.83
+2024-02-15,Northern,Jaffna,Jaffna,Rice (medium grain),Retail,LKR,211.5,0.68
+2024-02-15,Northern,Kilinochchi,Kilinochchi,Rice (medium grain),Retail,LKR,215.45,0.69
+2024-02-15,Northern,Mannar,Mannar,Rice (medium grain),Retail,LKR,219.52,0.7
+2024-02-15,Northern,Vavuniya,Vavuniya,Rice (medium grain),Retail,LKR,216.5,0.69
+2024-02-15,Northern,Jaffna,Jaffna,Rice (white),Retail,LKR,255.4,0.82
+2024-02-15,Northern,Kilinochchi,Kilinochchi,Rice (white),Retail,LKR,243.8,0.78
+2024-02-15,Northern,Mannar,Mannar,Rice (white),Retail,LKR,246.35,0.79
+2024-02-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (medium grain),Retail,LKR,217.5,0.7
+2024-02-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,269.0,0.86
+2024-02-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (white),Retail,LKR,262.92,0.84
+2024-02-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,220.0,0.7
+2024-02-15,Southern,Hambantota,Hambantota,Rice (medium grain),Retail,LKR,223.33,0.71
+2024-02-15,Southern,Hambantota,Tissamaharama,Rice (medium grain),Retail,LKR,226.5,0.72
+2024-02-15,Southern,Galle,Galle,Rice (white),Retail,LKR,269.58,0.86
+2024-02-15,Southern,Hambantota,Hambantota,Rice (white),Retail,LKR,246.0,0.79
+2024-02-15,Southern,Hambantota,Tissamaharama,Rice (white),Retail,LKR,242.5,0.78
+2024-02-15,Southern,Matara,Matara,Rice (white),Retail,LKR,257.19,0.82
+2024-02-15,Uva,Badulla,Badulla,Rice (medium grain),Retail,LKR,219.44,0.7
+2024-02-15,Uva,Badulla,Keppetipola (DEC},Rice (medium grain),Retail,LKR,217.7,0.7
+2024-02-15,Uva,Moneragala,Dammbagalla,Rice (medium grain),Retail,LKR,217.1,0.69
+2024-02-15,Uva,Badulla,Keppetipola (DEC},Rice (white),Retail,LKR,255.0,0.82
+2024-02-15,Uva,Moneragala,Dammbagalla,Rice (white),Retail,LKR,257.45,0.82
+2024-02-15,Uva,Moneragala,Monaragala,Rice (white),Retail,LKR,249.0,0.8
+2024-02-15,Western,Colombo,Colombo City,Rice (medium grain),Retail,LKR,223.59,0.72
+2024-02-15,Western,Colombo,Meegoda(DEC),Rice (medium grain),Retail,LKR,217.5,0.7
+2024-02-15,Western,Gampaha,Gampaha,Rice (medium grain),Retail,LKR,220.0,0.7
+2024-02-15,Western,Colombo,Meegoda(DEC),Rice (white),Retail,LKR,237.5,0.76
+2024-02-15,Western,Kalutara,Kalutara,Rice (white),Retail,LKR,251.55,0.8
+2024-03-15,Central,Kandy,Kandy,Rice (medium grain),Retail,LKR,219.6,0.72
+2024-03-15,Central,Nuwara Eliya,Hanguranketha,Rice (medium grain),Retail,LKR,217.85,0.71
+2024-03-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (medium grain),Retail,LKR,216.05,0.71
+2024-03-15,Central,Matale,Matale,Rice (white),Retail,LKR,255.0,0.84
+2024-03-15,Eastern,Ampara,Dehiattakandiya,Rice (medium grain),Retail,LKR,219.71,0.72
+2024-03-15,Eastern,Batticaloa,Batticaloa,Rice (medium grain),Retail,LKR,212.6,0.7
+2024-03-15,Eastern,Trincomalee,Trincomalee,Rice (medium grain),Retail,LKR,213.33,0.7
+2024-03-15,Eastern,Ampara,Dehiattakandiya,Rice (white),Retail,LKR,261.88,0.86
+2024-03-15,Eastern,Batticaloa,Batticaloa,Rice (white),Retail,LKR,246.35,0.81
+2024-03-15,Eastern,Trincomalee,Trincomalee,Rice (white),Retail,LKR,248.07,0.81
+2024-03-15,North Central,Anuradhapura,Anuradhapura,Rice (medium grain),Retail,LKR,220.0,0.72
+2024-03-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (medium grain),Retail,LKR,219.5,0.72
+2024-03-15,North Central,Anuradhapura,Thambuttegama,Rice (medium grain),Retail,LKR,220.0,0.72
+2024-03-15,North Central,Polonnaruwa,Polonnaruwa,Rice (medium grain),Retail,LKR,219.0,0.72
+2024-03-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (white),Retail,LKR,248.0,0.81
+2024-03-15,North Central,Anuradhapura,Thambuttegama,Rice (white),Retail,LKR,274.38,0.9
+2024-03-15,North Central,Polonnaruwa,Polonnaruwa,Rice (white),Retail,LKR,253.25,0.83
+2024-03-15,North Western,Kurunegala,Kurunegala,Rice (medium grain),Retail,LKR,220.0,0.72
+2024-03-15,North Western,Kurunegala,Nikaweratiya,Rice (medium grain),Retail,LKR,220.0,0.72
+2024-03-15,North Western,Puttalam,Puttalam,Rice (medium grain),Retail,LKR,221.6,0.73
+2024-03-15,North Western,Kurunegala,Kurunegala,Rice (white),Retail,LKR,260.0,0.85
+2024-03-15,North Western,Kurunegala,Nikaweratiya,Rice (white),Retail,LKR,270.0,0.88
+2024-03-15,Northern,Jaffna,Jaffna,Rice (medium grain),Retail,LKR,210.0,0.69
+2024-03-15,Northern,Kilinochchi,Kilinochchi,Rice (medium grain),Retail,LKR,213.75,0.7
+2024-03-15,Northern,Jaffna,Jaffna,Rice (white),Retail,LKR,250.55,0.82
+2024-03-15,Northern,Kilinochchi,Kilinochchi,Rice (white),Retail,LKR,245.7,0.81
+2024-03-15,Northern,Mannar,Mannar,Rice (white),Retail,LKR,242.0,0.79
+2024-03-15,Northern,Vavuniya,Vavuniya,Rice (white),Retail,LKR,252.4,0.83
+2024-03-15,Sabaragamuwa,Kegalle,Kegalle,Rice (medium grain),Retail,LKR,219.0,0.72
+2024-03-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (medium grain),Retail,LKR,215.88,0.71
+2024-03-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (medium grain),Retail,LKR,221.75,0.73
+2024-03-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,272.0,0.89
+2024-03-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (white),Retail,LKR,265.0,0.87
+2024-03-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,220.0,0.72
+2024-03-15,Southern,Hambantota,Hambantota,Rice (medium grain),Retail,LKR,223.33,0.73
+2024-03-15,Southern,Hambantota,Tissamaharama,Rice (medium grain),Retail,LKR,219.62,0.72
+2024-03-15,Southern,Matara,Matara,Rice (medium grain),Retail,LKR,220.0,0.72
+2024-03-15,Southern,Galle,Galle,Rice (white),Retail,LKR,250.0,0.82
+2024-03-15,Southern,Hambantota,Hambantota,Rice (white),Retail,LKR,246.0,0.81
+2024-03-15,Southern,Hambantota,Tissamaharama,Rice (white),Retail,LKR,247.5,0.81
+2024-03-15,Uva,Badulla,Badulla,Rice (medium grain),Retail,LKR,219.75,0.72
+2024-03-15,Uva,Badulla,Keppetipola (DEC},Rice (medium grain),Retail,LKR,215.4,0.71
+2024-03-15,Uva,Moneragala,Dammbagalla,Rice (medium grain),Retail,LKR,216.15,0.71
+2024-03-15,Uva,Moneragala,Monaragala,Rice (medium grain),Retail,LKR,221.0,0.72
+2024-03-15,Uva,Moneragala,Dammbagalla,Rice (white),Retail,LKR,256.12,0.84
+2024-03-15,Uva,Moneragala,Monaragala,Rice (white),Retail,LKR,258.5,0.85
+2024-03-15,Western,Kalutara,Kalutara,Rice (medium grain),Retail,LKR,220.6,0.72
+2024-03-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,251.88,0.83
+2024-04-15,Central,Kandy,Kandy,Rice (medium grain),Retail,LKR,218.16,0.73
+2024-04-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (medium grain),Retail,LKR,219.21,0.73
+2024-04-15,Central,Kandy,Kandy,Rice (white),Retail,LKR,256.0,0.86
+2024-04-15,Central,Matale,Matale,Rice (white),Retail,LKR,257.83,0.86
+2024-04-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (white),Retail,LKR,269.67,0.9
+2024-04-15,Eastern,Ampara,Ampara,Rice (medium grain),Retail,LKR,220.0,0.74
+2024-04-15,Eastern,Ampara,Dehiattakandiya,Rice (medium grain),Retail,LKR,219.7,0.73
+2024-04-15,Eastern,Ampara,Dehiattakandiya,Rice (white),Retail,LKR,263.12,0.88
+2024-04-15,Eastern,Batticaloa,Batticaloa,Rice (white),Retail,LKR,246.9,0.83
+2024-04-15,Eastern,Trincomalee,Trincomalee,Rice (white),Retail,LKR,249.13,0.83
+2024-04-15,North Central,Anuradhapura,Anuradhapura,Rice (medium grain),Retail,LKR,220.0,0.74
+2024-04-15,North Central,Anuradhapura,Thambuttegama,Rice (medium grain),Retail,LKR,220.0,0.74
+2024-04-15,North Central,Polonnaruwa,Polonnaruwa,Rice (medium grain),Retail,LKR,219.0,0.73
+2024-04-15,North Central,Anuradhapura,Anuradhapura,Rice (white),Retail,LKR,255.5,0.85
+2024-04-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (white),Retail,LKR,248.0,0.83
+2024-04-15,North Central,Polonnaruwa,Polonnaruwa,Rice (white),Retail,LKR,255.25,0.85
+2024-04-15,North Western,Kurunegala,Kurunegala,Rice (medium grain),Retail,LKR,218.5,0.73
+2024-04-15,North Western,Kurunegala,Nikaweratiya,Rice (medium grain),Retail,LKR,220.0,0.74
+2024-04-15,North Western,Puttalam,Puttalam,Rice (medium grain),Retail,LKR,220.2,0.74
+2024-04-15,North Western,Kurunegala,Kurunegala,Rice (white),Retail,LKR,254.83,0.85
+2024-04-15,North Western,Kurunegala,Nikaweratiya,Rice (white),Retail,LKR,270.0,0.9
+2024-04-15,Northern,Jaffna,Jaffna,Rice (medium grain),Retail,LKR,210.6,0.7
+2024-04-15,Northern,Mannar,Mannar,Rice (medium grain),Retail,LKR,218.0,0.73
+2024-04-15,Northern,Jaffna,Jaffna,Rice (white),Retail,LKR,247.6,0.83
+2024-04-15,Northern,Kilinochchi,Kilinochchi,Rice (white),Retail,LKR,247.2,0.83
+2024-04-15,Northern,Mannar,Mannar,Rice (white),Retail,LKR,246.73,0.83
+2024-04-15,Northern,Vavuniya,Vavuniya,Rice (white),Retail,LKR,247.3,0.83
+2024-04-15,Sabaragamuwa,Kegalle,Kegalle,Rice (medium grain),Retail,LKR,219.4,0.73
+2024-04-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (medium grain),Retail,LKR,214.9,0.72
+2024-04-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (medium grain),Retail,LKR,221.84,0.74
+2024-04-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,272.0,0.91
+2024-04-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (white),Retail,LKR,241.25,0.81
+2024-04-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,220.0,0.74
+2024-04-15,Southern,Hambantota,Hambantota,Rice (medium grain),Retail,LKR,221.67,0.74
+2024-04-15,Southern,Hambantota,Tissamaharama,Rice (medium grain),Retail,LKR,220.83,0.74
+2024-04-15,Southern,Matara,Matara,Rice (medium grain),Retail,LKR,220.0,0.74
+2024-04-15,Southern,Galle,Galle,Rice (white),Retail,LKR,267.08,0.89
+2024-04-15,Southern,Hambantota,Tissamaharama,Rice (white),Retail,LKR,250.0,0.84
+2024-04-15,Uva,Badulla,Badulla,Rice (medium grain),Retail,LKR,220.0,0.74
+2024-04-15,Uva,Badulla,Keppetipola (DEC},Rice (medium grain),Retail,LKR,218.21,0.73
+2024-04-15,Uva,Moneragala,Dammbagalla,Rice (medium grain),Retail,LKR,216.85,0.73
+2024-04-15,Uva,Badulla,Keppetipola (DEC},Rice (white),Retail,LKR,264.58,0.89
+2024-04-15,Uva,Moneragala,Monaragala,Rice (white),Retail,LKR,257.6,0.86
+2024-04-15,Western,Colombo,Colombo City,Rice (medium grain),Retail,LKR,224.07,0.75
+2024-04-15,Western,Colombo,Meegoda(DEC),Rice (medium grain),Retail,LKR,216.4,0.72
+2024-04-15,Western,Kalutara,Kalutara,Rice (medium grain),Retail,LKR,221.84,0.74
+2024-04-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,253.08,0.85
+2024-04-15,Western,Colombo,Meegoda(DEC),Rice (white),Retail,LKR,246.0,0.82
+2024-05-15,Central,Matale,Matale,Rice (medium grain),Retail,LKR,218.47,0.72
+2024-05-15,Central,Nuwara Eliya,Hanguranketha,Rice (medium grain),Retail,LKR,218.62,0.72
+2024-05-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (medium grain),Retail,LKR,219.2,0.73
+2024-05-15,Central,Kandy,Kandy,Rice (white),Retail,LKR,254.0,0.84
+2024-05-15,Central,Matale,Matale,Rice (white),Retail,LKR,260.56,0.86
+2024-05-15,Eastern,Ampara,Ampara,Rice (medium grain),Retail,LKR,220.0,0.73
+2024-05-15,Eastern,Ampara,Dehiattakandiya,Rice (medium grain),Retail,LKR,220.0,0.73
+2024-05-15,Eastern,Batticaloa,Batticaloa,Rice (medium grain),Retail,LKR,216.4,0.72
+2024-05-15,Eastern,Trincomalee,Trincomalee,Rice (medium grain),Retail,LKR,215.1,0.71
+2024-05-15,Eastern,Ampara,Ampara,Rice (white),Retail,LKR,270.0,0.89
+2024-05-15,Eastern,Ampara,Dehiattakandiya,Rice (white),Retail,LKR,262.5,0.87
+2024-05-15,Eastern,Trincomalee,Trincomalee,Rice (white),Retail,LKR,249.7,0.83
+2024-05-15,North Central,Anuradhapura,Anuradhapura,Rice (medium grain),Retail,LKR,220.0,0.73
+2024-05-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (medium grain),Retail,LKR,219.1,0.73
+2024-05-15,North Central,Polonnaruwa,Polonnaruwa,Rice (medium grain),Retail,LKR,219.0,0.73
+2024-05-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (white),Retail,LKR,248.0,0.82
+2024-05-15,North Western,Kurunegala,Kurunegala,Rice (medium grain),Retail,LKR,220.0,0.73
+2024-05-15,North Western,Puttalam,Puttalam,Rice (medium grain),Retail,LKR,220.0,0.73
+2024-05-15,North Western,Kurunegala,Nikaweratiya,Rice (white),Retail,LKR,270.0,0.89
+2024-05-15,Northern,Jaffna,Jaffna,Rice (medium grain),Retail,LKR,219.42,0.73
+2024-05-15,Northern,Vavuniya,Vavuniya,Rice (medium grain),Retail,LKR,221.1,0.73
+2024-05-15,Northern,Mannar,Mannar,Rice (white),Retail,LKR,246.0,0.81
+2024-05-15,Northern,Mullattivu,Mullativu,Rice (white),Retail,LKR,283.75,0.94
+2024-05-15,Sabaragamuwa,Kegalle,Kegalle,Rice (medium grain),Retail,LKR,220.0,0.73
+2024-05-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (medium grain),Retail,LKR,216.69,0.72
+2024-05-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (medium grain),Retail,LKR,225.56,0.75
+2024-05-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (white),Retail,LKR,267.0,0.88
+2024-05-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,220.0,0.73
+2024-05-15,Southern,Hambantota,Hambantota,Rice (medium grain),Retail,LKR,219.17,0.73
+2024-05-15,Southern,Hambantota,Tissamaharama,Rice (medium grain),Retail,LKR,221.88,0.74
+2024-05-15,Southern,Galle,Galle,Rice (white),Retail,LKR,273.44,0.91
+2024-05-15,Southern,Hambantota,Hambantota,Rice (white),Retail,LKR,248.0,0.82
+2024-05-15,Southern,Hambantota,Tissamaharama,Rice (white),Retail,LKR,256.5,0.85
+2024-05-15,Southern,Matara,Matara,Rice (white),Retail,LKR,260.0,0.86
+2024-05-15,Uva,Badulla,Badulla,Rice (medium grain),Retail,LKR,220.0,0.73
+2024-05-15,Uva,Badulla,Keppetipola (DEC},Rice (white),Retail,LKR,263.75,0.87
+2024-05-15,Uva,Moneragala,Dammbagalla,Rice (white),Retail,LKR,267.65,0.89
+2024-05-15,Western,Colombo,Colombo City,Rice (medium grain),Retail,LKR,224.62,0.74
+2024-05-15,Western,Colombo,Meegoda(DEC),Rice (medium grain),Retail,LKR,217.81,0.72
+2024-05-15,Western,Kalutara,Kalutara,Rice (medium grain),Retail,LKR,223.2,0.74
+2024-05-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,252.21,0.84
+2024-05-15,Western,Kalutara,Kalutara,Rice (white),Retail,LKR,254.33,0.84
+2024-06-15,Central,Kandy,Kandy,Rice (medium grain),Retail,LKR,223.0,0.73
+2024-06-15,Central,Matale,Matale,Rice (medium grain),Retail,LKR,218.47,0.72
+2024-06-15,Central,Kandy,Kandy,Rice (white),Retail,LKR,261.0,0.86
+2024-06-15,Central,Matale,Matale,Rice (white),Retail,LKR,260.56,0.86
+2024-06-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (white),Retail,LKR,275.0,0.9
+2024-06-15,Eastern,Ampara,Ampara,Rice (medium grain),Retail,LKR,220.0,0.72
+2024-06-15,Eastern,Ampara,Dehiattakandiya,Rice (medium grain),Retail,LKR,219.83,0.72
+2024-06-15,Eastern,Batticaloa,Batticaloa,Rice (medium grain),Retail,LKR,216.4,0.71
+2024-06-15,Eastern,Trincomalee,Trincomalee,Rice (medium grain),Retail,LKR,215.1,0.71
+2024-06-15,Eastern,Ampara,Ampara,Rice (white),Retail,LKR,270.0,0.89
+2024-06-15,Eastern,Ampara,Dehiattakandiya,Rice (white),Retail,LKR,260.42,0.86
+2024-06-15,North Central,Anuradhapura,Anuradhapura,Rice (white),Retail,LKR,263.12,0.87
+2024-06-15,North Western,Kurunegala,Kurunegala,Rice (medium grain),Retail,LKR,220.0,0.72
+2024-06-15,North Western,Kurunegala,Kurunegala,Rice (white),Retail,LKR,257.12,0.85
+2024-06-15,North Western,Puttalam,Puttalam,Rice (white),Retail,LKR,277.41,0.91
+2024-06-15,Northern,Jaffna,Jaffna,Rice (medium grain),Retail,LKR,222.0,0.73
+2024-06-15,Northern,Mannar,Mannar,Rice (medium grain),Retail,LKR,223.0,0.73
+2024-06-15,Northern,Vavuniya,Vavuniya,Rice (medium grain),Retail,LKR,222.45,0.73
+2024-06-15,Northern,Jaffna,Jaffna,Rice (white),Retail,LKR,249.0,0.82
+2024-06-15,Northern,Kilinochchi,Kilinochchi,Rice (white),Retail,LKR,247.85,0.82
+2024-06-15,Northern,Mannar,Mannar,Rice (white),Retail,LKR,246.0,0.81
+2024-06-15,Northern,Vavuniya,Vavuniya,Rice (white),Retail,LKR,250.15,0.82
+2024-06-15,Sabaragamuwa,Kegalle,Kegalle,Rice (medium grain),Retail,LKR,220.0,0.72
+2024-06-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (medium grain),Retail,LKR,216.5,0.71
+2024-06-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (medium grain),Retail,LKR,222.0,0.73
+2024-06-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,272.0,0.89
+2024-06-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (white),Retail,LKR,243.75,0.8
+2024-06-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,220.0,0.72
+2024-06-15,Southern,Hambantota,Hambantota,Rice (medium grain),Retail,LKR,218.89,0.72
+2024-06-15,Southern,Galle,Galle,Rice (white),Retail,LKR,275.83,0.91
+2024-06-15,Southern,Matara,Matara,Rice (white),Retail,LKR,258.65,0.85
+2024-06-15,Uva,Badulla,Badulla,Rice (medium grain),Retail,LKR,219.69,0.72
+2024-06-15,Uva,Badulla,Bandarawela,Rice (medium grain),Retail,LKR,222.25,0.73
+2024-06-15,Uva,Badulla,Keppetipola (DEC},Rice (medium grain),Retail,LKR,219.35,0.72
+2024-06-15,Uva,Moneragala,Monaragala,Rice (medium grain),Retail,LKR,218.05,0.72
+2024-06-15,Uva,Badulla,Badulla,Rice (white),Retail,LKR,269.38,0.89
+2024-06-15,Uva,Moneragala,Dammbagalla,Rice (white),Retail,LKR,267.65,0.88
+2024-06-15,Western,Kalutara,Kalutara,Rice (medium grain),Retail,LKR,222.6,0.73
+2024-06-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,251.44,0.83
+2024-06-15,Western,Colombo,Meegoda(DEC),Rice (white),Retail,LKR,247.25,0.81
+2024-06-15,Western,Kalutara,Kalutara,Rice (white),Retail,LKR,253.0,0.83
+2024-07-15,Central,Kandy,Kandy,Rice (medium grain),Retail,LKR,222.8,0.74
+2024-07-15,Central,Matale,Matale,Rice (medium grain),Retail,LKR,218.76,0.72
+2024-07-15,Central,Nuwara Eliya,Hanguranketha,Rice (medium grain),Retail,LKR,219.49,0.73
+2024-07-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (medium grain),Retail,LKR,221.76,0.73
+2024-07-15,Central,Matale,Matale,Rice (white),Retail,LKR,256.35,0.85
+2024-07-15,Central,Nuwara Eliya,Hanguranketha,Rice (white),Retail,LKR,260.0,0.86
+2024-07-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (white),Retail,LKR,264.75,0.87
+2024-07-15,Eastern,Ampara,Ampara,Rice (medium grain),Retail,LKR,219.79,0.73
+2024-07-15,Eastern,Batticaloa,Batticaloa,Rice (medium grain),Retail,LKR,220.52,0.73
+2024-07-15,Eastern,Trincomalee,Trincomalee,Rice (medium grain),Retail,LKR,222.8,0.74
+2024-07-15,Eastern,Ampara,Ampara,Rice (white),Retail,LKR,258.75,0.85
+2024-07-15,Eastern,Ampara,Dehiattakandiya,Rice (white),Retail,LKR,261.33,0.86
+2024-07-15,Eastern,Batticaloa,Batticaloa,Rice (white),Retail,LKR,247.88,0.82
+2024-07-15,Eastern,Trincomalee,Trincomalee,Rice (white),Retail,LKR,248.92,0.82
+2024-07-15,North Central,Anuradhapura,Anuradhapura,Rice (medium grain),Retail,LKR,220.0,0.73
+2024-07-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (medium grain),Retail,LKR,218.8,0.72
+2024-07-15,North Central,Anuradhapura,Thambuttegama,Rice (medium grain),Retail,LKR,213.5,0.71
+2024-07-15,North Central,Anuradhapura,Anuradhapura,Rice (white),Retail,LKR,264.0,0.87
+2024-07-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (white),Retail,LKR,248.0,0.82
+2024-07-15,North Western,Kurunegala,Nikaweratiya,Rice (medium grain),Retail,LKR,219.4,0.72
+2024-07-15,North Western,Puttalam,Puttalam,Rice (medium grain),Retail,LKR,217.5,0.72
+2024-07-15,North Western,Kurunegala,Nikaweratiya,Rice (white),Retail,LKR,258.5,0.85
+2024-07-15,North Western,Puttalam,Puttalam,Rice (white),Retail,LKR,249.22,0.82
+2024-07-15,Northern,Jaffna,Jaffna,Rice (medium grain),Retail,LKR,222.0,0.73
+2024-07-15,Northern,Mannar,Mannar,Rice (medium grain),Retail,LKR,225.15,0.74
+2024-07-15,Northern,Kilinochchi,Kilinochchi,Rice (white),Retail,LKR,247.48,0.82
+2024-07-15,Sabaragamuwa,Kegalle,Kegalle,Rice (medium grain),Retail,LKR,220.0,0.73
+2024-07-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (medium grain),Retail,LKR,222.84,0.74
+2024-07-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,272.0,0.9
+2024-07-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (white),Retail,LKR,262.0,0.87
+2024-07-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,220.0,0.73
+2024-07-15,Southern,Galle,Galle,Rice (white),Retail,LKR,271.33,0.9
+2024-07-15,Southern,Matara,Matara,Rice (white),Retail,LKR,261.33,0.86
+2024-07-15,Uva,Badulla,Badulla,Rice (medium grain),Retail,LKR,220.0,0.73
+2024-07-15,Uva,Badulla,Bandarawela,Rice (medium grain),Retail,LKR,222.0,0.73
+2024-07-15,Uva,Moneragala,Monaragala,Rice (medium grain),Retail,LKR,218.8,0.72
+2024-07-15,Uva,Badulla,Badulla,Rice (white),Retail,LKR,249.38,0.82
+2024-07-15,Uva,Moneragala,Monaragala,Rice (white),Retail,LKR,263.5,0.87
+2024-07-15,Western,Colombo,Colombo City,Rice (medium grain),Retail,LKR,224.66,0.74
+2024-07-15,Western,Colombo,Meegoda(DEC),Rice (medium grain),Retail,LKR,219.02,0.72
+2024-07-15,Western,Gampaha,Gampaha,Rice (medium grain),Retail,LKR,220.0,0.73
+2024-07-15,Western,Colombo,Meegoda(DEC),Rice (white),Retail,LKR,242.8,0.8
+2024-08-15,Central,Kandy,Kandy,Rice (medium grain),Retail,LKR,220.5,0.74
+2024-08-15,Central,Matale,Matale,Rice (medium grain),Retail,LKR,218.88,0.73
+2024-08-15,Central,Matale,Matale,Rice (white),Retail,LKR,249.69,0.84
+2024-08-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (white),Retail,LKR,254.06,0.85
+2024-08-15,Eastern,Ampara,Ampara,Rice (medium grain),Retail,LKR,215.35,0.72
+2024-08-15,Eastern,Ampara,Dehiattakandiya,Rice (medium grain),Retail,LKR,220.0,0.74
+2024-08-15,Eastern,Batticaloa,Batticaloa,Rice (medium grain),Retail,LKR,217.5,0.73
+2024-08-15,Eastern,Trincomalee,Trincomalee,Rice (medium grain),Retail,LKR,222.94,0.75
+2024-08-15,Eastern,Trincomalee,Trincomalee,Rice (white),Retail,LKR,248.7,0.83
+2024-08-15,North Central,Anuradhapura,Anuradhapura,Rice (medium grain),Retail,LKR,220.0,0.74
+2024-08-15,North Central,Anuradhapura,Thambuttegama,Rice (medium grain),Retail,LKR,218.0,0.73
+2024-08-15,North Central,Anuradhapura,Anuradhapura,Rice (white),Retail,LKR,260.67,0.87
+2024-08-15,North Central,Polonnaruwa,Polonnaruwa,Rice (white),Retail,LKR,258.75,0.87
+2024-08-15,North Western,Kurunegala,Nikaweratiya,Rice (medium grain),Retail,LKR,218.75,0.73
+2024-08-15,North Western,Puttalam,Puttalam,Rice (white),Retail,LKR,235.0,0.79
+2024-08-15,Northern,Jaffna,Jaffna,Rice (medium grain),Retail,LKR,222.0,0.74
+2024-08-15,Northern,Kilinochchi,Kilinochchi,Rice (medium grain),Retail,LKR,222.22,0.74
+2024-08-15,Northern,Mullattivu,Mullativu,Rice (medium grain),Retail,LKR,211.0,0.71
+2024-08-15,Northern,Vavuniya,Vavuniya,Rice (medium grain),Retail,LKR,220.74,0.74
+2024-08-15,Northern,Mannar,Mannar,Rice (white),Retail,LKR,246.5,0.82
+2024-08-15,Northern,Mullattivu,Mullativu,Rice (white),Retail,LKR,247.95,0.83
+2024-08-15,Northern,Vavuniya,Vavuniya,Rice (white),Retail,LKR,246.8,0.83
+2024-08-15,Sabaragamuwa,Kegalle,Kegalle,Rice (medium grain),Retail,LKR,220.0,0.74
+2024-08-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (medium grain),Retail,LKR,214.25,0.72
+2024-08-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (medium grain),Retail,LKR,220.62,0.74
+2024-08-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,272.0,0.91
+2024-08-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (white),Retail,LKR,244.06,0.82
+2024-08-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (white),Retail,LKR,265.15,0.89
+2024-08-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,220.0,0.74
+2024-08-15,Southern,Hambantota,Hambantota,Rice (white),Retail,LKR,247.5,0.83
+2024-08-15,Southern,Matara,Matara,Rice (white),Retail,LKR,246.25,0.82
+2024-08-15,Uva,Badulla,Badulla,Rice (medium grain),Retail,LKR,219.0,0.73
+2024-08-15,Uva,Moneragala,Dammbagalla,Rice (medium grain),Retail,LKR,218.95,0.73
+2024-08-15,Uva,Moneragala,Monaragala,Rice (medium grain),Retail,LKR,219.25,0.73
+2024-08-15,Uva,Badulla,Badulla,Rice (white),Retail,LKR,243.12,0.81
+2024-08-15,Uva,Moneragala,Dammbagalla,Rice (white),Retail,LKR,258.8,0.87
+2024-08-15,Uva,Moneragala,Monaragala,Rice (white),Retail,LKR,256.67,0.86
+2024-08-15,Western,Colombo,Colombo City,Rice (medium grain),Retail,LKR,223.92,0.75
+2024-08-15,Western,Colombo,Meegoda(DEC),Rice (medium grain),Retail,LKR,216.38,0.72
+2024-08-15,Western,Gampaha,Gampaha,Rice (medium grain),Retail,LKR,220.0,0.74
+2024-08-15,Western,Colombo,Meegoda(DEC),Rice (white),Retail,LKR,237.33,0.79
+2024-08-15,Western,Gampaha,Gampaha,Rice (white),Retail,LKR,252.0,0.84
+2024-09-15,Central,Matale,Matale,Rice (medium grain),Retail,LKR,230.12,0.76
+2024-09-15,Central,Nuwara Eliya,Hanguranketha,Rice (medium grain),Retail,LKR,224.5,0.74
+2024-09-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (medium grain),Retail,LKR,230.97,0.77
+2024-09-15,Central,Matale,Matale,Rice (white),Retail,LKR,240.96,0.8
+2024-09-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (white),Retail,LKR,246.88,0.82
+2024-09-15,Eastern,Ampara,Ampara,Rice (medium grain),Retail,LKR,226.93,0.75
+2024-09-15,Eastern,Trincomalee,Trincomalee,Rice (medium grain),Retail,LKR,233.14,0.77
+2024-09-15,Eastern,Ampara,Ampara,Rice (white),Retail,LKR,265.83,0.88
+2024-09-15,Eastern,Ampara,Dehiattakandiya,Rice (white),Retail,LKR,249.67,0.83
+2024-09-15,Eastern,Trincomalee,Trincomalee,Rice (white),Retail,LKR,244.0,0.81
+2024-09-15,North Central,Anuradhapura,Anuradhapura,Rice (medium grain),Retail,LKR,222.8,0.74
+2024-09-15,North Central,Polonnaruwa,Polonnaruwa,Rice (medium grain),Retail,LKR,225.12,0.75
+2024-09-15,North Western,Kurunegala,Kurunegala,Rice (medium grain),Retail,LKR,228.94,0.76
+2024-09-15,North Western,Kurunegala,Nikaweratiya,Rice (medium grain),Retail,LKR,230.8,0.76
+2024-09-15,North Western,Puttalam,Puttalam,Rice (medium grain),Retail,LKR,220.0,0.73
+2024-09-15,North Western,Kurunegala,Kurunegala,Rice (white),Retail,LKR,250.0,0.83
+2024-09-15,North Western,Puttalam,Puttalam,Rice (white),Retail,LKR,232.92,0.77
+2024-09-15,Northern,Kilinochchi,Kilinochchi,Rice (medium grain),Retail,LKR,235.98,0.78
+2024-09-15,Northern,Mullattivu,Mullativu,Rice (medium grain),Retail,LKR,227.93,0.76
+2024-09-15,Northern,Vavuniya,Vavuniya,Rice (medium grain),Retail,LKR,234.42,0.78
+2024-09-15,Northern,Jaffna,Jaffna,Rice (white),Retail,LKR,238.67,0.79
+2024-09-15,Northern,Kilinochchi,Kilinochchi,Rice (white),Retail,LKR,244.05,0.81
+2024-09-15,Northern,Mullattivu,Mullativu,Rice (white),Retail,LKR,245.4,0.81
+2024-09-15,Northern,Vavuniya,Vavuniya,Rice (white),Retail,LKR,247.05,0.82
+2024-09-15,Sabaragamuwa,Kegalle,Kegalle,Rice (medium grain),Retail,LKR,225.07,0.75
+2024-09-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (medium grain),Retail,LKR,228.2,0.76
+2024-09-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (white),Retail,LKR,265.4,0.88
+2024-09-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,222.25,0.74
+2024-09-15,Southern,Hambantota,Hambantota,Rice (medium grain),Retail,LKR,240.0,0.8
+2024-09-15,Southern,Matara,Matara,Rice (medium grain),Retail,LKR,222.67,0.74
+2024-09-15,Uva,Badulla,Badulla,Rice (medium grain),Retail,LKR,222.94,0.74
+2024-09-15,Uva,Badulla,Keppetipola (DEC},Rice (medium grain),Retail,LKR,228.73,0.76
+2024-09-15,Uva,Moneragala,Dammbagalla,Rice (medium grain),Retail,LKR,223.48,0.74
+2024-09-15,Uva,Badulla,Badulla,Rice (white),Retail,LKR,230.0,0.76
+2024-09-15,Uva,Moneragala,Dammbagalla,Rice (white),Retail,LKR,245.7,0.81
+2024-09-15,Uva,Moneragala,Monaragala,Rice (white),Retail,LKR,251.04,0.83
+2024-09-15,Western,Colombo,Colombo City,Rice (medium grain),Retail,LKR,230.82,0.76
+2024-09-15,Western,Gampaha,Gampaha,Rice (medium grain),Retail,LKR,222.5,0.74
+2024-09-15,Western,Colombo,Meegoda(DEC),Rice (white),Retail,LKR,232.4,0.77
+2024-10-15,Central,Kandy,Kandy,Rice (medium grain),Retail,LKR,230.5,0.79
+2024-10-15,Central,Matale,Matale,Rice (medium grain),Retail,LKR,227.55,0.78
+2024-10-15,Central,Nuwara Eliya,Hanguranketha,Rice (medium grain),Retail,LKR,224.5,0.77
+2024-10-15,Central,Kandy,Kandy,Rice (white),Retail,LKR,250.0,0.85
+2024-10-15,Central,Matale,Matale,Rice (white),Retail,LKR,236.5,0.81
+2024-10-15,Eastern,Ampara,Ampara,Rice (medium grain),Retail,LKR,227.77,0.78
+2024-10-15,Eastern,Ampara,Dehiattakandiya,Rice (medium grain),Retail,LKR,225.0,0.77
+2024-10-15,Eastern,Ampara,Ampara,Rice (white),Retail,LKR,241.54,0.82
+2024-10-15,Eastern,Ampara,Dehiattakandiya,Rice (white),Retail,LKR,235.83,0.8
+2024-10-15,Eastern,Trincomalee,Trincomalee,Rice (white),Retail,LKR,243.95,0.83
+2024-10-15,North Central,Polonnaruwa,Polonnaruwa,Rice (medium grain),Retail,LKR,227.88,0.78
+2024-10-15,North Central,Polonnaruwa,Polonnaruwa,Rice (white),Retail,LKR,235.21,0.8
+2024-10-15,North Western,Kurunegala,Nikaweratiya,Rice (medium grain),Retail,LKR,224.25,0.76
+2024-10-15,North Western,Kurunegala,Nikaweratiya,Rice (white),Retail,LKR,254.58,0.87
+2024-10-15,North Western,Puttalam,Puttalam,Rice (white),Retail,LKR,239.25,0.82
+2024-10-15,Northern,Jaffna,Jaffna,Rice (medium grain),Retail,LKR,235.5,0.8
+2024-10-15,Northern,Vavuniya,Vavuniya,Rice (medium grain),Retail,LKR,233.69,0.8
+2024-10-15,Northern,Jaffna,Jaffna,Rice (white),Retail,LKR,241.62,0.82
+2024-10-15,Northern,Vavuniya,Vavuniya,Rice (white),Retail,LKR,238.68,0.81
+2024-10-15,Sabaragamuwa,Kegalle,Kegalle,Rice (medium grain),Retail,LKR,226.5,0.77
+2024-10-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (medium grain),Retail,LKR,221.31,0.75
+2024-10-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (medium grain),Retail,LKR,233.96,0.8
+2024-10-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,238.25,0.81
+2024-10-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (white),Retail,LKR,257.52,0.88
+2024-10-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,222.08,0.76
+2024-10-15,Southern,Hambantota,Tissamaharama,Rice (medium grain),Retail,LKR,228.75,0.78
+2024-10-15,Southern,Galle,Galle,Rice (white),Retail,LKR,260.0,0.89
+2024-10-15,Southern,Hambantota,Hambantota,Rice (white),Retail,LKR,234.83,0.8
+2024-10-15,Southern,Hambantota,Tissamaharama,Rice (white),Retail,LKR,241.25,0.82
+2024-10-15,Southern,Matara,Matara,Rice (white),Retail,LKR,246.67,0.84
+2024-10-15,Uva,Badulla,Bandarawela,Rice (medium grain),Retail,LKR,225.25,0.77
+2024-10-15,Uva,Badulla,Keppetipola (DEC},Rice (medium grain),Retail,LKR,228.69,0.78
+2024-10-15,Uva,Moneragala,Dammbagalla,Rice (medium grain),Retail,LKR,227.15,0.77
+2024-10-15,Uva,Moneragala,Monaragala,Rice (medium grain),Retail,LKR,220.0,0.75
+2024-10-15,Uva,Badulla,Badulla,Rice (white),Retail,LKR,230.0,0.78
+2024-10-15,Uva,Badulla,Keppetipola (DEC},Rice (white),Retail,LKR,240.0,0.82
+2024-10-15,Western,Colombo,Meegoda(DEC),Rice (medium grain),Retail,LKR,220.75,0.75
+2024-10-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,245.36,0.84
+2024-10-15,Western,Colombo,Meegoda(DEC),Rice (white),Retail,LKR,230.0,0.78
+2024-10-15,Western,Gampaha,Gampaha,Rice (white),Retail,LKR,235.0,0.8
+2024-10-15,Western,Kalutara,Kalutara,Rice (white),Retail,LKR,241.9,0.82
+2024-11-15,Central,Kandy,Kandy,Rice (medium grain),Retail,LKR,240.0,0.82
+2024-11-15,Central,Matale,Matale,Rice (medium grain),Retail,LKR,239.0,0.82
+2024-11-15,Central,Nuwara Eliya,Hanguranketha,Rice (medium grain),Retail,LKR,231.67,0.79
+2024-11-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (medium grain),Retail,LKR,246.25,0.84
+2024-11-15,Central,Matale,Matale,Rice (white),Retail,LKR,244.38,0.84
+2024-11-15,Eastern,Ampara,Ampara,Rice (medium grain),Retail,LKR,231.06,0.79
+2024-11-15,Eastern,Ampara,Dehiattakandiya,Rice (medium grain),Retail,LKR,235.0,0.8
+2024-11-15,Eastern,Trincomalee,Trincomalee,Rice (medium grain),Retail,LKR,238.0,0.81
+2024-11-15,Eastern,Ampara,Dehiattakandiya,Rice (white),Retail,LKR,240.83,0.82
+2024-11-15,Eastern,Trincomalee,Trincomalee,Rice (white),Retail,LKR,241.05,0.82
+2024-11-15,North Central,Anuradhapura,Anuradhapura,Rice (medium grain),Retail,LKR,239.0,0.82
+2024-11-15,North Central,Anuradhapura,Anuradhapura,Rice (white),Retail,LKR,244.0,0.83
+2024-11-15,North Central,Anuradhapura,Thambuttegama,Rice (white),Retail,LKR,244.17,0.84
+2024-11-15,North Central,Polonnaruwa,Polonnaruwa,Rice (white),Retail,LKR,242.71,0.83
+2024-11-15,North Western,Kurunegala,Kurunegala,Rice (medium grain),Retail,LKR,230.67,0.79
+2024-11-15,North Western,Kurunegala,Nikaweratiya,Rice (medium grain),Retail,LKR,234.38,0.8
+2024-11-15,North Western,Puttalam,Puttalam,Rice (medium grain),Retail,LKR,244.17,0.84
+2024-11-15,North Western,Kurunegala,Nikaweratiya,Rice (white),Retail,LKR,252.5,0.86
+2024-11-15,North Western,Puttalam,Puttalam,Rice (white),Retail,LKR,238.89,0.82
+2024-11-15,Northern,Jaffna,Jaffna,Rice (medium grain),Retail,LKR,240.0,0.82
+2024-11-15,Northern,Kilinochchi,Kilinochchi,Rice (medium grain),Retail,LKR,240.15,0.82
+2024-11-15,Northern,Mannar,Mannar,Rice (medium grain),Retail,LKR,231.95,0.79
+2024-11-15,Northern,Jaffna,Jaffna,Rice (white),Retail,LKR,242.75,0.83
+2024-11-15,Northern,Kilinochchi,Kilinochchi,Rice (white),Retail,LKR,241.3,0.83
+2024-11-15,Northern,Mannar,Mannar,Rice (white),Retail,LKR,243.25,0.83
+2024-11-15,Northern,Mullattivu,Mullativu,Rice (white),Retail,LKR,242.85,0.83
+2024-11-15,Northern,Vavuniya,Vavuniya,Rice (white),Retail,LKR,238.07,0.81
+2024-11-15,Sabaragamuwa,Kegalle,Kegalle,Rice (medium grain),Retail,LKR,240.75,0.82
+2024-11-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (medium grain),Retail,LKR,223.0,0.76
+2024-11-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (medium grain),Retail,LKR,240.55,0.82
+2024-11-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (white),Retail,LKR,231.67,0.79
+2024-11-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (white),Retail,LKR,257.02,0.88
+2024-11-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,231.67,0.79
+2024-11-15,Southern,Hambantota,Hambantota,Rice (medium grain),Retail,LKR,237.78,0.81
+2024-11-15,Southern,Matara,Matara,Rice (medium grain),Retail,LKR,233.33,0.8
+2024-11-15,Southern,Galle,Galle,Rice (white),Retail,LKR,245.0,0.84
+2024-11-15,Southern,Hambantota,Hambantota,Rice (white),Retail,LKR,238.33,0.82
+2024-11-15,Uva,Badulla,Bandarawela,Rice (medium grain),Retail,LKR,235.56,0.81
+2024-11-15,Uva,Badulla,Keppetipola (DEC},Rice (medium grain),Retail,LKR,242.5,0.83
+2024-11-15,Uva,Moneragala,Dammbagalla,Rice (medium grain),Retail,LKR,233.96,0.8
+2024-11-15,Uva,Badulla,Keppetipola (DEC},Rice (white),Retail,LKR,249.38,0.85
+2024-11-15,Uva,Moneragala,Dammbagalla,Rice (white),Retail,LKR,241.06,0.82
+2024-11-15,Uva,Moneragala,Monaragala,Rice (white),Retail,LKR,245.0,0.84
+2024-11-15,Western,Colombo,Meegoda(DEC),Rice (medium grain),Retail,LKR,240.0,0.82
+2024-11-15,Western,Gampaha,Gampaha,Rice (medium grain),Retail,LKR,230.17,0.79
+2024-11-15,Western,Kalutara,Kalutara,Rice (medium grain),Retail,LKR,235.57,0.81
+2024-11-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,244.29,0.84
+2024-11-15,Western,Gampaha,Gampaha,Rice (white),Retail,LKR,239.67,0.82
+2024-11-15,Western,Kalutara,Kalutara,Rice (white),Retail,LKR,242.87,0.83
+2024-12-15,Central,Kandy,Kandy,Rice (medium grain),Retail,LKR,240.4,0.83
+2024-12-15,Central,Nuwara Eliya,Hanguranketha,Rice (medium grain),Retail,LKR,241.67,0.83
+2024-12-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (medium grain),Retail,LKR,255.88,0.88
+2024-12-15,Central,Kandy,Kandy,Rice (white),Retail,LKR,248.4,0.86
+2024-12-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (white),Retail,LKR,251.25,0.87
+2024-12-15,Eastern,Ampara,Dehiattakandiya,Rice (medium grain),Retail,LKR,237.0,0.82
+2024-12-15,Eastern,Trincomalee,Trincomalee,Rice (medium grain),Retail,LKR,247.2,0.85
+2024-12-15,Eastern,Ampara,Ampara,Rice (white),Retail,LKR,244.72,0.84
+2024-12-15,Eastern,Ampara,Dehiattakandiya,Rice (white),Retail,LKR,242.0,0.83
+2024-12-15,Eastern,Batticaloa,Batticaloa,Rice (white),Retail,LKR,248.0,0.85
+2024-12-15,North Central,Anuradhapura,Anuradhapura,Rice (medium grain),Retail,LKR,241.67,0.83
+2024-12-15,North Central,Anuradhapura,Thambuttegama,Rice (medium grain),Retail,LKR,244.22,0.84
+2024-12-15,North Central,Anuradhapura,Thambuttegama,Rice (white),Retail,LKR,246.1,0.85
+2024-12-15,North Central,Polonnaruwa,Polonnaruwa,Rice (white),Retail,LKR,241.53,0.83
+2024-12-15,North Western,Kurunegala,Kurunegala,Rice (medium grain),Retail,LKR,239.4,0.82
+2024-12-15,North Western,Puttalam,Puttalam,Rice (medium grain),Retail,LKR,239.07,0.82
+2024-12-15,North Western,Kurunegala,Kurunegala,Rice (white),Retail,LKR,240.0,0.83
+2024-12-15,North Western,Kurunegala,Nikaweratiya,Rice (white),Retail,LKR,254.69,0.88
+2024-12-15,Northern,Jaffna,Jaffna,Rice (medium grain),Retail,LKR,245.04,0.84
+2024-12-15,Northern,Kilinochchi,Kilinochchi,Rice (medium grain),Retail,LKR,243.73,0.84
+2024-12-15,Northern,Mullattivu,Mullativu,Rice (medium grain),Retail,LKR,248.39,0.86
+2024-12-15,Northern,Vavuniya,Vavuniya,Rice (medium grain),Retail,LKR,246.68,0.85
+2024-12-15,Northern,Jaffna,Jaffna,Rice (white),Retail,LKR,245.2,0.84
+2024-12-15,Northern,Kilinochchi,Kilinochchi,Rice (white),Retail,LKR,245.72,0.85
+2024-12-15,Northern,Mannar,Mannar,Rice (white),Retail,LKR,246.12,0.85
+2024-12-15,Sabaragamuwa,Kegalle,Kegalle,Rice (medium grain),Retail,LKR,239.2,0.82
+2024-12-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (medium grain),Retail,LKR,230.0,0.79
+2024-12-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (medium grain),Retail,LKR,243.85,0.84
+2024-12-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,252.0,0.87
+2024-12-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (white),Retail,LKR,243.0,0.84
+2024-12-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (white),Retail,LKR,252.93,0.87
+2024-12-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,244.17,0.84
+2024-12-15,Southern,Matara,Matara,Rice (medium grain),Retail,LKR,242.08,0.83
+2024-12-15,Southern,Galle,Galle,Rice (white),Retail,LKR,248.67,0.86
+2024-12-15,Southern,Hambantota,Tissamaharama,Rice (white),Retail,LKR,258.89,0.89
+2024-12-15,Southern,Matara,Matara,Rice (white),Retail,LKR,253.33,0.87
+2024-12-15,Uva,Badulla,Badulla,Rice (medium grain),Retail,LKR,240.0,0.83
+2024-12-15,Uva,Moneragala,Dammbagalla,Rice (medium grain),Retail,LKR,234.17,0.81
+2024-12-15,Uva,Moneragala,Monaragala,Rice (medium grain),Retail,LKR,230.0,0.79
+2024-12-15,Uva,Badulla,Bandarawela,Rice (white),Retail,LKR,241.67,0.83
+2024-12-15,Western,Colombo,Meegoda(DEC),Rice (medium grain),Retail,LKR,242.0,0.83
+2024-12-15,Western,Gampaha,Gampaha,Rice (medium grain),Retail,LKR,236.5,0.81
+2024-12-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,252.15,0.87
+2024-12-15,Western,Gampaha,Gampaha,Rice (white),Retail,LKR,241.0,0.83
+2024-12-15,Western,Kalutara,Kalutara,Rice (white),Retail,LKR,247.16,0.85
+2025-01-15,Central,Kandy,Kandy,Rice (medium grain),Retail,LKR,247.5,0.84
+2025-01-15,Central,Matale,Matale,Rice (medium grain),Retail,LKR,235.0,0.8
+2025-01-15,Central,Nuwara Eliya,Hanguranketha,Rice (medium grain),Retail,LKR,230.0,0.78
+2025-01-15,Eastern,Ampara,Dehiattakandiya,Rice (medium grain),Retail,LKR,230.0,0.78
+2025-01-15,Eastern,Trincomalee,Trincomalee,Rice (medium grain),Retail,LKR,236.8,0.8
+2025-01-15,Eastern,Ampara,Ampara,Rice (white),Retail,LKR,240.0,0.81
+2025-01-15,Eastern,Ampara,Dehiattakandiya,Rice (white),Retail,LKR,240.0,0.81
+2025-01-15,Eastern,Batticaloa,Batticaloa,Rice (white),Retail,LKR,241.56,0.82
+2025-01-15,North Central,Anuradhapura,Anuradhapura,Rice (medium grain),Retail,LKR,236.33,0.8
+2025-01-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (medium grain),Retail,LKR,240.0,0.81
+2025-01-15,North Central,Anuradhapura,Thambuttegama,Rice (medium grain),Retail,LKR,238.39,0.81
+2025-01-15,North Central,Anuradhapura,Anuradhapura,Rice (white),Retail,LKR,243.25,0.82
+2025-01-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (white),Retail,LKR,245.0,0.83
+2025-01-15,North Central,Anuradhapura,Thambuttegama,Rice (white),Retail,LKR,245.88,0.83
+2025-01-15,North Central,Polonnaruwa,Polonnaruwa,Rice (white),Retail,LKR,245.0,0.83
+2025-01-15,North Western,Puttalam,Puttalam,Rice (medium grain),Retail,LKR,240.58,0.81
+2025-01-15,North Western,Kurunegala,Kurunegala,Rice (white),Retail,LKR,245.0,0.83
+2025-01-15,North Western,Puttalam,Puttalam,Rice (white),Retail,LKR,247.5,0.84
+2025-01-15,Northern,Jaffna,Jaffna,Rice (medium grain),Retail,LKR,234.0,0.79
+2025-01-15,Northern,Kilinochchi,Kilinochchi,Rice (medium grain),Retail,LKR,238.9,0.81
+2025-01-15,Northern,Mannar,Mannar,Rice (medium grain),Retail,LKR,235.9,0.8
+2025-01-15,Northern,Jaffna,Jaffna,Rice (white),Retail,LKR,243.6,0.82
+2025-01-15,Northern,Kilinochchi,Kilinochchi,Rice (white),Retail,LKR,245.85,0.83
+2025-01-15,Northern,Mannar,Mannar,Rice (white),Retail,LKR,247.0,0.84
+2025-01-15,Northern,Mullattivu,Mullativu,Rice (white),Retail,LKR,247.65,0.84
+2025-01-15,Northern,Vavuniya,Vavuniya,Rice (white),Retail,LKR,244.68,0.83
+2025-01-15,Sabaragamuwa,Kegalle,Kegalle,Rice (medium grain),Retail,LKR,238.5,0.81
+2025-01-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (medium grain),Retail,LKR,230.0,0.78
+2025-01-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,252.25,0.85
+2025-01-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (white),Retail,LKR,240.0,0.81
+2025-01-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,243.33,0.82
+2025-01-15,Southern,Hambantota,Tissamaharama,Rice (medium grain),Retail,LKR,237.5,0.8
+2025-01-15,Southern,Galle,Galle,Rice (white),Retail,LKR,252.5,0.85
+2025-01-15,Southern,Hambantota,Tissamaharama,Rice (white),Retail,LKR,243.33,0.82
+2025-01-15,Southern,Matara,Matara,Rice (white),Retail,LKR,253.33,0.86
+2025-01-15,Uva,Badulla,Keppetipola (DEC},Rice (medium grain),Retail,LKR,260.83,0.88
+2025-01-15,Uva,Moneragala,Dammbagalla,Rice (medium grain),Retail,LKR,241.96,0.82
+2025-01-15,Uva,Moneragala,Monaragala,Rice (medium grain),Retail,LKR,238.75,0.81
+2025-01-15,Uva,Moneragala,Dammbagalla,Rice (white),Retail,LKR,247.5,0.84
+2025-01-15,Western,Colombo,Colombo City,Rice (medium grain),Retail,LKR,252.08,0.85
+2025-01-15,Western,Kalutara,Kalutara,Rice (medium grain),Retail,LKR,235.82,0.8
+2025-01-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,253.69,0.86
+2025-01-15,Western,Colombo,Meegoda(DEC),Rice (white),Retail,LKR,243.33,0.82
+2025-01-15,Western,Kalutara,Kalutara,Rice (white),Retail,LKR,243.78,0.82
+2025-02-15,Central,Kandy,Kandy,Rice (medium grain),Retail,LKR,241.75,0.82
+2025-02-15,Central,Matale,Matale,Rice (medium grain),Retail,LKR,231.98,0.79
+2025-02-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (medium grain),Retail,LKR,244.44,0.83
+2025-02-15,Central,Matale,Matale,Rice (white),Retail,LKR,243.12,0.82
+2025-02-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (white),Retail,LKR,246.67,0.84
+2025-02-15,Eastern,Ampara,Ampara,Rice (medium grain),Retail,LKR,230.0,0.78
+2025-02-15,Eastern,Ampara,Dehiattakandiya,Rice (medium grain),Retail,LKR,230.0,0.78
+2025-02-15,Eastern,Batticaloa,Batticaloa,Rice (medium grain),Retail,LKR,230.0,0.78
+2025-02-15,Eastern,Trincomalee,Trincomalee,Rice (medium grain),Retail,LKR,243.1,0.82
+2025-02-15,Eastern,Trincomalee,Trincomalee,Rice (white),Retail,LKR,246.25,0.83
+2025-02-15,North Central,Anuradhapura,Anuradhapura,Rice (medium grain),Retail,LKR,230.0,0.78
+2025-02-15,North Central,Anuradhapura,Anuradhapura,Rice (white),Retail,LKR,240.0,0.81
+2025-02-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (white),Retail,LKR,242.25,0.82
+2025-02-15,North Central,Anuradhapura,Thambuttegama,Rice (white),Retail,LKR,240.22,0.81
+2025-02-15,North Central,Polonnaruwa,Polonnaruwa,Rice (white),Retail,LKR,240.0,0.81
+2025-02-15,North Western,Kurunegala,Kurunegala,Rice (medium grain),Retail,LKR,235.33,0.8
+2025-02-15,North Western,Puttalam,Puttalam,Rice (medium grain),Retail,LKR,243.12,0.82
+2025-02-15,Northern,Jaffna,Jaffna,Rice (medium grain),Retail,LKR,234.8,0.8
+2025-02-15,Northern,Kilinochchi,Kilinochchi,Rice (medium grain),Retail,LKR,242.2,0.82
+2025-02-15,Northern,Mullattivu,Mullativu,Rice (medium grain),Retail,LKR,232.35,0.79
+2025-02-15,Northern,Kilinochchi,Kilinochchi,Rice (white),Retail,LKR,244.6,0.83
+2025-02-15,Northern,Vavuniya,Vavuniya,Rice (white),Retail,LKR,244.2,0.83
+2025-02-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (medium grain),Retail,LKR,230.0,0.78
+2025-02-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,242.17,0.82
+2025-02-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (white),Retail,LKR,240.0,0.81
+2025-02-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (white),Retail,LKR,250.8,0.85
+2025-02-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,230.0,0.78
+2025-02-15,Southern,Matara,Matara,Rice (medium grain),Retail,LKR,235.83,0.8
+2025-02-15,Southern,Galle,Galle,Rice (white),Retail,LKR,240.0,0.81
+2025-02-15,Southern,Hambantota,Tissamaharama,Rice (white),Retail,LKR,243.12,0.82
+2025-02-15,Uva,Badulla,Bandarawela,Rice (medium grain),Retail,LKR,230.0,0.78
+2025-02-15,Uva,Badulla,Keppetipola (DEC},Rice (medium grain),Retail,LKR,240.56,0.82
+2025-02-15,Uva,Moneragala,Dammbagalla,Rice (medium grain),Retail,LKR,235.28,0.8
+2025-02-15,Uva,Moneragala,Monaragala,Rice (medium grain),Retail,LKR,235.0,0.8
+2025-02-15,Uva,Moneragala,Dammbagalla,Rice (white),Retail,LKR,248.33,0.84
+2025-02-15,Western,Colombo,Colombo City,Rice (medium grain),Retail,LKR,240.41,0.81
+2025-02-15,Western,Colombo,Meegoda(DEC),Rice (medium grain),Retail,LKR,231.0,0.78
+2025-02-15,Western,Gampaha,Gampaha,Rice (medium grain),Retail,LKR,230.0,0.78
+2025-02-15,Western,Kalutara,Kalutara,Rice (medium grain),Retail,LKR,232.0,0.79
+2025-02-15,Western,Gampaha,Gampaha,Rice (white),Retail,LKR,240.33,0.81
+2025-02-15,Western,Kalutara,Kalutara,Rice (white),Retail,LKR,243.75,0.83
+2025-03-15,Central,Kandy,Kandy,Rice (medium grain),Retail,LKR,235.6,0.8
+2025-03-15,Central,Matale,Matale,Rice (medium grain),Retail,LKR,231.8,0.78
+2025-03-15,Central,Nuwara Eliya,Hanguranketha,Rice (medium grain),Retail,LKR,230.0,0.78
+2025-03-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (medium grain),Retail,LKR,232.08,0.78
+2025-03-15,Central,Kandy,Kandy,Rice (white),Retail,LKR,248.8,0.84
+2025-03-15,Central,Nuwara Eliya,Hanguranketha,Rice (white),Retail,LKR,240.0,0.81
+2025-03-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (white),Retail,LKR,254.33,0.86
+2025-03-15,Eastern,Ampara,Dehiattakandiya,Rice (medium grain),Retail,LKR,230.0,0.78
+2025-03-15,Eastern,Trincomalee,Trincomalee,Rice (medium grain),Retail,LKR,242.0,0.82
+2025-03-15,Eastern,Ampara,Ampara,Rice (white),Retail,LKR,240.0,0.81
+2025-03-15,Eastern,Batticaloa,Batticaloa,Rice (white),Retail,LKR,240.75,0.81
+2025-03-15,Eastern,Trincomalee,Trincomalee,Rice (white),Retail,LKR,247.2,0.83
+2025-03-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (medium grain),Retail,LKR,231.55,0.78
+2025-03-15,North Central,Anuradhapura,Thambuttegama,Rice (medium grain),Retail,LKR,230.24,0.78
+2025-03-15,North Central,Polonnaruwa,Polonnaruwa,Rice (medium grain),Retail,LKR,230.0,0.78
+2025-03-15,North Central,Polonnaruwa,Polonnaruwa,Rice (white),Retail,LKR,240.0,0.81
+2025-03-15,North Western,Kurunegala,Kurunegala,Rice (medium grain),Retail,LKR,230.0,0.78
+2025-03-15,North Western,Kurunegala,Nikaweratiya,Rice (medium grain),Retail,LKR,230.0,0.78
+2025-03-15,North Western,Puttalam,Puttalam,Rice (medium grain),Retail,LKR,233.5,0.79
+2025-03-15,North Western,Kurunegala,Kurunegala,Rice (white),Retail,LKR,241.85,0.82
+2025-03-15,North Western,Kurunegala,Nikaweratiya,Rice (white),Retail,LKR,239.8,0.81
+2025-03-15,North Western,Puttalam,Puttalam,Rice (white),Retail,LKR,255.0,0.86
+2025-03-15,Northern,Jaffna,Jaffna,Rice (medium grain),Retail,LKR,236.35,0.8
+2025-03-15,Northern,Kilinochchi,Kilinochchi,Rice (medium grain),Retail,LKR,235.12,0.79
+2025-03-15,Northern,Mullattivu,Mullativu,Rice (medium grain),Retail,LKR,233.56,0.79
+2025-03-15,Northern,Vavuniya,Vavuniya,Rice (white),Retail,LKR,244.52,0.83
+2025-03-15,Sabaragamuwa,Kegalle,Kegalle,Rice (medium grain),Retail,LKR,230.0,0.78
+2025-03-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (medium grain),Retail,LKR,229.93,0.78
+2025-03-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (medium grain),Retail,LKR,244.04,0.82
+2025-03-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,256.67,0.87
+2025-03-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (white),Retail,LKR,240.0,0.81
+2025-03-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (white),Retail,LKR,255.86,0.86
+2025-03-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,232.5,0.78
+2025-03-15,Southern,Hambantota,Hambantota,Rice (medium grain),Retail,LKR,230.0,0.78
+2025-03-15,Southern,Hambantota,Tissamaharama,Rice (white),Retail,LKR,239.67,0.81
+2025-03-15,Uva,Badulla,Badulla,Rice (medium grain),Retail,LKR,230.62,0.78
+2025-03-15,Uva,Badulla,Bandarawela,Rice (medium grain),Retail,LKR,232.67,0.79
+2025-03-15,Uva,Badulla,Keppetipola (DEC},Rice (medium grain),Retail,LKR,232.5,0.78
+2025-03-15,Uva,Moneragala,Dammbagalla,Rice (medium grain),Retail,LKR,229.64,0.78
+2025-03-15,Uva,Badulla,Badulla,Rice (white),Retail,LKR,247.92,0.84
+2025-03-15,Uva,Badulla,Bandarawela,Rice (white),Retail,LKR,254.33,0.86
+2025-03-15,Uva,Moneragala,Dammbagalla,Rice (white),Retail,LKR,249.33,0.84
+2025-03-15,Uva,Moneragala,Monaragala,Rice (white),Retail,LKR,243.96,0.82
+2025-03-15,Western,Colombo,Meegoda(DEC),Rice (medium grain),Retail,LKR,230.75,0.78
+2025-03-15,Western,Gampaha,Gampaha,Rice (medium grain),Retail,LKR,230.0,0.78
+2025-03-15,Western,Kalutara,Kalutara,Rice (medium grain),Retail,LKR,231.69,0.78
+2025-03-15,Western,Colombo,Meegoda(DEC),Rice (white),Retail,LKR,243.03,0.82
+2025-03-15,Western,Kalutara,Kalutara,Rice (white),Retail,LKR,248.58,0.84
+2025-04-15,Central,Kandy,Kandy,Rice (medium grain),Retail,LKR,235.0,0.79
+2025-04-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (white),Retail,LKR,258.06,0.86
+2025-04-15,Eastern,Ampara,Ampara,Rice (medium grain),Retail,LKR,230.0,0.77
+2025-04-15,Eastern,Ampara,Dehiattakandiya,Rice (medium grain),Retail,LKR,230.0,0.77
+2025-04-15,Eastern,Batticaloa,Batticaloa,Rice (medium grain),Retail,LKR,230.0,0.77
+2025-04-15,Eastern,Batticaloa,Batticaloa,Rice (white),Retail,LKR,240.75,0.81
+2025-04-15,North Central,Anuradhapura,Anuradhapura,Rice (medium grain),Retail,LKR,230.0,0.77
+2025-04-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (medium grain),Retail,LKR,231.5,0.78
+2025-04-15,North Central,Anuradhapura,Thambuttegama,Rice (medium grain),Retail,LKR,230.0,0.77
+2025-04-15,North Central,Anuradhapura,Anuradhapura,Rice (white),Retail,LKR,242.33,0.81
+2025-04-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (white),Retail,LKR,242.5,0.81
+2025-04-15,North Central,Anuradhapura,Thambuttegama,Rice (white),Retail,LKR,241.67,0.81
+2025-04-15,North Central,Polonnaruwa,Polonnaruwa,Rice (white),Retail,LKR,240.0,0.8
+2025-04-15,North Western,Puttalam,Puttalam,Rice (medium grain),Retail,LKR,231.88,0.78
+2025-04-15,North Western,Kurunegala,Nikaweratiya,Rice (white),Retail,LKR,240.0,0.8
+2025-04-15,North Western,Puttalam,Puttalam,Rice (white),Retail,LKR,259.62,0.87
+2025-04-15,Northern,Kilinochchi,Kilinochchi,Rice (medium grain),Retail,LKR,236.25,0.79
+2025-04-15,Northern,Mullattivu,Mullativu,Rice (medium grain),Retail,LKR,232.6,0.78
+2025-04-15,Northern,Vavuniya,Vavuniya,Rice (medium grain),Retail,LKR,237.5,0.8
+2025-04-15,Northern,Mullattivu,Mullativu,Rice (white),Retail,LKR,243.9,0.82
+2025-04-15,Northern,Vavuniya,Vavuniya,Rice (white),Retail,LKR,242.95,0.81
+2025-04-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (medium grain),Retail,LKR,229.25,0.77
+2025-04-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (medium grain),Retail,LKR,244.58,0.82
+2025-04-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,264.33,0.89
+2025-04-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (white),Retail,LKR,264.67,0.89
+2025-04-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,230.0,0.77
+2025-04-15,Southern,Galle,Galle,Rice (white),Retail,LKR,240.0,0.8
+2025-04-15,Southern,Hambantota,Hambantota,Rice (white),Retail,LKR,240.0,0.8
+2025-04-15,Southern,Matara,Matara,Rice (white),Retail,LKR,261.67,0.88
+2025-04-15,Uva,Badulla,Bandarawela,Rice (medium grain),Retail,LKR,233.33,0.78
+2025-04-15,Uva,Moneragala,Dammbagalla,Rice (medium grain),Retail,LKR,228.6,0.77
+2025-04-15,Uva,Moneragala,Monaragala,Rice (medium grain),Retail,LKR,240.0,0.8
+2025-04-15,Uva,Badulla,Bandarawela,Rice (white),Retail,LKR,260.0,0.87
+2025-04-15,Uva,Badulla,Keppetipola (DEC},Rice (white),Retail,LKR,252.92,0.85
+2025-04-15,Uva,Moneragala,Dammbagalla,Rice (white),Retail,LKR,251.11,0.84
+2025-04-15,Uva,Moneragala,Monaragala,Rice (white),Retail,LKR,243.33,0.82
+2025-04-15,Western,Colombo,Colombo City,Rice (medium grain),Retail,LKR,238.65,0.8
+2025-04-15,Western,Colombo,Meegoda(DEC),Rice (medium grain),Retail,LKR,230.0,0.77
+2025-04-15,Western,Kalutara,Kalutara,Rice (medium grain),Retail,LKR,230.0,0.77
+2025-04-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,250.32,0.84
+2025-04-15,Western,Kalutara,Kalutara,Rice (white),Retail,LKR,258.02,0.86
+2025-05-15,Central,Kandy,Kandy,Rice (medium grain),Retail,LKR,232.0,0.78
+2025-05-15,Central,Matale,Matale,Rice (medium grain),Retail,LKR,229.56,0.77
+2025-05-15,Central,Kandy,Kandy,Rice (white),Retail,LKR,250.0,0.84
+2025-05-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (white),Retail,LKR,255.0,0.85
+2025-05-15,Eastern,Trincomalee,Trincomalee,Rice (medium grain),Retail,LKR,233.67,0.78
+2025-05-15,Eastern,Ampara,Dehiattakandiya,Rice (white),Retail,LKR,261.88,0.88
+2025-05-15,Eastern,Trincomalee,Trincomalee,Rice (white),Retail,LKR,240.0,0.8
+2025-05-15,North Central,Anuradhapura,Anuradhapura,Rice (medium grain),Retail,LKR,230.0,0.77
+2025-05-15,North Central,Anuradhapura,Thambuttegama,Rice (medium grain),Retail,LKR,230.12,0.77
+2025-05-15,North Central,Polonnaruwa,Polonnaruwa,Rice (medium grain),Retail,LKR,230.0,0.77
+2025-05-15,North Central,Anuradhapura,Thambuttegama,Rice (white),Retail,LKR,246.4,0.82
+2025-05-15,North Central,Polonnaruwa,Polonnaruwa,Rice (white),Retail,LKR,240.0,0.8
+2025-05-15,North Western,Kurunegala,Kurunegala,Rice (medium grain),Retail,LKR,230.0,0.77
+2025-05-15,North Western,Kurunegala,Nikaweratiya,Rice (medium grain),Retail,LKR,232.0,0.78
+2025-05-15,North Western,Puttalam,Puttalam,Rice (medium grain),Retail,LKR,233.75,0.78
+2025-05-15,North Western,Kurunegala,Nikaweratiya,Rice (white),Retail,LKR,240.0,0.8
+2025-05-15,North Western,Puttalam,Puttalam,Rice (white),Retail,LKR,262.29,0.88
+2025-05-15,Northern,Kilinochchi,Kilinochchi,Rice (medium grain),Retail,LKR,240.15,0.8
+2025-05-15,Northern,Mullattivu,Mullativu,Rice (medium grain),Retail,LKR,232.75,0.78
+2025-05-15,Northern,Vavuniya,Vavuniya,Rice (medium grain),Retail,LKR,236.05,0.79
+2025-05-15,Northern,Mullattivu,Mullativu,Rice (white),Retail,LKR,242.89,0.81
+2025-05-15,Sabaragamuwa,Kegalle,Kegalle,Rice (medium grain),Retail,LKR,230.0,0.77
+2025-05-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (medium grain),Retail,LKR,229.42,0.77
+2025-05-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (medium grain),Retail,LKR,243.54,0.82
+2025-05-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,269.38,0.9
+2025-05-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (white),Retail,LKR,240.0,0.8
+2025-05-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (white),Retail,LKR,264.5,0.89
+2025-05-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,230.0,0.77
+2025-05-15,Southern,Hambantota,Hambantota,Rice (medium grain),Retail,LKR,230.0,0.77
+2025-05-15,Southern,Matara,Matara,Rice (medium grain),Retail,LKR,238.33,0.8
+2025-05-15,Southern,Galle,Galle,Rice (white),Retail,LKR,244.17,0.82
+2025-05-15,Southern,Hambantota,Hambantota,Rice (white),Retail,LKR,240.0,0.8
+2025-05-15,Southern,Matara,Matara,Rice (white),Retail,LKR,251.88,0.84
+2025-05-15,Uva,Badulla,Bandarawela,Rice (medium grain),Retail,LKR,230.94,0.77
+2025-05-15,Uva,Moneragala,Monaragala,Rice (medium grain),Retail,LKR,240.0,0.8
+2025-05-15,Uva,Badulla,Keppetipola (DEC},Rice (white),Retail,LKR,253.12,0.85
+2025-05-15,Uva,Moneragala,Monaragala,Rice (white),Retail,LKR,245.0,0.82
+2025-05-15,Western,Colombo,Colombo City,Rice (medium grain),Retail,LKR,233.35,0.78
+2025-05-15,Western,Colombo,Meegoda(DEC),Rice (medium grain),Retail,LKR,230.0,0.77
+2025-05-15,Western,Gampaha,Gampaha,Rice (medium grain),Retail,LKR,231.5,0.78
+2025-05-15,Western,Kalutara,Kalutara,Rice (medium grain),Retail,LKR,230.0,0.77
+2025-05-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,248.27,0.83
+2025-05-15,Western,Gampaha,Gampaha,Rice (white),Retail,LKR,240.89,0.81
+2025-05-15,Western,Kalutara,Kalutara,Rice (white),Retail,LKR,261.56,0.88
+2025-06-15,Central,Kandy,Kandy,Rice (medium grain),Retail,LKR,237.0,0.79
+2025-06-15,Central,Matale,Matale,Rice (medium grain),Retail,LKR,231.3,0.77
+2025-06-15,Central,Kandy,Kandy,Rice (white),Retail,LKR,264.8,0.88
+2025-06-15,Central,Matale,Matale,Rice (white),Retail,LKR,260.8,0.87
+2025-06-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (white),Retail,LKR,251.5,0.84
+2025-06-15,Eastern,Ampara,Ampara,Rice (medium grain),Retail,LKR,230.0,0.77
+2025-06-15,Eastern,Ampara,Dehiattakandiya,Rice (medium grain),Retail,LKR,229.67,0.76
+2025-06-15,Eastern,Batticaloa,Batticaloa,Rice (medium grain),Retail,LKR,232.9,0.77
+2025-06-15,Eastern,Trincomalee,Trincomalee,Rice (medium grain),Retail,LKR,235.0,0.78
+2025-06-15,Eastern,Ampara,Dehiattakandiya,Rice (white),Retail,LKR,265.62,0.88
+2025-06-15,Eastern,Batticaloa,Batticaloa,Rice (white),Retail,LKR,251.23,0.84
+2025-06-15,Eastern,Trincomalee,Trincomalee,Rice (white),Retail,LKR,249.0,0.83
+2025-06-15,North Central,Anuradhapura,Anuradhapura,Rice (medium grain),Retail,LKR,231.3,0.77
+2025-06-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (medium grain),Retail,LKR,230.0,0.77
+2025-06-15,North Central,Anuradhapura,Thambuttegama,Rice (medium grain),Retail,LKR,230.1,0.77
+2025-06-15,North Central,Polonnaruwa,Polonnaruwa,Rice (medium grain),Retail,LKR,230.0,0.77
+2025-06-15,North Central,Anuradhapura,Anuradhapura,Rice (white),Retail,LKR,259.5,0.86
+2025-06-15,North Central,Anuradhapura,Thambuttegama,Rice (white),Retail,LKR,259.0,0.86
+2025-06-15,North Western,Kurunegala,Kurunegala,Rice (white),Retail,LKR,245.0,0.82
+2025-06-15,Northern,Kilinochchi,Kilinochchi,Rice (medium grain),Retail,LKR,240.7,0.8
+2025-06-15,Northern,Mannar,Mannar,Rice (medium grain),Retail,LKR,237.88,0.79
+2025-06-15,Northern,Kilinochchi,Kilinochchi,Rice (white),Retail,LKR,250.9,0.83
+2025-06-15,Northern,Mannar,Mannar,Rice (white),Retail,LKR,258.52,0.86
+2025-06-15,Northern,Mullattivu,Mullativu,Rice (white),Retail,LKR,249.55,0.83
+2025-06-15,Northern,Vavuniya,Vavuniya,Rice (white),Retail,LKR,248.6,0.83
+2025-06-15,Sabaragamuwa,Kegalle,Kegalle,Rice (medium grain),Retail,LKR,230.0,0.77
+2025-06-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (medium grain),Retail,LKR,243.0,0.81
+2025-06-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,274.0,0.91
+2025-06-15,Southern,Hambantota,Tissamaharama,Rice (medium grain),Retail,LKR,235.31,0.78
+2025-06-15,Southern,Matara,Matara,Rice (medium grain),Retail,LKR,238.67,0.79
+2025-06-15,Southern,Hambantota,Tissamaharama,Rice (white),Retail,LKR,245.75,0.82
+2025-06-15,Southern,Matara,Matara,Rice (white),Retail,LKR,250.17,0.83
+2025-06-15,Uva,Badulla,Bandarawela,Rice (medium grain),Retail,LKR,233.5,0.78
+2025-06-15,Uva,Moneragala,Monaragala,Rice (medium grain),Retail,LKR,238.67,0.79
+2025-06-15,Uva,Badulla,Bandarawela,Rice (white),Retail,LKR,254.67,0.85
+2025-06-15,Uva,Badulla,Keppetipola (DEC},Rice (white),Retail,LKR,247.5,0.82
+2025-06-15,Uva,Moneragala,Dammbagalla,Rice (white),Retail,LKR,269.17,0.9
+2025-06-15,Western,Colombo,Meegoda(DEC),Rice (medium grain),Retail,LKR,230.0,0.77
+2025-06-15,Western,Gampaha,Gampaha,Rice (medium grain),Retail,LKR,232.9,0.77
+2025-06-15,Western,Colombo,Meegoda(DEC),Rice (white),Retail,LKR,245.0,0.82
+2025-06-15,Western,Kalutara,Kalutara,Rice (white),Retail,LKR,263.0,0.88
+2025-07-15,Central,Kandy,Kandy,Rice (medium grain),Retail,LKR,230.15,0.76
+2025-07-15,Central,Matale,Matale,Rice (medium grain),Retail,LKR,229.67,0.76
+2025-07-15,Central,Kandy,Kandy,Rice (white),Retail,LKR,263.0,0.87
+2025-07-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (white),Retail,LKR,255.69,0.85
+2025-07-15,Eastern,Ampara,Ampara,Rice (medium grain),Retail,LKR,230.0,0.76
+2025-07-15,Eastern,Ampara,Dehiattakandiya,Rice (medium grain),Retail,LKR,230.0,0.76
+2025-07-15,Eastern,Trincomalee,Trincomalee,Rice (medium grain),Retail,LKR,233.0,0.77
+2025-07-15,Eastern,Batticaloa,Batticaloa,Rice (white),Retail,LKR,241.0,0.8
+2025-07-15,Eastern,Trincomalee,Trincomalee,Rice (white),Retail,LKR,243.0,0.81
+2025-07-15,North Central,Anuradhapura,Anuradhapura,Rice (medium grain),Retail,LKR,230.5,0.77
+2025-07-15,North Central,Anuradhapura,Anuradhapura,Rice (white),Retail,LKR,267.25,0.89
+2025-07-15,North Central,Anuradhapura,Thambuttegama,Rice (white),Retail,LKR,268.33,0.89
+2025-07-15,North Central,Polonnaruwa,Polonnaruwa,Rice (white),Retail,LKR,257.5,0.85
+2025-07-15,North Western,Kurunegala,Kurunegala,Rice (medium grain),Retail,LKR,230.0,0.76
+2025-07-15,North Western,Kurunegala,Nikaweratiya,Rice (white),Retail,LKR,240.0,0.8
+2025-07-15,North Western,Puttalam,Puttalam,Rice (white),Retail,LKR,265.94,0.88
+2025-07-15,Northern,Jaffna,Jaffna,Rice (medium grain),Retail,LKR,240.7,0.8
+2025-07-15,Northern,Mannar,Mannar,Rice (medium grain),Retail,LKR,233.33,0.77
+2025-07-15,Northern,Jaffna,Jaffna,Rice (white),Retail,LKR,243.4,0.81
+2025-07-15,Northern,Mannar,Mannar,Rice (white),Retail,LKR,246.94,0.82
+2025-07-15,Northern,Mullattivu,Mullativu,Rice (white),Retail,LKR,246.93,0.82
+2025-07-15,Northern,Vavuniya,Vavuniya,Rice (white),Retail,LKR,244.83,0.81
+2025-07-15,Sabaragamuwa,Kegalle,Kegalle,Rice (medium grain),Retail,LKR,230.0,0.76
+2025-07-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (medium grain),Retail,LKR,227.69,0.76
+2025-07-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,271.0,0.9
+2025-07-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (white),Retail,LKR,265.0,0.88
+2025-07-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,230.0,0.76
+2025-07-15,Southern,Matara,Matara,Rice (medium grain),Retail,LKR,236.25,0.78
+2025-07-15,Southern,Galle,Galle,Rice (white),Retail,LKR,272.08,0.9
+2025-07-15,Southern,Matara,Matara,Rice (white),Retail,LKR,254.17,0.84
+2025-07-15,Uva,Badulla,Badulla,Rice (medium grain),Retail,LKR,230.0,0.76
+2025-07-15,Uva,Badulla,Bandarawela,Rice (medium grain),Retail,LKR,232.5,0.77
+2025-07-15,Uva,Moneragala,Dammbagalla,Rice (medium grain),Retail,LKR,228.95,0.76
+2025-07-15,Uva,Badulla,Bandarawela,Rice (white),Retail,LKR,258.12,0.86
+2025-07-15,Uva,Badulla,Keppetipola (DEC},Rice (white),Retail,LKR,258.12,0.86
+2025-07-15,Western,Colombo,Colombo City,Rice (medium grain),Retail,LKR,230.85,0.77
+2025-07-15,Western,Colombo,Meegoda(DEC),Rice (medium grain),Retail,LKR,230.0,0.76
+2025-07-15,Western,Gampaha,Gampaha,Rice (medium grain),Retail,LKR,230.38,0.76
+2025-07-15,Western,Kalutara,Kalutara,Rice (medium grain),Retail,LKR,229.68,0.76
+2025-07-15,Western,Gampaha,Gampaha,Rice (white),Retail,LKR,270.0,0.9
+2025-07-15,Western,Kalutara,Kalutara,Rice (white),Retail,LKR,258.44,0.86
+2025-08-15,Central,Kandy,Kandy,Rice (medium grain),Retail,LKR,229.6,0.76
+2025-08-15,Central,Matale,Matale,Rice (medium grain),Retail,LKR,229.25,0.76
+2025-08-15,Central,Nuwara Eliya,Hanguranketha,Rice (medium grain),Retail,LKR,228.0,0.76
+2025-08-15,Central,Kandy,Kandy,Rice (white),Retail,LKR,255.75,0.85
+2025-08-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (white),Retail,LKR,253.75,0.84
+2025-08-15,Eastern,Ampara,Ampara,Rice (medium grain),Retail,LKR,227.92,0.76
+2025-08-15,Eastern,Batticaloa,Batticaloa,Rice (medium grain),Retail,LKR,225.0,0.75
+2025-08-15,Eastern,Trincomalee,Trincomalee,Rice (medium grain),Retail,LKR,232.5,0.77
+2025-08-15,North Central,Anuradhapura,Anuradhapura,Rice (medium grain),Retail,LKR,230.0,0.76
+2025-08-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (medium grain),Retail,LKR,230.0,0.76
+2025-08-15,North Central,Anuradhapura,Thambuttegama,Rice (medium grain),Retail,LKR,230.0,0.76
+2025-08-15,North Central,Polonnaruwa,Polonnaruwa,Rice (medium grain),Retail,LKR,228.75,0.76
+2025-08-15,North Central,Anuradhapura,Anuradhapura,Rice (white),Retail,LKR,266.25,0.88
+2025-08-15,North Central,Anuradhapura,Thambuttegama,Rice (white),Retail,LKR,269.17,0.89
+2025-08-15,North Central,Polonnaruwa,Polonnaruwa,Rice (white),Retail,LKR,249.58,0.83
+2025-08-15,North Western,Kurunegala,Kurunegala,Rice (medium grain),Retail,LKR,229.58,0.76
+2025-08-15,North Western,Kurunegala,Nikaweratiya,Rice (medium grain),Retail,LKR,232.0,0.77
+2025-08-15,Northern,Jaffna,Jaffna,Rice (medium grain),Retail,LKR,239.78,0.8
+2025-08-15,Northern,Mannar,Mannar,Rice (medium grain),Retail,LKR,218.5,0.73
+2025-08-15,Northern,Jaffna,Jaffna,Rice (white),Retail,LKR,243.27,0.81
+2025-08-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (medium grain),Retail,LKR,232.95,0.77
+2025-08-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,269.0,0.89
+2025-08-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (white),Retail,LKR,241.56,0.8
+2025-08-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (white),Retail,LKR,262.75,0.87
+2025-08-15,Southern,Matara,Matara,Rice (medium grain),Retail,LKR,233.0,0.77
+2025-08-15,Southern,Galle,Galle,Rice (white),Retail,LKR,260.62,0.87
+2025-08-15,Southern,Matara,Matara,Rice (white),Retail,LKR,253.33,0.84
+2025-08-15,Uva,Badulla,Bandarawela,Rice (medium grain),Retail,LKR,230.0,0.76
+2025-08-15,Uva,Badulla,Keppetipola (DEC},Rice (medium grain),Retail,LKR,227.5,0.76
+2025-08-15,Uva,Moneragala,Monaragala,Rice (medium grain),Retail,LKR,230.0,0.76
+2025-08-15,Uva,Badulla,Bandarawela,Rice (white),Retail,LKR,260.0,0.86
+2025-08-15,Uva,Badulla,Keppetipola (DEC},Rice (white),Retail,LKR,254.17,0.84
+2025-08-15,Uva,Moneragala,Dammbagalla,Rice (white),Retail,LKR,266.69,0.89
+2025-08-15,Western,Colombo,Colombo City,Rice (medium grain),Retail,LKR,231.42,0.77
+2025-08-15,Western,Gampaha,Gampaha,Rice (medium grain),Retail,LKR,229.58,0.76
+2025-08-15,Western,Colombo,Colombo City,Rice (white),Retail,LKR,244.95,0.81
+2025-08-15,Western,Kalutara,Kalutara,Rice (white),Retail,LKR,254.17,0.84
+2025-09-15,Central,Kandy,Kandy,Rice (medium grain),Retail,LKR,229.84,0.76
+2025-09-15,Central,Matale,Matale,Rice (medium grain),Retail,LKR,227.49,0.75
+2025-09-15,Central,Nuwara Eliya,Hanguranketha,Rice (medium grain),Retail,LKR,226.62,0.75
+2025-09-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (medium grain),Retail,LKR,227.75,0.75
+2025-09-15,Central,Nuwara Eliya,Nuwara Eliya,Rice (white),Retail,LKR,253.75,0.84
+2025-09-15,Eastern,Ampara,Dehiattakandiya,Rice (medium grain),Retail,LKR,228.87,0.76
+2025-09-15,Eastern,Ampara,Ampara,Rice (white),Retail,LKR,240.0,0.79
+2025-09-15,Eastern,Ampara,Dehiattakandiya,Rice (white),Retail,LKR,268.5,0.89
+2025-09-15,Eastern,Batticaloa,Batticaloa,Rice (white),Retail,LKR,252.25,0.84
+2025-09-15,Eastern,Trincomalee,Trincomalee,Rice (white),Retail,LKR,242.5,0.8
+2025-09-15,North Central,Anuradhapura,Anuradhapura,Rice (medium grain),Retail,LKR,230.0,0.76
+2025-09-15,North Central,Anuradhapura,Galenbindunuwewa,Rice (medium grain),Retail,LKR,227.4,0.75
+2025-09-15,North Central,Anuradhapura,Thambuttegama,Rice (white),Retail,LKR,270.0,0.89
+2025-09-15,North Central,Polonnaruwa,Polonnaruwa,Rice (white),Retail,LKR,256.25,0.85
+2025-09-15,North Western,Kurunegala,Nikaweratiya,Rice (white),Retail,LKR,268.15,0.89
+2025-09-15,Northern,Jaffna,Jaffna,Rice (medium grain),Retail,LKR,230.64,0.76
+2025-09-15,Northern,Kilinochchi,Kilinochchi,Rice (medium grain),Retail,LKR,231.52,0.77
+2025-09-15,Northern,Vavuniya,Vavuniya,Rice (medium grain),Retail,LKR,230.04,0.76
+2025-09-15,Northern,Jaffna,Jaffna,Rice (white),Retail,LKR,243.5,0.81
+2025-09-15,Northern,Kilinochchi,Kilinochchi,Rice (white),Retail,LKR,247.53,0.82
+2025-09-15,Northern,Mannar,Mannar,Rice (white),Retail,LKR,242.13,0.8
+2025-09-15,Sabaragamuwa,Kegalle,Kegalle,Rice (medium grain),Retail,LKR,230.0,0.76
+2025-09-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (medium grain),Retail,LKR,228.75,0.76
+2025-09-15,Sabaragamuwa,Kegalle,Kegalle,Rice (white),Retail,LKR,269.6,0.89
+2025-09-15,Sabaragamuwa,Ratnapura,Embilipitiya,Rice (white),Retail,LKR,240.0,0.79
+2025-09-15,Sabaragamuwa,Ratnapura,Rathnapura,Rice (white),Retail,LKR,263.2,0.87
+2025-09-15,Southern,Galle,Galle,Rice (medium grain),Retail,LKR,230.0,0.76
+2025-09-15,Southern,Hambantota,Tissamaharama,Rice (medium grain),Retail,LKR,228.65,0.76
+2025-09-15,Southern,Matara,Matara,Rice (medium grain),Retail,LKR,230.3,0.76
+2025-09-15,Southern,Hambantota,Hambantota,Rice (white),Retail,LKR,270.0,0.89
+2025-09-15,Uva,Badulla,Badulla,Rice (medium grain),Retail,LKR,230.0,0.76
+2025-09-15,Uva,Badulla,Bandarawela,Rice (medium grain),Retail,LKR,230.0,0.76
+2025-09-15,Uva,Moneragala,Dammbagalla,Rice (medium grain),Retail,LKR,228.64,0.76
+2025-09-15,Uva,Moneragala,Monaragala,Rice (medium grain),Retail,LKR,230.0,0.76
+2025-09-15,Uva,Badulla,Bandarawela,Rice (white),Retail,LKR,263.33,0.87
+2025-09-15,Uva,Moneragala,Dammbagalla,Rice (white),Retail,LKR,270.2,0.89
+2025-09-15,Western,Colombo,Meegoda(DEC),Rice (medium grain),Retail,LKR,229.25,0.76
+2025-09-15,Western,Gampaha,Gampaha,Rice (medium grain),Retail,LKR,228.33,0.76
+2025-09-15,Western,Colombo,Meegoda(DEC),Rice (white),Retail,LKR,240.0,0.79
+2025-09-15,Western,Kalutara,Kalutara,Rice (white),Retail,LKR,255.33,0.85
