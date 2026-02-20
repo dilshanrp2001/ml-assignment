@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    image: rice-price-api
+    container_name: rice-price-api
+    ports:
+      - "8000:8000"
+    networks:
+      - rice-net
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile.app
+    image: rice-price-app
+    container_name: rice-price-app
+    ports:
+      - "8501:8501"
+    environment:
+      - API_URL=http://api:8000
+    depends_on:
+      - api
+    networks:
+      - rice-net
+
+networks:
+  rice-net:
+    driver: bridge

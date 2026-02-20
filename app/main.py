@@ -112,10 +112,10 @@ with st.sidebar:
 
 # ── Route to pages ───────────────────────────────────────────────────────────
 if   "Overview"       in page:
-    from app._views import overview;       overview.show()
+    from _views import overview;       overview.show()
 elif "Data Explorer"  in page:
-    from app._views import data_explorer;  data_explorer.show()
+    from _views import data_explorer;  data_explorer.show()
 elif "Predict"        in page:
-    from app._views import predict;        predict.show()
+    from _views import predict;        predict.show()
 elif "Explainability" in page:
-    from app._views import explainability; explainability.show()
+    from _views import explainability; explainability.show()

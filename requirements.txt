@@ -1,19 +1,17 @@
-# Core data science
-pandas>=1.5.0
-numpy>=1.23.0
-scikit-learn>=1.2.0
-xgboost>=1.7.0
+# ML & Data
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+shap
 
-# Explainability (XAI)
-shap>=0.42.0
-
-# Visualization
-matplotlib>=3.6.0
-seaborn>=0.12.0
-
-# HTTP download
-requests>=2.28.0
-
-# Jupyter (optional, for notebooks)
-jupyter>=1.0.0
-ipykernel>=6.0.0
+# App & API
+streamlit
+plotly
+fastapi
+uvicorn
+requests
+pydantic
+Pillow

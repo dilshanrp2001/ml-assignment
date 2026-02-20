@@ -39,19 +39,6 @@ def show():
         </p>
         """, unsafe_allow_html=True)
 
-    # ── Why XAI? ─────────────────────────────────────────────────────────────
-    st.markdown("""
-    <div style='background:rgba(108,99,255,0.08);border-left:3px solid #6c63ff;
-                border-radius:8px;padding:1rem 1.2rem;margin-bottom:1.2rem;'>
-        <b style='color:#a89bff;'>What is XAI?</b><br>
-        <span style='color:#8888aa;font-size:.9rem;'>
-        Explainable AI (XAI) techniques help us understand <i>why</i> a model makes a particular
-        prediction — not just <i>what</i> it predicts. This is critical for trust, validation,
-        and assignment marks!
-        </span>
-    </div>
-    """, unsafe_allow_html=True)
-
     tab1, tab2, tab3, tab4 = st.tabs([
         "📊 SHAP Summary",
         "📈 SHAP Dependence",
